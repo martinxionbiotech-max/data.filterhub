@@ -1,16 +1,19 @@
 # F5 / MERV 5 Synthetic Fiber Ceiling Air Filter Roll
 
-<!-- AUTO-GENERATED: edit the dataset (data/sample-products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
+<!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
-- **SKU**：`AIRY-F5-CEILING`
-- **品类**：[Air Filters (Engine Intake)](air-filter.md)
+- **SKU**：`AIRY-CEILING`
+- **品类**：[Filter Media](filter-media.md)
 - **来源站**：airyfilter.com
 - **来源 URL**：https://airyfilter.com/product/ceiling-filter-roof-filter
 - **数据状态**：catalog-confirmed
 
+- **子类**：`synthetic_fiber`
+- **效率等级**：`F5 / MERV 5`
+
 ## 描述
 
-Needle-punched synthetic fiber filter media roll for ceiling/HVAC pre-filtration.
+Needle-punched synthetic fiber ceiling/roof filter media roll.
 
 ## OE 交叉参考
 
@@ -20,7 +23,7 @@ Needle-punched synthetic fiber filter media roll for ceiling/HVAC pre-filtration
 
 | 参数 | 值 | 单位 | 状态 |
 |---|---|---|---|
-| `efficiency_class` | `F5 / MERV 5` | `pending` | catalog-confirmed |
+| `efficiency_class` | `F5 / MERV 5` | `pending` | verified |
 
 ## 材质 (material)
 

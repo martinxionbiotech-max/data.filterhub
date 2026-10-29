@@ -1,6 +1,6 @@
-# Carbon V-bank Filter
+# Carbon V-bank Filter 592×592×292mm
 
-<!-- AUTO-GENERATED: edit the dataset (data/sample-products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
+<!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
 - **SKU**：`EAWAY-CARBON-VBANK`
 - **品类**：[Activated Carbon Filters](activated-carbon-filter.md)
@@ -8,9 +8,11 @@
 - **来源 URL**：https://www.cleanroom-ffu.com/carbon-v-bank/
 - **数据状态**：catalog-confirmed
 
+- **子类**：`v_bank`
+
 ## 描述
 
-Activated carbon V-bank filter for odor removal.
+Activated carbon V-bank filter for odour removal.
 
 ## OE 交叉参考
 
@@ -18,7 +20,9 @@ Activated carbon V-bank filter for odor removal.
 
 ## 技术参数 (spec)
 
-`pending`
+| 参数 | 值 | 单位 | 状态 |
+|---|---|---|---|
+| `dimension` | `592×592×292 / 592×287×292` | `mm` | verified |
 
 ## 材质 (material)
 

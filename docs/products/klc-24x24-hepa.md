@@ -1,6 +1,6 @@
 # 24x24 HEPA Filter
 
-<!-- AUTO-GENERATED: edit the dataset (data/sample-products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
+<!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
 - **SKU**：`KLC-24X24-HEPA`
 - **品类**：[HEPA / ULPA Filters](hepa-filter.md)
@@ -8,9 +8,11 @@
 - **来源 URL**：https://www.klcintl.com/24x24-hepa-filter
 - **数据状态**：catalog-confirmed
 
+- **效率等级**：`H13/H14`
+
 ## 描述
 
-China 24x24 HEPA filter (mini-pleat).
+Mini-pleat HEPA filter, 24x24 inch.
 
 ## OE 交叉参考
 
@@ -20,7 +22,7 @@ China 24x24 HEPA filter (mini-pleat).
 
 | 参数 | 值 | 单位 | 状态 |
 |---|---|---|---|
-| `dimension` | `24x24 (inch)` | `inch` | catalog-confirmed |
+| `dimension` | `24×24` | `inch` | verified |
 
 ## 材质 (material)
 

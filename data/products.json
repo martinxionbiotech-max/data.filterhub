@@ -1,0 +1,4189 @@
+{
+  "_meta": {
+    "description": "FilterHub 结构化 SKU 数据库 —— 从 5 站深度抓取（2026-10-29）提取的真实产品记录。无据字段保持空值并标 pending，不虚构。",
+    "crawl_date": "2026-10-29",
+    "sources": [
+      "https://www.hbxueyuan.com/",
+      "https://airyfilter.com/",
+      "https://www.klcintl.com/",
+      "https://www.yitong-filter.com/",
+      "https://www.cleanroom-ffu.com/"
+    ],
+    "data_status_system": [
+      "verified",
+      "catalog-confirmed",
+      "reference",
+      "pending"
+    ],
+    "categories": {
+      "air_filter": {
+        "slug": "air-filters",
+        "name": "Air Filters (Engine Intake)",
+        "nameZh": "空气滤清器"
+      },
+      "cabin_filter": {
+        "slug": "cabin-filters",
+        "name": "Cabin Air Filters",
+        "nameZh": "空调滤清器"
+      },
+      "oil_filter": {
+        "slug": "oil-filters",
+        "name": "Oil Filters",
+        "nameZh": "机油滤清器"
+      },
+      "fuel_filter": {
+        "slug": "fuel-filters",
+        "name": "Fuel Filters",
+        "nameZh": "燃油滤清器"
+      },
+      "hydraulic_filter": {
+        "slug": "hydraulic-filters",
+        "name": "Hydraulic Filters",
+        "nameZh": "液压滤清器"
+      },
+      "transmission_filter": {
+        "slug": "transmission-filters",
+        "name": "Transmission Filters",
+        "nameZh": "变速箱滤清器"
+      },
+      "hvac_filter": {
+        "slug": "hvac-filters",
+        "name": "HVAC Filters",
+        "nameZh": "HVAC 过滤器"
+      },
+      "hepa_filter": {
+        "slug": "hepa-filters",
+        "name": "HEPA / ULPA Filters",
+        "nameZh": "HEPA/ULPA 过滤器"
+      },
+      "activated_carbon_filter": {
+        "slug": "activated-carbon",
+        "name": "Activated Carbon Filters",
+        "nameZh": "活性炭过滤器"
+      },
+      "pocket_filter": {
+        "slug": "pocket-filters",
+        "name": "Pocket / Bag Filters",
+        "nameZh": "袋式过滤器"
+      },
+      "filter_media": {
+        "slug": "filter-media",
+        "name": "Filter Media",
+        "nameZh": "滤材介质"
+      },
+      "liquid_filter": {
+        "slug": "liquid-cartridges",
+        "name": "Liquid Filter Cartridges",
+        "nameZh": "液体过滤滤芯"
+      },
+      "cleanroom_equipment": {
+        "slug": "cleanroom-equipment",
+        "name": "Cleanroom Equipment",
+        "nameZh": "洁净室设备"
+      }
+    },
+    "note": "category 映射 13 主品类（Phase 2 品类树）；subcategory 承载更细粒度（metal/membrane/ffu/v-bank/powercore 等）。efficiency_class 仅在来源目录标注时填充。"
+  },
+  "products": [
+    {
+      "sku": "42N-62-15470",
+      "name": "Air Filter 42N-62-15470 (Komatsu Loader)",
+      "category": "air_filter",
+      "company": "hbxueyuan.com",
+      "description": "Air filter fits for Komatsu loader.",
+      "source_url": "https://www.hbxueyuan.com/product-42n-62-15470-filter-fits-for-komatsu-loader.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "42N-62-15470",
+          "brand": "Komatsu",
+          "equipment_type": "装载机",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "heavy_machinery",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      }
+    },
+    {
+      "sku": "P778989",
+      "name": "Air Compressor Air Filter P778989 (Mitsubishi L200/Storm)",
+      "category": "air_filter",
+      "company": "hbxueyuan.com",
+      "description": "Air compressor air filter for Mitsubishi L200/Storm.",
+      "source_url": "https://www.hbxueyuan.com/product-air-compressor-air-filter-p778989-for-mitsubishi-l200-storm.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "P778989",
+          "brand": "Mitsubishi",
+          "equipment_type": "空压机",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "air_compressor",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      },
+      "subcategory": "air_compressor"
+    },
+    {
+      "sku": "P822768",
+      "name": "Heavy Duty Machinery Air Filter P822768/P822769 (Case/Cat/Hitachi)",
+      "category": "air_filter",
+      "company": "hbxueyuan.com",
+      "description": "Heavy duty machinery air filter for Case, Cat and Hitachi.",
+      "source_url": "https://www.hbxueyuan.com/product-heavy-duty-machinery-air-filter-p822768-p822769-for-case-cat-hitachi.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "P822768",
+          "brand": "Case/Caterpillar/Hitachi",
+          "equipment_type": "重型机械",
+          "data_status": "catalog-confirmed"
+        },
+        {
+          "oe_number": "P822769",
+          "brand": "Case/Caterpillar/Hitachi",
+          "equipment_type": "重型机械",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "heavy_machinery",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      },
+      "subcategory": "heavy_duty"
+    },
+    {
+      "sku": "1542743",
+      "name": "Engine Parts Air Filter 1542743/1660619/475388 (Volvo)",
+      "category": "air_filter",
+      "company": "hbxueyuan.com",
+      "description": "Engine parts air filter for Volvo.",
+      "source_url": "https://www.hbxueyuan.com/product-engine-parts-air-filter-1542743-1660619-6-475388-1542743-8-475386-for-volvo.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "1542743",
+          "brand": "Volvo",
+          "equipment_type": "卡车",
+          "data_status": "catalog-confirmed"
+        },
+        {
+          "oe_number": "1660619",
+          "brand": "Volvo",
+          "equipment_type": "卡车",
+          "data_status": "catalog-confirmed"
+        },
+        {
+          "oe_number": "475388",
+          "brand": "Volvo",
+          "equipment_type": "卡车",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "automotive",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      },
+      "subcategory": "heavy_duty"
+    },
+    {
+      "sku": "626095",
+      "name": "Air Compressor Filter 626095/P626096/P626104",
+      "category": "air_filter",
+      "company": "hbxueyuan.com",
+      "description": "Air compressor filter element.",
+      "source_url": "https://www.hbxueyuan.com/product-626095-p626096-p626104-air-compressors-filter.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "626095",
+          "brand": null,
+          "equipment_type": null,
+          "data_status": "catalog-confirmed"
+        },
+        {
+          "oe_number": "P626096",
+          "brand": null,
+          "equipment_type": null,
+          "data_status": "catalog-confirmed"
+        },
+        {
+          "oe_number": "P626104",
+          "brand": null,
+          "equipment_type": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "air_compressor",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      },
+      "subcategory": "air_compressor"
+    },
+    {
+      "sku": "178017810",
+      "name": "Engine Powercore Air Filter 178017810/17801-7810 (Hino Trucks)",
+      "category": "air_filter",
+      "company": "hbxueyuan.com",
+      "description": "Engine Powercore air filter for Hino trucks.",
+      "source_url": "https://www.hbxueyuan.com/product-powercore-air-filter-178017810-17801-7810-for-hino-trucks.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "178017810",
+          "brand": "Hino",
+          "equipment_type": "卡车",
+          "data_status": "catalog-confirmed"
+        },
+        {
+          "oe_number": "17801-7810",
+          "brand": "Hino",
+          "equipment_type": "卡车",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "automotive",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      },
+      "subcategory": "powercore"
+    },
+    {
+      "sku": "8-98260-8340",
+      "name": "Powercore Air Filter 8-98260-8340/8982608340 (Isuzu Trucks)",
+      "category": "air_filter",
+      "company": "hbxueyuan.com",
+      "description": "Powercore air filter for Isuzu trucks.",
+      "source_url": "https://www.hbxueyuan.com/product-powercore-air-filter-8-98260-8340-8982608340-for-isuzu-trucks.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "8-98260-8340",
+          "brand": "Isuzu",
+          "equipment_type": "卡车",
+          "data_status": "catalog-confirmed"
+        },
+        {
+          "oe_number": "8982608340",
+          "brand": "Isuzu",
+          "equipment_type": "卡车",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "automotive",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      },
+      "subcategory": "powercore"
+    },
+    {
+      "sku": "P608677",
+      "name": "Primary Obround Powercore Air Filter P608677 (Mack/Volvo/Wirtgen)",
+      "category": "air_filter",
+      "company": "hbxueyuan.com",
+      "description": "Primary obround Powercore air filter replacing Mack 57MD321M.",
+      "source_url": "https://www.hbxueyuan.com/product-p608677-air-filter-primary-obround-powercore-replaces-mack-57md321m.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "P608677",
+          "brand": "Mack/Volvo/Wirtgen",
+          "equipment_type": "卡车/机械",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "heavy_machinery",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      },
+      "subcategory": "powercore"
+    },
+    {
+      "sku": "P623400",
+      "name": "Powercore Truck Air Filter P623400/PA32001/P635170",
+      "category": "air_filter",
+      "company": "hbxueyuan.com",
+      "description": "Powercore truck air filter.",
+      "source_url": "https://www.hbxueyuan.com/product-powercore-truck-air-filter-p623400-pa32001-p635170.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "P623400",
+          "brand": null,
+          "equipment_type": null,
+          "data_status": "catalog-confirmed"
+        },
+        {
+          "oe_number": "PA32001",
+          "brand": null,
+          "equipment_type": null,
+          "data_status": "catalog-confirmed"
+        },
+        {
+          "oe_number": "P635170",
+          "brand": null,
+          "equipment_type": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "automotive",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      },
+      "subcategory": "powercore"
+    },
+    {
+      "sku": "2116040258",
+      "name": "Tractor Honeycomb Air Filter 2116040258",
+      "category": "air_filter",
+      "company": "hbxueyuan.com",
+      "description": "Tractor engine honeycomb air filter.",
+      "source_url": "https://www.hbxueyuan.com/product-2116040258-tractors-engine-parts-honeycomb-air-filter.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "2116040258",
+          "brand": null,
+          "equipment_type": "拖拉机",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "agricultural",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      },
+      "subcategory": "round"
+    },
+    {
+      "sku": "AF55014",
+      "name": "Air Filter AF55014/AF55308 (Tractor/Combine/ATV)",
+      "category": "air_filter",
+      "company": "hbxueyuan.com",
+      "description": "Air filter for tractors, combines and ATV, replacing 222035.",
+      "source_url": "https://www.hbxueyuan.com/product-af55014-af55308-for-tractors-combines-atv-replace-222035.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "AF55014",
+          "brand": null,
+          "equipment_type": "拖拉机/联合收割机/ATV",
+          "data_status": "catalog-confirmed"
+        },
+        {
+          "oe_number": "AF55308",
+          "brand": null,
+          "equipment_type": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "agricultural",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      },
+      "subcategory": "round"
+    },
+    {
+      "sku": "P643118",
+      "name": "Powercore Compressed Air Filter P643118/P318005/RE288552",
+      "category": "air_filter",
+      "company": "hbxueyuan.com",
+      "description": "Powercore honeycomb compressed air filter.",
+      "source_url": "https://www.hbxueyuan.com/product-powercore-honeycomb-compressed-air-filter-p643118-p318005-re288552.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "P643118",
+          "brand": null,
+          "equipment_type": null,
+          "data_status": "catalog-confirmed"
+        },
+        {
+          "oe_number": "P318005",
+          "brand": null,
+          "equipment_type": null,
+          "data_status": "catalog-confirmed"
+        },
+        {
+          "oe_number": "RE288552",
+          "brand": null,
+          "equipment_type": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "air_compressor",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      },
+      "subcategory": "air_compressor"
+    },
+    {
+      "sku": "72880-FG000",
+      "name": "Cabin Air Filter 72880-FG000 (Subaru Forester/WRX/Impreza)",
+      "category": "cabin_filter",
+      "company": "hbxueyuan.com",
+      "description": "Cabin air filter for Subaru Forester, WRX, Impreza and Crosstrek 2016-17.",
+      "source_url": "https://www.hbxueyuan.com/product-cabin-air-filter-72880-fg000-for-forester-subaru-wrx-impreza-wrx-sti-crosstrek-2016-17.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "72880-FG000",
+          "brand": "Subaru",
+          "equipment_type": "乘用车",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "automotive",
+          "medium": "cabin",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      }
+    },
+    {
+      "sku": "500-0957",
+      "name": "Caterpillar Cabin Air Filter 500-0957 (CAT 5000957)",
+      "category": "cabin_filter",
+      "company": "hbxueyuan.com",
+      "description": "Caterpillar cabin air filter CAT 5000957.",
+      "source_url": "https://www.hbxueyuan.com/product-caterpillar-500-0957-cabin-air-filter-cat-5000957.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "500-0957",
+          "brand": "Caterpillar",
+          "equipment_type": "工程机械",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "heavy_machinery",
+          "medium": "cabin",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      }
+    },
+    {
+      "sku": "580-5439",
+      "name": "Caterpillar Cabin Air Filter 580-5439",
+      "category": "cabin_filter",
+      "company": "hbxueyuan.com",
+      "description": "Caterpillar cabin air filter.",
+      "source_url": "https://www.hbxueyuan.com/product-caterpillar-cat-580-5439-cabin-air-filter.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "580-5439",
+          "brand": "Caterpillar",
+          "equipment_type": "工程机械",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "heavy_machinery",
+          "medium": "cabin",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      }
+    },
+    {
+      "sku": "90915-YZZA3",
+      "name": "Cabin Air Filter 90915-YZZA3 (Lexus IS300/RX300, Toyota Highlander)",
+      "category": "cabin_filter",
+      "company": "hbxueyuan.com",
+      "description": "Cabin air filter for Lexus IS300, RX300 (99-03) and Toyota Highlander.",
+      "source_url": "https://www.hbxueyuan.com/product-cabin-air-filter-for-lexus-is300-rx300-99-03-toyota-highlander.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "90915-YZZA3",
+          "brand": "Lexus/Toyota",
+          "equipment_type": "乘用车",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "automotive",
+          "medium": "cabin",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      }
+    },
+    {
+      "sku": "G92DH42010",
+      "name": "Cabin Air Filter G92DH42010 (Toyota RAV4)",
+      "category": "cabin_filter",
+      "company": "hbxueyuan.com",
+      "description": "Cabin air condition filter for Toyota RAV4.",
+      "source_url": "https://www.hbxueyuan.com/product-cabin-air-condition-filter-for-toyota-rav4-g92dh42010-g92dh-42010.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "G92DH42010",
+          "brand": "Toyota",
+          "equipment_type": "乘用车",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "automotive",
+          "medium": "cabin",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      }
+    },
+    {
+      "sku": "88880-20110",
+      "name": "Interior Air Filter 88880-20110 (Toyota Avensis)",
+      "category": "cabin_filter",
+      "company": "hbxueyuan.com",
+      "description": "Interior air filter for Toyota Avensis estate/saloon.",
+      "source_url": "https://www.hbxueyuan.com/product-filter-set-interior-air-for-toyota-avensis-estate-saloon-88880-20110.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "88880-20110",
+          "brand": "Toyota",
+          "equipment_type": "乘用车",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "automotive",
+          "medium": "cabin",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      }
+    },
+    {
+      "sku": "7803A112",
+      "name": "Cabin Air Filter 7803A112 (Mitsubishi L200/Fiat Fullback)",
+      "category": "cabin_filter",
+      "company": "hbxueyuan.com",
+      "description": "Cabin air filter for Mitsubishi L200/Triton MQ and Fiat Fullback 2.4 diesel 2015-2018.",
+      "source_url": "https://www.hbxueyuan.com/product-air-cabin-filter-genuine-fits-mitsubishi-l200-triton-mq-2-4-diesel-2015---2018.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "7803A112",
+          "brand": "Mitsubishi/Fiat",
+          "equipment_type": "皮卡",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "automotive",
+          "medium": "cabin",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      }
+    },
+    {
+      "sku": "7701059997",
+      "name": "Interior Air Filter 7701059997 (Dacia/Lada/Nissan/Renault)",
+      "category": "cabin_filter",
+      "company": "hbxueyuan.com",
+      "description": "Interior air filter for Dacia Duster, Lada, Nissan and Renault 02-18.",
+      "source_url": "https://www.hbxueyuan.com/product-interior-air-filter-for-dacia-duster-lada-nissan-renault-02-18.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "7701059997",
+          "brand": "Renault/Dacia",
+          "equipment_type": "乘用车",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "automotive",
+          "medium": "cabin",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      }
+    },
+    {
+      "sku": "23401-1441",
+      "name": "Fuel Filter 23401-1441",
+      "category": "fuel_filter",
+      "company": "hbxueyuan.com",
+      "description": "High-performance fuel filter for heavy-duty diesel trucks.",
+      "source_url": "https://www.hbxueyuan.com/product-fuel-filter-23401-1441.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "23401-1441",
+          "brand": null,
+          "equipment_type": "重型柴油卡车",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "heavy_machinery",
+          "medium": "fuel",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      }
+    },
+    {
+      "sku": "23401-1220",
+      "name": "Fuel Filter 23401-1220",
+      "category": "fuel_filter",
+      "company": "hbxueyuan.com",
+      "description": "Durable, high-precision diesel fuel filter.",
+      "source_url": "https://www.hbxueyuan.com/product-fuel-filter-23401-1220.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "23401-1220",
+          "brand": null,
+          "equipment_type": "柴油车",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "automotive",
+          "medium": "fuel",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      }
+    },
+    {
+      "sku": "8159975",
+      "name": "Fuel Filter 8159975",
+      "category": "fuel_filter",
+      "company": "hbxueyuan.com",
+      "description": "High-performance replacement fuel filter for diesel engines.",
+      "source_url": "https://www.hbxueyuan.com/product-fuelfilter8159975.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "8159975",
+          "brand": null,
+          "equipment_type": "柴油发动机",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "automotive",
+          "medium": "fuel",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      }
+    },
+    {
+      "sku": "2169185",
+      "name": "Fuel Filter 2169185",
+      "category": "fuel_filter",
+      "company": "hbxueyuan.com",
+      "description": "Durable, high-precision fuel filter for heavy trucks.",
+      "source_url": "https://www.hbxueyuan.com/product-fuel-filter-2169185.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "2169185",
+          "brand": null,
+          "equipment_type": "重型卡车",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "heavy_machinery",
+          "medium": "fuel",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      }
+    },
+    {
+      "sku": "0007733150",
+      "name": "Fuel Filter 0007733150",
+      "category": "fuel_filter",
+      "company": "hbxueyuan.com",
+      "description": "Durable, high-performance diesel fuel filter.",
+      "source_url": "https://www.hbxueyuan.com/product-fuel-filter-0007733150.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "0007733150",
+          "brand": null,
+          "equipment_type": "柴油车",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "automotive",
+          "medium": "fuel",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      }
+    },
+    {
+      "sku": "VG1540080311",
+      "name": "Fuel Filter VG1540080311",
+      "category": "fuel_filter",
+      "company": "hbxueyuan.com",
+      "description": "Fuel filter for heavy trucks / commercial vehicles.",
+      "source_url": "https://www.hbxueyuan.com/product-fuel-filter-vg1540080311.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "VG1540080311",
+          "brand": null,
+          "equipment_type": "重型卡车/商用车",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "heavy_machinery",
+          "medium": "fuel",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      }
+    },
+    {
+      "sku": "FS19920",
+      "name": "Fuel Filter FS19920 (Water Separation)",
+      "category": "fuel_filter",
+      "company": "hbxueyuan.com",
+      "description": "Heavy-duty fuel filter with water separation and high-efficiency design.",
+      "source_url": "https://www.hbxueyuan.com/product-fuel-filter-fs19920.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "FS19920",
+          "brand": null,
+          "equipment_type": "柴油车",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "automotive",
+          "medium": "fuel",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      }
+    },
+    {
+      "sku": "PP879",
+      "name": "Fuel Filter PP879",
+      "category": "fuel_filter",
+      "company": "hbxueyuan.com",
+      "description": "Durable diesel fuel filter for heavy-duty vehicles.",
+      "source_url": "https://www.hbxueyuan.com/product-fuel-filter-pp879.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "PP879",
+          "brand": null,
+          "equipment_type": "重型车",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "heavy_machinery",
+          "medium": "fuel",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      }
+    },
+    {
+      "sku": "35330-60070",
+      "name": "Transmission Filter 35330-60070",
+      "category": "transmission_filter",
+      "company": "hbxueyuan.com",
+      "description": "High-precision transmission filter.",
+      "source_url": "https://www.hbxueyuan.com/product-transmission-filter-35330-60070.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "35330-60070",
+          "brand": null,
+          "equipment_type": "变速箱",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "automotive",
+          "medium": "oil",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      }
+    },
+    {
+      "sku": "35303-B1010",
+      "name": "Transmission Filter 35303-B1010",
+      "category": "transmission_filter",
+      "company": "hbxueyuan.com",
+      "description": "Premium transmission filter for gearbox protection.",
+      "source_url": "https://www.hbxueyuan.com/product-transmission-filter-35303-b1010.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "35303-B1010",
+          "brand": null,
+          "equipment_type": "变速箱",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "automotive",
+          "medium": "oil",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      }
+    },
+    {
+      "sku": "31728-3JX0C",
+      "name": "Transmission Filter 31728-3JX0C",
+      "category": "transmission_filter",
+      "company": "hbxueyuan.com",
+      "description": "High-performance transmission filter.",
+      "source_url": "https://www.hbxueyuan.com/product-transmission-filter-31728-3jx0c.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "31728-3JX0C",
+          "brand": null,
+          "equipment_type": "变速箱",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "automotive",
+          "medium": "oil",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      }
+    },
+    {
+      "sku": "25420-PR0-030",
+      "name": "Transmission Filter 25420-PR0-030 (Honda)",
+      "category": "transmission_filter",
+      "company": "hbxueyuan.com",
+      "description": "Transmission filter for Honda.",
+      "source_url": "https://www.hbxueyuan.com/product-transmission-filter-25420-pr0-030.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "25420-PR0-030",
+          "brand": "Honda",
+          "equipment_type": "变速箱",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "automotive",
+          "medium": "oil",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      }
+    },
+    {
+      "sku": "25420-P7W-003",
+      "name": "Transmission Filter 25420-P7W-003 (Honda/Acura)",
+      "category": "transmission_filter",
+      "company": "hbxueyuan.com",
+      "description": "High-quality transmission filter for Honda/Acura.",
+      "source_url": "https://www.hbxueyuan.com/product-transmission-filter-25420-p7w-003.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "25420-P7W-003",
+          "brand": "Honda/Acura",
+          "equipment_type": "变速箱",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "automotive",
+          "medium": "oil",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      }
+    },
+    {
+      "sku": "25420-PW4-010",
+      "name": "Transmission Filter 25420-PW4-010 (Honda)",
+      "category": "transmission_filter",
+      "company": "hbxueyuan.com",
+      "description": "High-quality transmission filter for Honda.",
+      "source_url": "https://www.hbxueyuan.com/product-transmission-filter-25420-pw4-010.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "25420-PW4-010",
+          "brand": "Honda",
+          "equipment_type": "变速箱",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "automotive",
+          "medium": "oil",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      }
+    },
+    {
+      "sku": "31728-AA000",
+      "name": "Transmission Filter 31728-AA000 (Subaru)",
+      "category": "transmission_filter",
+      "company": "hbxueyuan.com",
+      "description": "High-quality transmission filter for Subaru.",
+      "source_url": "https://www.hbxueyuan.com/product-transmission-filter-31728-aa000.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "31728-AA000",
+          "brand": "Subaru",
+          "equipment_type": "变速箱",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "automotive",
+          "medium": "oil",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      }
+    },
+    {
+      "sku": "8973310630",
+      "name": "Transmission Filter 8973310630 (Isuzu)",
+      "category": "transmission_filter",
+      "company": "hbxueyuan.com",
+      "description": "High-quality transmission filter for Isuzu.",
+      "source_url": "https://www.hbxueyuan.com/product-transmission-filter-8973310630.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "8973310630",
+          "brand": "Isuzu",
+          "equipment_type": "变速箱",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "automotive",
+          "medium": "oil",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      }
+    },
+    {
+      "sku": "15208-AD200",
+      "name": "Oil Filter 15208-AD200",
+      "category": "oil_filter",
+      "company": "hbxueyuan.com",
+      "description": "Engine oil filter.",
+      "source_url": "https://www.hbxueyuan.com/product-15208-ad200.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "15208-AD200",
+          "brand": null,
+          "equipment_type": "乘用车",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "automotive",
+          "medium": "oil",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      }
+    },
+    {
+      "sku": "1S7J-6744-BA",
+      "name": "Oil Filter 1S7J-6744-BA",
+      "category": "oil_filter",
+      "company": "hbxueyuan.com",
+      "description": "Engine oil filter.",
+      "source_url": "https://www.hbxueyuan.com/product-1s7j-6744-ba.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "1S7J-6744-BA",
+          "brand": "Ford",
+          "equipment_type": "乘用车",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "automotive",
+          "medium": "oil",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      }
+    },
+    {
+      "sku": "77-00-126-705",
+      "name": "Oil Filter 77-00-126-705",
+      "category": "oil_filter",
+      "company": "hbxueyuan.com",
+      "description": "Engine oil filter.",
+      "source_url": "https://www.hbxueyuan.com/product-77-00-126-705.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "77-00-126-705",
+          "brand": "Renault",
+          "equipment_type": "乘用车",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "automotive",
+          "medium": "oil",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      }
+    },
+    {
+      "sku": "93-18-6310",
+      "name": "Oil Filter 93-18-6310",
+      "category": "oil_filter",
+      "company": "hbxueyuan.com",
+      "description": "Engine oil filter.",
+      "source_url": "https://www.hbxueyuan.com/product-93-18-6310.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "93-18-6310",
+          "brand": null,
+          "equipment_type": "乘用车",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "automotive",
+          "medium": "oil",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      }
+    },
+    {
+      "sku": "93175493",
+      "name": "Oil Filter 93175493",
+      "category": "oil_filter",
+      "company": "hbxueyuan.com",
+      "description": "Engine oil filter.",
+      "source_url": "https://www.hbxueyuan.com/product-93175493.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "93175493",
+          "brand": null,
+          "equipment_type": "乘用车",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "automotive",
+          "medium": "oil",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      }
+    },
+    {
+      "sku": "03C115577A",
+      "name": "Oil Filter 03C115577A",
+      "category": "oil_filter",
+      "company": "hbxueyuan.com",
+      "description": "Engine oil filter.",
+      "source_url": "https://www.hbxueyuan.com/product-jiyoulv03c115577a.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "03C115577A",
+          "brand": "Volkswagen",
+          "equipment_type": "乘用车",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "automotive",
+          "medium": "oil",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      }
+    },
+    {
+      "sku": "0393-1030",
+      "name": "Oil Filter 0393-1030",
+      "category": "oil_filter",
+      "company": "hbxueyuan.com",
+      "description": "Engine oil filter.",
+      "source_url": "https://www.hbxueyuan.com/product-0393-1030.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "0393-1030",
+          "brand": null,
+          "equipment_type": "乘用车",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "automotive",
+          "medium": "oil",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      }
+    },
+    {
+      "sku": "SH66279",
+      "name": "Hydraulic Oil Filter SH66279/362-1163 (Caterpillar 308C2)",
+      "category": "hydraulic_filter",
+      "company": "hbxueyuan.com",
+      "description": "Hydraulic oil filter for Caterpillar 308C2.",
+      "source_url": "https://www.hbxueyuan.com/product-hydraulic-oil-filter-sh66279-3621163-362-1163-for-caterpillar-308c2.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "SH66279",
+          "brand": "Caterpillar",
+          "equipment_type": "挖掘机",
+          "data_status": "catalog-confirmed"
+        },
+        {
+          "oe_number": "362-1163",
+          "brand": "Caterpillar",
+          "equipment_type": "挖掘机",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "heavy_machinery",
+          "medium": "hydraulic",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      }
+    },
+    {
+      "sku": "322-3155",
+      "name": "Hydraulic Filter Element 322-3155/322-3154 (Caterpillar)",
+      "category": "hydraulic_filter",
+      "company": "hbxueyuan.com",
+      "description": "Machine lubrication oil filter element assembly for Caterpillar.",
+      "source_url": "https://www.hbxueyuan.com/product-oil-filter-element-machine-lubrication-322-3155-3223155-assembly-322-3154-3223154-use-for-cat.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "322-3155",
+          "brand": "Caterpillar",
+          "equipment_type": "工程机械",
+          "data_status": "catalog-confirmed"
+        },
+        {
+          "oe_number": "322-3154",
+          "brand": "Caterpillar",
+          "equipment_type": "工程机械",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "heavy_machinery",
+          "medium": "hydraulic",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      }
+    },
+    {
+      "sku": "P177047",
+      "name": "Hydraulic Filter Spin-On P177047/1G-8878/6668819 (Bobcat)",
+      "category": "hydraulic_filter",
+      "company": "hbxueyuan.com",
+      "description": "Spin-on hydraulic filter for Bobcat.",
+      "source_url": "https://www.hbxueyuan.com/product-hydraulic-filter-spin-on-for-bobcat-p177047-1g-8878-6668819.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "P177047",
+          "brand": "Bobcat",
+          "equipment_type": "滑移装载机",
+          "data_status": "catalog-confirmed"
+        },
+        {
+          "oe_number": "1G-8878",
+          "brand": "Bobcat",
+          "equipment_type": null,
+          "data_status": "catalog-confirmed"
+        },
+        {
+          "oe_number": "6668819",
+          "brand": "Bobcat",
+          "equipment_type": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "heavy_machinery",
+          "medium": "hydraulic",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      }
+    },
+    {
+      "sku": "A222100000119",
+      "name": "Hydraulic Oil Filter A222100000119 (SANY)",
+      "category": "hydraulic_filter",
+      "company": "hbxueyuan.com",
+      "description": "Hydraulic oil filter for SANY heavy machine.",
+      "source_url": "https://www.hbxueyuan.com/product-hydraulic-oil-filter-a222100000119-for-sany-heavy-machine.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "A222100000119",
+          "brand": "SANY",
+          "equipment_type": "工程机械",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "heavy_machinery",
+          "medium": "hydraulic",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      }
+    },
+    {
+      "sku": "R010109",
+      "name": "Hydraulic Oil Filter R010109/E1310212 (Hyundai)",
+      "category": "hydraulic_filter",
+      "company": "hbxueyuan.com",
+      "description": "Hydraulic oil filter for Hyundai.",
+      "source_url": "https://www.hbxueyuan.com/product-hydraulic-oil-filter-for-hyundai-r010109-e1310212.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "R010109",
+          "brand": "Hyundai",
+          "equipment_type": "工程机械",
+          "data_status": "catalog-confirmed"
+        },
+        {
+          "oe_number": "E1310212",
+          "brand": "Hyundai",
+          "equipment_type": "工程机械",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "heavy_machinery",
+          "medium": "hydraulic",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      }
+    },
+    {
+      "sku": "1194740",
+      "name": "Hydraulic Return Oil Filter 1194740 (Caterpillar)",
+      "category": "hydraulic_filter",
+      "company": "hbxueyuan.com",
+      "description": "Hydraulic return oil filter for Caterpillar.",
+      "source_url": "https://www.hbxueyuan.com/product-hydraulic-return-oil-filter-for-caterpillar-1194740.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "1194740",
+          "brand": "Caterpillar",
+          "equipment_type": "工程机械",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "heavy_machinery",
+          "medium": "hydraulic",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      }
+    },
+    {
+      "sku": "P502561",
+      "name": "Excavator Hydraulic Return Oil Filter P502561 (SK130-8)",
+      "category": "hydraulic_filter",
+      "company": "hbxueyuan.com",
+      "description": "Excavator hydraulic return oil filter for SK130-8.",
+      "source_url": "https://www.hbxueyuan.com/product-excavator-hydraulic-return-oil-filter-p502561-for-sk130-8.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [
+        {
+          "oe_number": "P502561",
+          "brand": null,
+          "equipment_type": "挖掘机 SK130-8",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "heavy_machinery",
+          "medium": "hydraulic",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      }
+    },
+    {
+      "sku": "AIRY-AC-PANEL",
+      "name": "Activated Carbon Panel Filter",
+      "category": "activated_carbon_filter",
+      "company": "airyfilter.com",
+      "description": "Activated carbon panel filter for odour and chemical vapour neutralisation.",
+      "source_url": "https://airyfilter.com/product/activated-carbon-panel-filter",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": "60-65% arrestance",
+      "oe_reference": [],
+      "spec": [
+        {
+          "spec_key": "dimension",
+          "spec_value": "595×595×10 / 495×595×10 / 295×595×10 / 595×595×21 / 495×595×21 / 295×595×21",
+          "unit": "mm",
+          "data_status": "verified"
+        },
+        {
+          "spec_key": "airflow",
+          "spec_value": "3400 / 3200 / 2000 / 3600 / 3400 / 2200",
+          "unit": "m³/h",
+          "data_status": "verified"
+        },
+        {
+          "spec_key": "pressure_drop",
+          "spec_value": "10 / 10 / 10 / 15 / 15 / 15",
+          "unit": "Pa",
+          "data_status": "verified"
+        },
+        {
+          "spec_key": "efficiency_percentage",
+          "spec_value": "60 / 60 / 60 / 65 / 65 / 65",
+          "unit": "%",
+          "data_status": "verified"
+        }
+      ],
+      "material": [
+        {
+          "part": "media",
+          "material_value": "activated_carbon",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "filter_media": [
+        {
+          "type": "activated_carbon",
+          "efficiency_class": null,
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "hvac",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": 200,
+        "moq_unit": "set",
+        "data_status": "verified"
+      },
+      "subcategory": "panel"
+    },
+    {
+      "sku": "AIRY-AC-POCKET",
+      "name": "Activated Carbon Pocket Filter",
+      "category": "activated_carbon_filter",
+      "company": "airyfilter.com",
+      "description": "Activated carbon pocket filter with high-capacity dust retention and odour removal.",
+      "source_url": "https://airyfilter.com/product/activated-carbon-pocket-filter",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": "G3 / G4 / F5",
+      "oe_reference": [],
+      "spec": [
+        {
+          "spec_key": "dimension",
+          "spec_value": "287×592×600 / 490×592×600 / 592×592×600",
+          "unit": "mm",
+          "data_status": "verified"
+        },
+        {
+          "spec_key": "airflow",
+          "spec_value": "1700-4250",
+          "unit": "m³/h",
+          "data_status": "verified"
+        },
+        {
+          "spec_key": "pressure_drop",
+          "spec_value": "20 / 50 / 60",
+          "unit": "Pa",
+          "data_status": "verified"
+        }
+      ],
+      "material": [
+        {
+          "part": "media",
+          "material_value": "activated_carbon",
+          "data_status": "catalog-confirmed"
+        },
+        {
+          "part": "frame",
+          "material_value": "aluminum / galvanized steel / stainless steel / plastic",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "filter_media": [
+        {
+          "type": "activated_carbon",
+          "efficiency_class": "G3-G4-F5",
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "hvac",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": 200,
+        "moq_unit": "set",
+        "data_status": "verified"
+      },
+      "subcategory": "pocket"
+    },
+    {
+      "sku": "AIRY-AC-PLEATED",
+      "name": "Activated Carbon Pleated Filter",
+      "category": "activated_carbon_filter",
+      "company": "airyfilter.com",
+      "description": "Activated carbon pleated filter for odour removal.",
+      "source_url": "https://airyfilter.com/product/activated-carbon-pleated-filter",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": "60-65% arrestance",
+      "oe_reference": [],
+      "spec": [
+        {
+          "spec_key": "dimension",
+          "spec_value": "595×595×10 / 495×595×10 / 295×595×10 / 595×595×21 / 495×595×21 / 295×595×21",
+          "unit": "mm",
+          "data_status": "verified"
+        },
+        {
+          "spec_key": "airflow",
+          "spec_value": "3400 / 3200 / 2000 / 3600 / 3400 / 2200",
+          "unit": "m³/h",
+          "data_status": "verified"
+        },
+        {
+          "spec_key": "pressure_drop",
+          "spec_value": "10 / 10 / 10 / 15 / 15 / 15",
+          "unit": "Pa",
+          "data_status": "verified"
+        },
+        {
+          "spec_key": "efficiency_percentage",
+          "spec_value": "60 / 60 / 60 / 65 / 65 / 65",
+          "unit": "%",
+          "data_status": "verified"
+        }
+      ],
+      "material": [
+        {
+          "part": "media",
+          "material_value": "activated_carbon",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "filter_media": [
+        {
+          "type": "activated_carbon",
+          "efficiency_class": null,
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "hvac",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": 200,
+        "moq_unit": "set",
+        "data_status": "verified"
+      },
+      "subcategory": "pleated"
+    },
+    {
+      "sku": "AIRY-AC-MEDIA",
+      "name": "Activated Carbon Filter Media (AR-TM)",
+      "category": "filter_media",
+      "company": "airyfilter.com",
+      "description": "Activated carbon filter media roll for odour and chemical-vapour adsorption.",
+      "source_url": "https://airyfilter.com/product/activated-carbon-filter-media",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": "90-95% adsorption",
+      "oe_reference": [],
+      "spec": [
+        {
+          "spec_key": "dust_holding",
+          "spec_value": "300 / 350 / 580",
+          "unit": "g/m²",
+          "data_status": "verified"
+        },
+        {
+          "spec_key": "pressure_drop",
+          "spec_value": "25 / 28 / 35",
+          "unit": "Pa",
+          "data_status": "verified"
+        },
+        {
+          "spec_key": "efficiency_percentage",
+          "spec_value": "90 / 95 / 95",
+          "unit": "%",
+          "data_status": "verified"
+        },
+        {
+          "spec_key": "dimension",
+          "spec_value": "1.12m×50m / 1.25m×50m / 1.5m×50m / 2.0m×50m",
+          "unit": null,
+          "data_status": "verified"
+        }
+      ],
+      "material": [
+        {
+          "part": "media",
+          "material_value": "activated_carbon",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "filter_media": [
+        {
+          "type": "activated_carbon",
+          "efficiency_class": "90-95%",
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "hvac",
+          "medium": "air",
+          "data_status": "reference"
+        },
+        {
+          "code": "industrial",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": 20,
+        "moq_unit": "roll",
+        "data_status": "verified"
+      },
+      "subcategory": "activated_carbon"
+    },
+    {
+      "sku": "AIRY-GEL-HEPA",
+      "name": "Gel Seal Mini Pleated HEPA Filter (H14)",
+      "category": "hepa_filter",
+      "company": "airyfilter.com",
+      "description": "Gel-seal mini-pleat HEPA filter, H14 efficiency at 0.3 μm.",
+      "source_url": "https://airyfilter.com/product/gel-seal-mini-pleated-hepa-filter",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": "H14",
+      "oe_reference": [],
+      "spec": [
+        {
+          "spec_key": "dimension",
+          "spec_value": "610×610×90 / 610×610×93 / 915×610×90 / 1220×610×90",
+          "unit": "mm",
+          "data_status": "verified"
+        },
+        {
+          "spec_key": "airflow",
+          "spec_value": "650/1300 / 680/1400 / 450/1500 / 1200/2400",
+          "unit": "m³/h",
+          "data_status": "verified"
+        },
+        {
+          "spec_key": "pressure_drop",
+          "spec_value": "<110/220 (initial) / <350/500 (final)",
+          "unit": "Pa",
+          "data_status": "verified"
+        },
+        {
+          "spec_key": "efficiency_percentage",
+          "spec_value": "99.995≤E<99.9995",
+          "unit": "%",
+          "data_status": "verified"
+        }
+      ],
+      "material": [
+        {
+          "part": "seal",
+          "material_value": "gel",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "filter_media": [
+        {
+          "type": "micro_glass_fiber",
+          "efficiency_class": "H14",
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "cleanroom",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": 200,
+        "moq_unit": "set",
+        "data_status": "verified"
+      },
+      "subcategory": "h13-h14"
+    },
+    {
+      "sku": "AIRY-MERV-POCKET",
+      "name": "MERV 5-14 Fiberglass Pocket Air Filter",
+      "category": "pocket_filter",
+      "company": "airyfilter.com",
+      "description": "Fiberglass pocket air filter for HVAC systems, M5/M6/F7.",
+      "source_url": "https://airyfilter.com/product/merv-5-14-fiberglass-pocket-air-filter-for-hvac-systems",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": "M5 / M6 / F7",
+      "oe_reference": [],
+      "spec": [
+        {
+          "spec_key": "dimension",
+          "spec_value": "287×595×550 / 595×595×550 / 595×595×600",
+          "unit": "mm",
+          "data_status": "verified"
+        },
+        {
+          "spec_key": "airflow",
+          "spec_value": "1000-2950",
+          "unit": "m³/h",
+          "data_status": "verified"
+        },
+        {
+          "spec_key": "pressure_drop",
+          "spec_value": "55 / 70 / 100",
+          "unit": "Pa",
+          "data_status": "verified"
+        }
+      ],
+      "material": [
+        {
+          "part": "media",
+          "material_value": "fiberglass",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "filter_media": [
+        {
+          "type": "synthetic_fiber",
+          "efficiency_class": "M5-M6-F7",
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "hvac",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": 200,
+        "moq_unit": "set",
+        "data_status": "verified"
+      }
+    },
+    {
+      "sku": "AIRY-POLY-POCKET",
+      "name": "Polyester Fiber Pocket Filter",
+      "category": "pocket_filter",
+      "company": "airyfilter.com",
+      "description": "Polyester fiber pocket filter for AHU main filtration.",
+      "source_url": "https://airyfilter.com/product/polyester-fiber-pocket-filter",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [],
+      "spec": [],
+      "material": [
+        {
+          "part": "media",
+          "material_value": "polyester",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "filter_media": [
+        {
+          "type": "synthetic_fiber",
+          "efficiency_class": null,
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "hvac",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": 200,
+        "moq_unit": "set",
+        "data_status": "verified"
+      }
+    },
+    {
+      "sku": "AIRY-RIGID-POCKET",
+      "name": "Rigid Pocket Filter",
+      "category": "pocket_filter",
+      "company": "airyfilter.com",
+      "description": "Rigid pocket filter for HVAC main stages.",
+      "source_url": "https://airyfilter.com/product/rigid-pocket-filter",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [],
+      "spec": [],
+      "material": [
+        {
+          "part": "media",
+          "material_value": "synthetic_fiber",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "filter_media": [
+        {
+          "type": "synthetic_fiber",
+          "efficiency_class": null,
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "hvac",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": 200,
+        "moq_unit": "set",
+        "data_status": "verified"
+      }
+    },
+    {
+      "sku": "AIRY-FB-PANEL",
+      "name": "FB Panel Filter",
+      "category": "hvac_filter",
+      "company": "airyfilter.com",
+      "description": "FB panel filter for HVAC pre-filtration.",
+      "source_url": "https://airyfilter.com/product/fb-panel-filter",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [],
+      "spec": [],
+      "material": [
+        {
+          "part": "frame",
+          "material_value": "cardboard / metal",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "filter_media": [
+        {
+          "type": "synthetic_fiber",
+          "efficiency_class": null,
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "hvac",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": 200,
+        "moq_unit": "set",
+        "data_status": "verified"
+      },
+      "subcategory": "pre"
+    },
+    {
+      "sku": "AIRY-PRE-PANEL",
+      "name": "Pre-Panel Filter",
+      "category": "hvac_filter",
+      "company": "airyfilter.com",
+      "description": "Pre-panel filter for HVAC pre-filtration stages.",
+      "source_url": "https://airyfilter.com/product/pre-panel-filter",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [],
+      "spec": [],
+      "material": [],
+      "filter_media": [
+        {
+          "type": "synthetic_fiber",
+          "efficiency_class": null,
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "hvac",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": 200,
+        "moq_unit": "set",
+        "data_status": "verified"
+      },
+      "subcategory": "pre"
+    },
+    {
+      "sku": "AIRY-PLEATED-PRE",
+      "name": "Pleated Pre-Filter",
+      "category": "hvac_filter",
+      "company": "airyfilter.com",
+      "description": "Pleated pre-filter for HVAC systems.",
+      "source_url": "https://airyfilter.com/product/pleated-pre-filter",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [],
+      "spec": [],
+      "material": [],
+      "filter_media": [
+        {
+          "type": "synthetic_fiber",
+          "efficiency_class": null,
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "hvac",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": 200,
+        "moq_unit": "set",
+        "data_status": "verified"
+      },
+      "subcategory": "pre"
+    },
+    {
+      "sku": "AIRY-CARDBOARD-PRE",
+      "name": "Cardboard Paper Frame Pre-Filter for HVAC",
+      "category": "hvac_filter",
+      "company": "airyfilter.com",
+      "description": "Cardboard paper frame pre-filter for HVAC.",
+      "source_url": "https://airyfilter.com/product/cardboard-paper-frame-pre-filter-for-hvac",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [],
+      "spec": [],
+      "material": [
+        {
+          "part": "frame",
+          "material_value": "cardboard/paper",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "filter_media": [
+        {
+          "type": "synthetic_fiber",
+          "efficiency_class": null,
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "hvac",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": 200,
+        "moq_unit": "set",
+        "data_status": "verified"
+      },
+      "subcategory": "pre"
+    },
+    {
+      "sku": "AIRY-NEEDLE-COTTON",
+      "name": "Acupuncture Cotton / Needle Punched Filter Media (AR-03/05)",
+      "category": "filter_media",
+      "company": "airyfilter.com",
+      "description": "Needle-punched (acupuncture cotton) filter media for pre-filtration.",
+      "source_url": "https://airyfilter.com/product/acupuncture-cotton",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": "G3 / G4",
+      "oe_reference": [],
+      "spec": [
+        {
+          "spec_key": "airflow",
+          "spec_value": "5400",
+          "unit": "m³/h",
+          "data_status": "verified"
+        },
+        {
+          "spec_key": "pressure_drop",
+          "spec_value": "≤35",
+          "unit": "Pa",
+          "data_status": "verified"
+        },
+        {
+          "spec_key": "dimension",
+          "spec_value": "3 / 5",
+          "unit": "mm",
+          "data_status": "verified"
+        }
+      ],
+      "material": [],
+      "filter_media": [
+        {
+          "type": "needle_punched",
+          "efficiency_class": "G3-G4",
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "hvac",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": 20,
+        "moq_unit": "roll",
+        "data_status": "verified"
+      },
+      "subcategory": "needle_punched"
+    },
+    {
+      "sku": "AIRY-HT-FIBERGLASS",
+      "name": "High Temperature Fiberglass Filter Media (AR-GW)",
+      "category": "filter_media",
+      "company": "airyfilter.com",
+      "description": "High-temperature fiberglass filter media, continuous 300 °C.",
+      "source_url": "https://airyfilter.com/product/high-temperature-fiberglass-filter-media",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": "G3 / G4",
+      "oe_reference": [],
+      "spec": [
+        {
+          "spec_key": "temperature_resistance",
+          "spec_value": "300 (continuous) / 350 (peak)",
+          "unit": "°C",
+          "data_status": "verified"
+        },
+        {
+          "spec_key": "efficiency_percentage",
+          "spec_value": "85 / 95",
+          "unit": "%",
+          "data_status": "verified"
+        },
+        {
+          "spec_key": "airflow",
+          "spec_value": "5800 / 5400",
+          "unit": "m³/h",
+          "data_status": "verified"
+        },
+        {
+          "spec_key": "dust_holding",
+          "spec_value": "500 / 600",
+          "unit": "g/m²",
+          "data_status": "verified"
+        }
+      ],
+      "material": [],
+      "filter_media": [
+        {
+          "type": "micro_glass_fiber",
+          "efficiency_class": "G3-G4",
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "industrial",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": 20,
+        "moq_unit": "roll",
+        "data_status": "verified"
+      },
+      "subcategory": "micro_glass"
+    },
+    {
+      "sku": "AIRY-HT-SYNTHETIC",
+      "name": "High Temperature Synthetic Filter Media (AR-100)",
+      "category": "filter_media",
+      "company": "airyfilter.com",
+      "description": "High-temperature synthetic filter media.",
+      "source_url": "https://airyfilter.com/product/high-temperature-synthetic-filter-media",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": "G4",
+      "oe_reference": [],
+      "spec": [
+        {
+          "spec_key": "efficiency_percentage",
+          "spec_value": "90 / 95",
+          "unit": "%",
+          "data_status": "verified"
+        },
+        {
+          "spec_key": "airflow",
+          "spec_value": "5400",
+          "unit": "m³/h",
+          "data_status": "verified"
+        },
+        {
+          "spec_key": "dust_holding",
+          "spec_value": "200 / 450",
+          "unit": "g/m²",
+          "data_status": "verified"
+        }
+      ],
+      "material": [],
+      "filter_media": [
+        {
+          "type": "synthetic_fiber",
+          "efficiency_class": "G4",
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "industrial",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": 20,
+        "moq_unit": "roll",
+        "data_status": "verified"
+      },
+      "subcategory": "synthetic_fiber"
+    },
+    {
+      "sku": "AIRY-FR-MEDIA",
+      "name": "Flame Retardant Pre-Filter Media (ARZ)",
+      "category": "filter_media",
+      "company": "airyfilter.com",
+      "description": "Flame-retardant pre-filter media for spray booths.",
+      "source_url": "https://airyfilter.com/product/flame-retardant-pre-filter-media",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": "G3 / G4",
+      "oe_reference": [],
+      "spec": [
+        {
+          "spec_key": "temperature_resistance",
+          "spec_value": "120",
+          "unit": "°C",
+          "data_status": "verified"
+        },
+        {
+          "spec_key": "efficiency_percentage",
+          "spec_value": "85 / 95",
+          "unit": "%",
+          "data_status": "verified"
+        },
+        {
+          "spec_key": "dust_holding",
+          "spec_value": "500 / 600",
+          "unit": "g/m²",
+          "data_status": "verified"
+        }
+      ],
+      "material": [],
+      "filter_media": [
+        {
+          "type": "synthetic_fiber",
+          "efficiency_class": "G3-G4",
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "paint_booth",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": 20,
+        "moq_unit": "roll",
+        "data_status": "verified"
+      },
+      "subcategory": "synthetic_fiber"
+    },
+    {
+      "sku": "AIRY-CEILING",
+      "name": "F5 / MERV 5 Synthetic Fiber Ceiling Air Filter Roll",
+      "category": "filter_media",
+      "company": "airyfilter.com",
+      "description": "Needle-punched synthetic fiber ceiling/roof filter media roll.",
+      "source_url": "https://airyfilter.com/product/ceiling-filter-roof-filter",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": "F5 / MERV 5",
+      "oe_reference": [],
+      "spec": [
+        {
+          "spec_key": "efficiency_class",
+          "spec_value": "F5 / MERV 5",
+          "unit": null,
+          "data_status": "verified"
+        }
+      ],
+      "material": [
+        {
+          "part": "media",
+          "material_value": "synthetic_fiber",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "filter_media": [
+        {
+          "type": "needle_punched",
+          "efficiency_class": "F5",
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "hvac",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": 20,
+        "moq_unit": "roll",
+        "data_status": "verified"
+      },
+      "subcategory": "synthetic_fiber"
+    },
+    {
+      "sku": "KLC-24X24-HEPA",
+      "name": "24x24 HEPA Filter",
+      "category": "hepa_filter",
+      "company": "klcintl.com",
+      "description": "Mini-pleat HEPA filter, 24x24 inch.",
+      "source_url": "https://www.klcintl.com/24x24-hepa-filter",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": "H13/H14",
+      "oe_reference": [],
+      "spec": [
+        {
+          "spec_key": "dimension",
+          "spec_value": "24×24",
+          "unit": "inch",
+          "data_status": "verified"
+        }
+      ],
+      "material": [],
+      "filter_media": [
+        {
+          "type": "micro_glass_fiber",
+          "efficiency_class": "H13/H14",
+          "grammage": null,
+          "data_status": "pending"
+        }
+      ],
+      "application": [
+        {
+          "code": "cleanroom",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      }
+    },
+    {
+      "sku": "KLC-PTFE-ULPA",
+      "name": "PTFE ULPA / HEPA / Sub-HEPA Mini-pleat Filter",
+      "category": "hepa_filter",
+      "company": "klcintl.com",
+      "description": "PTFE ULPA/HEPA/sub-HEPA mini-pleat filter for HVAC air filtration.",
+      "source_url": "https://www.klcintl.com/ptfe-ulpahepasub-hepa-mini-pleat-filter-hvac-air-filter",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": "ULPA / HEPA / Sub-HEPA",
+      "oe_reference": [],
+      "spec": [],
+      "material": [
+        {
+          "part": "membrane",
+          "material_value": "PTFE",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "filter_media": [
+        {
+          "type": "membrane",
+          "efficiency_class": "U15-U17",
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "cleanroom",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      },
+      "subcategory": "u15-u17"
+    },
+    {
+      "sku": "KLC-HT-HEPA",
+      "name": "High Temperature HEPA Filter",
+      "category": "hepa_filter",
+      "company": "klcintl.com",
+      "description": "High temperature HEPA filter.",
+      "source_url": "https://www.klcintl.com/high-temperature-hepa-filter",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [],
+      "spec": [],
+      "material": [],
+      "filter_media": [
+        {
+          "type": "micro_glass_fiber",
+          "efficiency_class": null,
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "industrial",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      },
+      "subcategory": "h13-h14"
+    },
+    {
+      "sku": "KLC-HT-SEPARATOR",
+      "name": "260/350°C High Temperature Separator Filter",
+      "category": "hvac_filter",
+      "company": "klcintl.com",
+      "description": "High heat-resistance separator filter, 260-350 °C.",
+      "source_url": "https://www.klcintl.com/260-350-high-temperature-separator-filter",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": "—",
+      "oe_reference": [],
+      "spec": [
+        {
+          "spec_key": "temperature_resistance",
+          "spec_value": "260-350",
+          "unit": "°C",
+          "data_status": "verified"
+        }
+      ],
+      "material": [
+        {
+          "part": "frame",
+          "material_value": "metal",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "filter_media": [
+        {
+          "type": "synthetic_fiber",
+          "efficiency_class": null,
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "industrial",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      },
+      "subcategory": "v_bank"
+    },
+    {
+      "sku": "KLC-MED-VBANK",
+      "name": "Medium V-bank Filter",
+      "category": "hvac_filter",
+      "company": "klcintl.com",
+      "description": "Medium V-bank air filter.",
+      "source_url": "https://www.klcintl.com/medium-v-bank-filter",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [],
+      "spec": [],
+      "material": [
+        {
+          "part": "frame",
+          "material_value": "metal / plastic",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "filter_media": [
+        {
+          "type": "synthetic_fiber",
+          "efficiency_class": null,
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "hvac",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      },
+      "subcategory": "v_bank"
+    },
+    {
+      "sku": "KLC-MERV8",
+      "name": "MERV 8 Pleated Filter",
+      "category": "hvac_filter",
+      "company": "klcintl.com",
+      "description": "MERV 8 pleated air filter.",
+      "source_url": "https://www.klcintl.com/merv-8-pleated-filter",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": "MERV 8",
+      "oe_reference": [],
+      "spec": [],
+      "material": [],
+      "filter_media": [
+        {
+          "type": "synthetic_fiber",
+          "efficiency_class": "MERV 8",
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "hvac",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      },
+      "subcategory": "medium"
+    },
+    {
+      "sku": "KLC-G3-HT-PRIMARY",
+      "name": "G3 High Heat-Resistance Pleated Primary Filter",
+      "category": "hvac_filter",
+      "company": "klcintl.com",
+      "description": "G3 high heat-resistance pleated primary filter.",
+      "source_url": "https://www.klcintl.com/g3-high-heat-resistance-pleated-primary-filter",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": "G3",
+      "oe_reference": [],
+      "spec": [],
+      "material": [],
+      "filter_media": [
+        {
+          "type": "synthetic_fiber",
+          "efficiency_class": "G3",
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "industrial",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      },
+      "subcategory": "pre"
+    },
+    {
+      "sku": "KLC-M5-M9-POCKET",
+      "name": "M5/M6/F7/F8/F9 Synthetic Fiber Pocket Filter",
+      "category": "pocket_filter",
+      "company": "klcintl.com",
+      "description": "Long-life-span synthetic fiber pocket filter, M5-M9.",
+      "source_url": "https://www.klcintl.com/m5m6f7f8f9-long-life-span-synthetic-fiber-pocket-filter",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": "M5/M6/F7/F8/F9",
+      "oe_reference": [],
+      "spec": [],
+      "material": [
+        {
+          "part": "media",
+          "material_value": "synthetic_fiber",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "filter_media": [
+        {
+          "type": "synthetic_fiber",
+          "efficiency_class": "M5-M9",
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "hvac",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      }
+    },
+    {
+      "sku": "KLC-GLASS-POCKET",
+      "name": "Glass Fiber Medium Efficiency Pocket Filter",
+      "category": "pocket_filter",
+      "company": "klcintl.com",
+      "description": "Glass fiber medium efficiency pocket filter.",
+      "source_url": "https://www.klcintl.com/glass-fiber-medium-efficiency-pocket-filter",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [],
+      "spec": [],
+      "material": [
+        {
+          "part": "media",
+          "material_value": "glass_fiber",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "filter_media": [
+        {
+          "type": "micro_glass_fiber",
+          "efficiency_class": null,
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "hvac",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      }
+    },
+    {
+      "sku": "KLC-G1-G4-PANEL",
+      "name": "Washable G1/G2/G3/G4 Synthetic Fiber Panel Filter",
+      "category": "hvac_filter",
+      "company": "klcintl.com",
+      "description": "Washable G1-G4 synthetic fiber panel filter.",
+      "source_url": "https://www.klcintl.com/washable-g1-g2-g3-g4-synthetic-fiber-panel-filter",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": "G1/G2/G3/G4",
+      "oe_reference": [],
+      "spec": [],
+      "material": [
+        {
+          "part": "media",
+          "material_value": "synthetic_fiber",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "filter_media": [
+        {
+          "type": "synthetic_fiber",
+          "efficiency_class": "G1-G4",
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "hvac",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      },
+      "subcategory": "pre"
+    },
+    {
+      "sku": "KLC-E10-E14-TERMINAL",
+      "name": "E10/E11/E12/H13/H14 Disposable Hooded Terminal Filter",
+      "category": "hepa_filter",
+      "company": "klcintl.com",
+      "description": "Disposable hooded terminal filter, E10 through H14.",
+      "source_url": "https://www.klcintl.com/e10-e11-e12-h13-h14-disposable-hooded-terminal-filter",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": "E10/E11/E12/H13/H14",
+      "oe_reference": [],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "cleanroom",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      },
+      "subcategory": "h10-h12"
+    },
+    {
+      "sku": "KLC-FFU",
+      "name": "Clean Room AC/EC Fan Filter Unit (FFU)",
+      "category": "cleanroom_equipment",
+      "company": "klcintl.com",
+      "description": "Clean room AC/EC fan filter unit.",
+      "source_url": "https://www.klcintl.com/fan-filter-unit-ffu",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [],
+      "spec": [],
+      "material": [
+        {
+          "part": "housing",
+          "material_value": "galvanized_steel / stainless_steel",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "cleanroom",
+          "medium": "cleanroom_ffu",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      },
+      "subcategory": "ffu"
+    },
+    {
+      "sku": "KLC-CLEAN-BENCH",
+      "name": "Class 100 / ISO 5 Vertical Flow Clean Bench",
+      "category": "cleanroom_equipment",
+      "company": "klcintl.com",
+      "description": "Class 100 / ISO 5 vertical flow clean bench with lifting door.",
+      "source_url": "https://www.klcintl.com/class-100-iso-5-vertical-flow-clean-bench-with-lifting-door",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": "Class 100 / ISO 5",
+      "oe_reference": [],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "cleanroom",
+          "medium": "cleanroom_ffu",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      },
+      "subcategory": "laminar_flow"
+    },
+    {
+      "sku": "KLC-BIOSAFETY",
+      "name": "Biosafety Cabinet",
+      "category": "cleanroom_equipment",
+      "company": "klcintl.com",
+      "description": "Biosafety cabinet for cleanroom and laboratory.",
+      "source_url": "https://www.klcintl.com/biosafety-cabinet-biologicall-safety-cabinet",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "healthcare",
+          "medium": "cleanroom_ffu",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      },
+      "subcategory": "biosafety_cabinet"
+    },
+    {
+      "sku": "YT-HEPA-H14",
+      "name": "HEPA Filter H14",
+      "category": "hepa_filter",
+      "company": "yitong-filter.com",
+      "description": "HEPA filter H14 for HVAC / cleanroom, ISO 16890 & EN 1822.",
+      "source_url": "https://www.yitong-filter.com/index.php/products/hepa-h13-h14-filter.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": "H14",
+      "oe_reference": [],
+      "spec": [
+        {
+          "spec_key": "efficiency_class",
+          "spec_value": "H14",
+          "unit": null,
+          "data_status": "verified"
+        }
+      ],
+      "material": [
+        {
+          "part": "frame",
+          "material_value": "galvanized_steel / aluminum",
+          "data_status": "reference"
+        }
+      ],
+      "filter_media": [
+        {
+          "type": "micro_glass_fiber",
+          "efficiency_class": "H14",
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "pharma",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      },
+      "subcategory": "h13-h14"
+    },
+    {
+      "sku": "YT-ULPA-U15",
+      "name": "ULPA Filter U15-U17 (Ventilation)",
+      "category": "hepa_filter",
+      "company": "yitong-filter.com",
+      "description": "Ultra-low penetration ULPA filter U15-U17 for ventilation.",
+      "source_url": "https://www.yitong-filter.com/index.php/products/air-filters.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": "U15-U17",
+      "oe_reference": [],
+      "spec": [],
+      "material": [],
+      "filter_media": [
+        {
+          "type": "micro_glass_fiber",
+          "efficiency_class": "U15-U17",
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "cleanroom",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      },
+      "subcategory": "u15-u17"
+    },
+    {
+      "sku": "YT-COARSE-G1-G4",
+      "name": "Coarse Ventilation Filter G1-G4",
+      "category": "hvac_filter",
+      "company": "yitong-filter.com",
+      "description": "Coarse ventilation filter, G1-G4 (ISO 16890).",
+      "source_url": "https://www.yitong-filter.com/index.php/products/coarse-filters.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": "G1-G4",
+      "oe_reference": [],
+      "spec": [],
+      "material": [],
+      "filter_media": [
+        {
+          "type": "synthetic_fiber",
+          "efficiency_class": "G1-G4",
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "hvac",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      },
+      "subcategory": "pre"
+    },
+    {
+      "sku": "YT-MEDIUM-M5-M6",
+      "name": "Medium Ventilation Filter M5/M6",
+      "category": "hvac_filter",
+      "company": "yitong-filter.com",
+      "description": "Medium ventilation filter, M5/M6.",
+      "source_url": "https://www.yitong-filter.com/index.php/products/air-filters.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": "M5/M6",
+      "oe_reference": [],
+      "spec": [],
+      "material": [],
+      "filter_media": [
+        {
+          "type": "synthetic_fiber",
+          "efficiency_class": "M5-M6",
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "hvac",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      },
+      "subcategory": "medium"
+    },
+    {
+      "sku": "YT-FINE-F7-F9",
+      "name": "Fine Ventilation Filter F7/F8/F9",
+      "category": "hvac_filter",
+      "company": "yitong-filter.com",
+      "description": "Fine ventilation filter, F7/F8/F9.",
+      "source_url": "https://www.yitong-filter.com/index.php/products/fine-filter.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": "F7/F8/F9",
+      "oe_reference": [],
+      "spec": [],
+      "material": [],
+      "filter_media": [
+        {
+          "type": "synthetic_fiber",
+          "efficiency_class": "F7-F9",
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "hvac",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      },
+      "subcategory": "medium"
+    },
+    {
+      "sku": "YT-METAL-CART",
+      "name": "Metal Filter Cartridge (SS304/SS316L/Ti)",
+      "category": "liquid_filter",
+      "company": "yitong-filter.com",
+      "description": "Metal filter cartridge, SS304/SS316L/Ti, sintered or mesh.",
+      "source_url": "https://www.yitong-filter.com/",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": "1-100 μm",
+      "oe_reference": [],
+      "spec": [
+        {
+          "spec_key": "removal_rating",
+          "spec_value": "1/3/5/10/20/30/50/100",
+          "unit": "μm",
+          "data_status": "verified"
+        },
+        {
+          "spec_key": "dimension",
+          "spec_value": "5/10/20/30/40",
+          "unit": "inch",
+          "data_status": "verified"
+        }
+      ],
+      "material": [
+        {
+          "part": "core",
+          "material_value": "SS304/SS316L/Ti",
+          "data_status": "catalog-confirmed"
+        },
+        {
+          "part": "o_ring",
+          "material_value": "Silicon/Viton/EPDM/NBR/PEFE",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "filter_media": [
+        {
+          "type": "sintered_mesh",
+          "efficiency_class": null,
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "oil_gas",
+          "medium": "oil",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      },
+      "subcategory": "metal"
+    },
+    {
+      "sku": "YT-LIQ-MEMBRANE",
+      "name": "Liquid Filtration Membrane Cartridge (PP/PVDF/PTFE)",
+      "category": "liquid_filter",
+      "company": "yitong-filter.com",
+      "description": "Liquid filtration cartridge with PP/PVDF/PTFE membrane.",
+      "source_url": "https://www.yitong-filter.com/",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": "—",
+      "oe_reference": [],
+      "spec": [
+        {
+          "spec_key": "dimension",
+          "spec_value": "5/10/20/30/40/70",
+          "unit": "inch",
+          "data_status": "verified"
+        }
+      ],
+      "material": [
+        {
+          "part": "membrane",
+          "material_value": "PP/PVDF/PTFE/NL/GF/PET",
+          "data_status": "catalog-confirmed"
+        },
+        {
+          "part": "core",
+          "material_value": "PP/PET/PTFE/PVDF",
+          "data_status": "catalog-confirmed"
+        },
+        {
+          "part": "end_cap",
+          "material_value": "215/222/Flat 222/High 222/226/DOE",
+          "data_status": "catalog-confirmed"
+        },
+        {
+          "part": "o_ring",
+          "material_value": "Silicon/EPDM/Viton/FEP",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "filter_media": [
+        {
+          "type": "membrane",
+          "efficiency_class": null,
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "water",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      },
+      "subcategory": "membrane"
+    },
+    {
+      "sku": "YT-CHEMICAL",
+      "name": "Chemical Air Filter (Activated Carbon Bag/Panel)",
+      "category": "activated_carbon_filter",
+      "company": "yitong-filter.com",
+      "description": "Chemical air filter with activated carbon bag/panel for airborne molecular contamination.",
+      "source_url": "https://www.yitong-filter.com/index.php/products/airborne-molecular-contamination.html",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [],
+      "spec": [],
+      "material": [
+        {
+          "part": "media",
+          "material_value": "activated_carbon",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "filter_media": [
+        {
+          "type": "activated_carbon",
+          "efficiency_class": null,
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "chemical",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      },
+      "subcategory": "panel"
+    },
+    {
+      "sku": "EAWAY-FFU-4848",
+      "name": "Fan Filter Unit (FFU) 48\"x48\"",
+      "category": "cleanroom_equipment",
+      "company": "cleanroom-ffu.com",
+      "description": "Fan filter unit for Class 100 cleanroom; HEPA/ULPA, AC/EC motor.",
+      "source_url": "https://www.cleanroom-ffu.com/fan-filter-unit/",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": "H10-H14/U15",
+      "oe_reference": [],
+      "spec": [
+        {
+          "spec_key": "dimension",
+          "spec_value": "48×48 (thickness 320)",
+          "unit": "inch/mm",
+          "data_status": "verified"
+        },
+        {
+          "spec_key": "airflow",
+          "spec_value": "4000-5000",
+          "unit": "CMH",
+          "data_status": "verified"
+        },
+        {
+          "spec_key": "cleanliness_class",
+          "spec_value": "Class 100",
+          "unit": null,
+          "data_status": "verified"
+        },
+        {
+          "spec_key": "efficiency_class",
+          "spec_value": "H10-H14/U15",
+          "unit": null,
+          "data_status": "verified"
+        },
+        {
+          "spec_key": "temperature_resistance",
+          "spec_value": "80",
+          "unit": "°C",
+          "data_status": "verified"
+        }
+      ],
+      "material": [
+        {
+          "part": "housing",
+          "material_value": "galvanized_steel / stainless_steel",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "filter_media": [
+        {
+          "type": "micro_glass_fiber",
+          "efficiency_class": "H13/H14/U15",
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "cleanroom",
+          "medium": "cleanroom_ffu",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      },
+      "subcategory": "ffu"
+    },
+    {
+      "sku": "EAWAY-HEPA-61061070",
+      "name": "Cleanroom HEPA Filter 610×610×70mm",
+      "category": "hepa_filter",
+      "company": "cleanroom-ffu.com",
+      "description": "Cleanroom HEPA filter 610×610×70mm (24×24×2.75 inch).",
+      "source_url": "https://www.cleanroom-ffu.com/cleanroom-hepa-filter/",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": "H13/H14",
+      "oe_reference": [],
+      "spec": [
+        {
+          "spec_key": "dimension",
+          "spec_value": "610×610×70",
+          "unit": "mm",
+          "data_status": "verified"
+        },
+        {
+          "spec_key": "price",
+          "spec_value": "40/37/33",
+          "unit": "USD/PCS (QTY 5/10/100)",
+          "data_status": "verified"
+        }
+      ],
+      "material": [
+        {
+          "part": "frame",
+          "material_value": "aluminum",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "filter_media": [
+        {
+          "type": "micro_glass_fiber",
+          "efficiency_class": "H13/H14",
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "cleanroom",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": 5,
+        "moq_unit": "pcs",
+        "data_status": "reference"
+      },
+      "subcategory": "h13-h14"
+    },
+    {
+      "sku": "EAWAY-HEPA-610610292",
+      "name": "Cleanroom HEPA Filter 610×610×292mm",
+      "category": "hepa_filter",
+      "company": "cleanroom-ffu.com",
+      "description": "Cleanroom HEPA filter 610×610×292mm (24×24×12 inch).",
+      "source_url": "https://www.cleanroom-ffu.com/cleanroom-hepa-filter/",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": "H13/H14",
+      "oe_reference": [],
+      "spec": [
+        {
+          "spec_key": "dimension",
+          "spec_value": "610×610×292",
+          "unit": "mm",
+          "data_status": "verified"
+        },
+        {
+          "spec_key": "price",
+          "spec_value": "84/75/67",
+          "unit": "USD/PCS (QTY 5/10/100)",
+          "data_status": "verified"
+        }
+      ],
+      "material": [
+        {
+          "part": "frame",
+          "material_value": "aluminum",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "filter_media": [
+        {
+          "type": "micro_glass_fiber",
+          "efficiency_class": "H13/H14",
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "cleanroom",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": 5,
+        "moq_unit": "pcs",
+        "data_status": "reference"
+      },
+      "subcategory": "h13-h14"
+    },
+    {
+      "sku": "EAWAY-CARBON-VBANK",
+      "name": "Carbon V-bank Filter 592×592×292mm",
+      "category": "activated_carbon_filter",
+      "company": "cleanroom-ffu.com",
+      "description": "Activated carbon V-bank filter for odour removal.",
+      "source_url": "https://www.cleanroom-ffu.com/carbon-v-bank/",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [],
+      "spec": [
+        {
+          "spec_key": "dimension",
+          "spec_value": "592×592×292 / 592×287×292",
+          "unit": "mm",
+          "data_status": "verified"
+        }
+      ],
+      "material": [
+        {
+          "part": "media",
+          "material_value": "activated_carbon",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "filter_media": [
+        {
+          "type": "activated_carbon",
+          "efficiency_class": null,
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "hvac",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      },
+      "subcategory": "v_bank"
+    },
+    {
+      "sku": "EAWAY-CARBON-PANEL",
+      "name": "Carbon Panel Air Filter",
+      "category": "activated_carbon_filter",
+      "company": "cleanroom-ffu.com",
+      "description": "Activated carbon panel air filter.",
+      "source_url": "https://www.cleanroom-ffu.com/carbon-panel-filter/",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [],
+      "spec": [],
+      "material": [
+        {
+          "part": "media",
+          "material_value": "activated_carbon",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "filter_media": [
+        {
+          "type": "activated_carbon",
+          "efficiency_class": null,
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "hvac",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      },
+      "subcategory": "panel"
+    },
+    {
+      "sku": "EAWAY-PANEL-HEPA",
+      "name": "Panel HEPA Filter (Mini-pleat)",
+      "category": "hepa_filter",
+      "company": "cleanroom-ffu.com",
+      "description": "Panel HEPA filter, mini-pleat design.",
+      "source_url": "https://www.cleanroom-ffu.com/panel-hepa-filter/",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": "H13/H14",
+      "oe_reference": [],
+      "spec": [],
+      "material": [],
+      "filter_media": [
+        {
+          "type": "micro_glass_fiber",
+          "efficiency_class": "H13/H14",
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "cleanroom",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      },
+      "subcategory": "h13-h14"
+    },
+    {
+      "sku": "EAWAY-GEL-HEPA",
+      "name": "Gel HEPA Filter",
+      "category": "hepa_filter",
+      "company": "cleanroom-ffu.com",
+      "description": "Gel-seal HEPA filter for pharma, medical and laboratories.",
+      "source_url": "https://www.cleanroom-ffu.com/gel-hepa-filter/",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": "H13/H14",
+      "oe_reference": [],
+      "spec": [],
+      "material": [
+        {
+          "part": "seal",
+          "material_value": "gel",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "filter_media": [
+        {
+          "type": "micro_glass_fiber",
+          "efficiency_class": "H13/H14",
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "pharma",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      },
+      "subcategory": "h13-h14"
+    },
+    {
+      "sku": "EAWAY-SEPARATOR-HEPA",
+      "name": "Separator HEPA Filter for Clean Room",
+      "category": "hepa_filter",
+      "company": "cleanroom-ffu.com",
+      "description": "Separator HEPA filter for clean rooms.",
+      "source_url": "https://www.cleanroom-ffu.com/separator-hepa-filter-for-clean-room/",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": "H13/H14",
+      "oe_reference": [],
+      "spec": [],
+      "material": [],
+      "filter_media": [
+        {
+          "type": "micro_glass_fiber",
+          "efficiency_class": "H13/H14",
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "cleanroom",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      },
+      "subcategory": "h13-h14"
+    },
+    {
+      "sku": "EAWAY-CASSETTE-HEPA",
+      "name": "HEPA Filter Cassette (6 or 12 inch)",
+      "category": "hepa_filter",
+      "company": "cleanroom-ffu.com",
+      "description": "HEPA filter cassette, deep-pleat design, 6 or 12 inch thickness.",
+      "source_url": "https://www.cleanroom-ffu.com/hepa-filter-cassette/",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": "H13/H14",
+      "oe_reference": [],
+      "spec": [],
+      "material": [],
+      "filter_media": [
+        {
+          "type": "micro_glass_fiber",
+          "efficiency_class": "H13/H14",
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "cleanroom",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      },
+      "subcategory": "h13-h14"
+    },
+    {
+      "sku": "EAWAY-HT-HEPA",
+      "name": "High Temperature HEPA Filter",
+      "category": "hepa_filter",
+      "company": "cleanroom-ffu.com",
+      "description": "High temperature, heat-resistant HEPA filter.",
+      "source_url": "https://www.cleanroom-ffu.com/high-temperature-hepa-filters/",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": "H13/H14",
+      "oe_reference": [],
+      "spec": [],
+      "material": [],
+      "filter_media": [
+        {
+          "type": "micro_glass_fiber",
+          "efficiency_class": "H13/H14",
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "industrial",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      },
+      "subcategory": "h13-h14"
+    },
+    {
+      "sku": "EAWAY-FLAT-F5",
+      "name": "Metal Frame Flat Pre Air Filter F5",
+      "category": "hvac_filter",
+      "company": "cleanroom-ffu.com",
+      "description": "Metal frame flat pre air filter F5, replaceable media.",
+      "source_url": "https://www.cleanroom-ffu.com/flat-pre-air-filter-f5/",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": "F5",
+      "oe_reference": [],
+      "spec": [],
+      "material": [
+        {
+          "part": "frame",
+          "material_value": "metal",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "filter_media": [
+        {
+          "type": "synthetic_fiber",
+          "efficiency_class": "F5",
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "hvac",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      },
+      "subcategory": "pre"
+    },
+    {
+      "sku": "EAWAY-SUS-G4",
+      "name": "SUS Frame Washable Pleated Air Filter G4",
+      "category": "hvac_filter",
+      "company": "cleanroom-ffu.com",
+      "description": "SUS frame washable pleated air filter G4.",
+      "source_url": "https://www.cleanroom-ffu.com/sus-frame-washable-pleated-air-filter-g4/",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": "G4",
+      "oe_reference": [],
+      "spec": [],
+      "material": [
+        {
+          "part": "frame",
+          "material_value": "stainless_steel",
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "filter_media": [
+        {
+          "type": "synthetic_fiber",
+          "efficiency_class": "G4",
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "hvac",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      },
+      "subcategory": "pre"
+    },
+    {
+      "sku": "EAWAY-AIR-SHOWER",
+      "name": "Cleanroom Air Shower",
+      "category": "cleanroom_equipment",
+      "company": "cleanroom-ffu.com",
+      "description": "Air shower for cleanroom entry.",
+      "source_url": "https://www.cleanroom-ffu.com/air-shower-for-cleanroom-manufacturer/",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "cleanroom",
+          "medium": "cleanroom_ffu",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      },
+      "subcategory": "air_shower"
+    },
+    {
+      "sku": "EAWAY-PASS-BOX",
+      "name": "Clean Room Static & Dynamic Pass Box",
+      "category": "cleanroom_equipment",
+      "company": "cleanroom-ffu.com",
+      "description": "Static and dynamic pass box for cleanroom material transfer.",
+      "source_url": "https://www.cleanroom-ffu.com/cleanroom-pass-box-manufacturer/",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": null,
+      "oe_reference": [],
+      "spec": [],
+      "material": [],
+      "filter_media": [],
+      "application": [
+        {
+          "code": "cleanroom",
+          "medium": "cleanroom_ffu",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      },
+      "subcategory": "pass_box"
+    },
+    {
+      "sku": "EAWAY-95DOP",
+      "name": "95% DOP Panel Filter",
+      "category": "hepa_filter",
+      "company": "cleanroom-ffu.com",
+      "description": "95% DOP panel filter.",
+      "source_url": "https://www.cleanroom-ffu.com/95-dop-air-filters/",
+      "data_status": "catalog-confirmed",
+      "efficiency_class": "95% DOP",
+      "oe_reference": [],
+      "spec": [
+        {
+          "spec_key": "efficiency_percentage",
+          "spec_value": "95",
+          "unit": "%",
+          "data_status": "verified"
+        }
+      ],
+      "material": [],
+      "filter_media": [
+        {
+          "type": "micro_glass_fiber",
+          "efficiency_class": null,
+          "grammage": null,
+          "data_status": "catalog-confirmed"
+        }
+      ],
+      "application": [
+        {
+          "code": "cleanroom",
+          "medium": "air",
+          "data_status": "reference"
+        }
+      ],
+      "moq": {
+        "moq_value": null,
+        "moq_unit": null,
+        "data_status": "pending"
+      },
+      "subcategory": "h10-h12"
+    }
+  ]
+}

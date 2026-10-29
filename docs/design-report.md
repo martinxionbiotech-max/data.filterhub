@@ -15,7 +15,7 @@
 | `docs/schema-design.md` | 实体关系说明 + ASCII ER 图 + 品类树 + 应用场景枚举 |
 | `docs/field-dictionary.md` | 13 张表逐字段：名称/类型/必填/枚举值/来源依据/数据状态 |
 | `docs/data-status.md` | verified/catalog-confirmed/reference/pending 四态体系 |
-| `data/sample-products.json` | 14 个真实产品样例（5 站各 2-3 个，标注来源站）|
+| `data/products.json` | 104 个真实结构化 SKU（5 站，Phase 3 补全）|
 | `mkdocs.yml` | MkDocs 文档站骨架 |
 
 ## 3. 结构规模
@@ -60,7 +60,7 @@ hbxueyuan 提供大量 OE 号（如 23401-1441、42N-62-15470、35330-60070）�
 
 ## 7. 验证结论
 
-- 两仓文件落盘完整（filterhub：5 站 MD + README + crawl-report；data.filterhub：schema-design + field-dictionary + data-status + sample-products + mkdocs.yml + design-report）
+- 两仓文件落盘完整（filterhub：5 站 MD + README + crawl-report；data.filterhub：schema-design + field-dictionary + data-status + products + mkdocs.yml + design-report）
 - 5 站 MD 完整性：站点数 5/5，字数 3,183–4,592 字符/篇
 - 数据库结构三文档：实体（schema-design）/ 字段（field-dictionary）/ 状态（data-status）齐全
-- 样例产品：14 个（hbxueyuan 3、airyfilter 3、klcintl 2、yitong 3、cleanroom 3）
+- 结构化 SKU：104 个（Phase 3 从 5 站逐站提取，覆盖 13 主品类；字节一致同步主站 src/data/products.json）

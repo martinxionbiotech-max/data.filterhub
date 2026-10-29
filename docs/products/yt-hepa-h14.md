@@ -1,16 +1,19 @@
 # HEPA Filter H14
 
-<!-- AUTO-GENERATED: edit the dataset (data/sample-products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
+<!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
 - **SKU**：`YT-HEPA-H14`
 - **品类**：[HEPA / ULPA Filters](hepa-filter.md)
 - **来源站**：yitong-filter.com
-- **来源 URL**：https://www.yitong-filter.com/hepa-filters
+- **来源 URL**：https://www.yitong-filter.com/index.php/products/hepa-h13-h14-filter.html
 - **数据状态**：catalog-confirmed
+
+- **子类**：`h13-h14`
+- **效率等级**：`H14`
 
 ## 描述
 
-HEPA filter H14 for HVAC / cleanroom; ISO 16890 & EN 1822.
+HEPA filter H14 for HVAC / cleanroom, ISO 16890 & EN 1822.
 
 ## OE 交叉参考
 

@@ -1,16 +1,19 @@
 # Metal Filter Cartridge (SS304/SS316L/Ti)
 
-<!-- AUTO-GENERATED: edit the dataset (data/sample-products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
+<!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
 - **SKU**：`YT-METAL-CART`
-- **品类**：[Metal Filter Cartridges](metal-cartridge.md)
+- **品类**：[Liquid Filter Cartridges](liquid-filter.md)
 - **来源站**：yitong-filter.com
 - **来源 URL**：https://www.yitong-filter.com/
 - **数据状态**：catalog-confirmed
 
+- **子类**：`metal`
+- **效率等级**：`1-100 μm`
+
 ## 描述
 
-Metal filter cartridge, SS304/SS316L/Ti, sintered/mesh.
+Metal filter cartridge, SS304/SS316L/Ti, sintered or mesh.
 
 ## OE 交叉参考
 
@@ -27,8 +30,8 @@ Metal filter cartridge, SS304/SS316L/Ti, sintered/mesh.
 
 | 部件 | 材质 | 状态 |
 |---|---|---|
-| `core` | `SS304/SS316L/Ti` | verified |
-| `o_ring` | `Silicon/Viton/EPDM/NBR/PEFE` | verified |
+| `core` | `SS304/SS316L/Ti` | catalog-confirmed |
+| `o_ring` | `Silicon/Viton/EPDM/NBR/PEFE` | catalog-confirmed |
 
 ## 滤材 (filter media)
 

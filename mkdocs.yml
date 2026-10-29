@@ -13,30 +13,124 @@ nav:
   - 首页: index.md
   - 产品数据库:
       - SKU 索引: products/index.md
-      - 空气滤清器: products/air-filter.md
-      - 燃油滤清器: products/fuel-filter.md
-      - 变速箱滤清器: products/transmission-filter.md
-      - HVAC 过滤器: products/hvac-filter.md
-      - HEPA 过滤器: products/hepa-filter.md
       - 活性炭过滤器: products/activated-carbon-filter.md
-      - 金属滤芯: products/metal-cartridge.md
-      - 液体滤芯: products/liquid-filter.md
-      - FFU: products/ffu.md
+      - 空气滤清器: products/air-filter.md
+      - 空调滤清器: products/cabin-filter.md
+      - 洁净室设备: products/cleanroom-equipment.md
+      - 滤材介质: products/filter-media.md
+      - 燃油滤清器: products/fuel-filter.md
+      - HEPA/ULPA 过滤器: products/hepa-filter.md
+      - HVAC 过滤器: products/hvac-filter.md
+      - 液压滤清器: products/hydraulic-filter.md
+      - 液体过滤滤芯: products/liquid-filter.md
+      - 机油滤清器: products/oil-filter.md
+      - 袋式过滤器: products/pocket-filter.md
+      - 变速箱滤清器: products/transmission-filter.md
       - SKU 单页:
+          - 42n-62-15470: products/42n-62-15470.md
+          - p778989: products/p778989.md
+          - p822768: products/p822768.md
+          - 1542743: products/1542743.md
+          - 626095: products/626095.md
+          - 178017810: products/178017810.md
+          - 8-98260-8340: products/8-98260-8340.md
+          - p608677: products/p608677.md
+          - p623400: products/p623400.md
+          - 2116040258: products/2116040258.md
+          - af55014: products/af55014.md
+          - p643118: products/p643118.md
+          - 72880-fg000: products/72880-fg000.md
+          - 500-0957: products/500-0957.md
+          - 580-5439: products/580-5439.md
+          - 90915-yzza3: products/90915-yzza3.md
+          - g92dh42010: products/g92dh42010.md
+          - 88880-20110: products/88880-20110.md
+          - 7803a112: products/7803a112.md
+          - 7701059997: products/7701059997.md
           - 23401-1441: products/23401-1441.md
+          - 23401-1220: products/23401-1220.md
+          - 8159975: products/8159975.md
+          - 2169185: products/2169185.md
+          - 0007733150: products/0007733150.md
+          - vg1540080311: products/vg1540080311.md
+          - fs19920: products/fs19920.md
+          - pp879: products/pp879.md
           - 35330-60070: products/35330-60070.md
-          - 42N-62-15470: products/42n-62-15470.md
-          - AIRY-AC-PANEL: products/airy-ac-panel.md
-          - AIRY-AC-POCKET: products/airy-ac-pocket.md
-          - AIRY-F5-CEILING: products/airy-f5-ceiling.md
-          - KLC-24X24-HEPA: products/klc-24x24-hepa.md
-          - KLC-HT-SEPARATOR: products/klc-ht-separator.md
-          - YT-HEPA-H14: products/yt-hepa-h14.md
-          - YT-METAL-CART: products/yt-metal-cart.md
-          - YT-LIQ-MEMBRANE: products/yt-liq-membrane.md
-          - EAWAY-FFU-4848: products/eaway-ffu-4848.md
-          - EAWAY-HEPA-61061070: products/eaway-hepa-61061070.md
-          - EAWAY-CARBON-VBANK: products/eaway-carbon-vbank.md
+          - 35303-b1010: products/35303-b1010.md
+          - 31728-3jx0c: products/31728-3jx0c.md
+          - 25420-pr0-030: products/25420-pr0-030.md
+          - 25420-p7w-003: products/25420-p7w-003.md
+          - 25420-pw4-010: products/25420-pw4-010.md
+          - 31728-aa000: products/31728-aa000.md
+          - 8973310630: products/8973310630.md
+          - 15208-ad200: products/15208-ad200.md
+          - 1s7j-6744-ba: products/1s7j-6744-ba.md
+          - 77-00-126-705: products/77-00-126-705.md
+          - 93-18-6310: products/93-18-6310.md
+          - 93175493: products/93175493.md
+          - 03c115577a: products/03c115577a.md
+          - 0393-1030: products/0393-1030.md
+          - sh66279: products/sh66279.md
+          - 322-3155: products/322-3155.md
+          - p177047: products/p177047.md
+          - a222100000119: products/a222100000119.md
+          - r010109: products/r010109.md
+          - 1194740: products/1194740.md
+          - p502561: products/p502561.md
+          - airy-ac-panel: products/airy-ac-panel.md
+          - airy-ac-pocket: products/airy-ac-pocket.md
+          - airy-ac-pleated: products/airy-ac-pleated.md
+          - airy-ac-media: products/airy-ac-media.md
+          - airy-gel-hepa: products/airy-gel-hepa.md
+          - airy-merv-pocket: products/airy-merv-pocket.md
+          - airy-poly-pocket: products/airy-poly-pocket.md
+          - airy-rigid-pocket: products/airy-rigid-pocket.md
+          - airy-fb-panel: products/airy-fb-panel.md
+          - airy-pre-panel: products/airy-pre-panel.md
+          - airy-pleated-pre: products/airy-pleated-pre.md
+          - airy-cardboard-pre: products/airy-cardboard-pre.md
+          - airy-needle-cotton: products/airy-needle-cotton.md
+          - airy-ht-fiberglass: products/airy-ht-fiberglass.md
+          - airy-ht-synthetic: products/airy-ht-synthetic.md
+          - airy-fr-media: products/airy-fr-media.md
+          - airy-ceiling: products/airy-ceiling.md
+          - klc-24x24-hepa: products/klc-24x24-hepa.md
+          - klc-ptfe-ulpa: products/klc-ptfe-ulpa.md
+          - klc-ht-hepa: products/klc-ht-hepa.md
+          - klc-ht-separator: products/klc-ht-separator.md
+          - klc-med-vbank: products/klc-med-vbank.md
+          - klc-merv8: products/klc-merv8.md
+          - klc-g3-ht-primary: products/klc-g3-ht-primary.md
+          - klc-m5-m9-pocket: products/klc-m5-m9-pocket.md
+          - klc-glass-pocket: products/klc-glass-pocket.md
+          - klc-g1-g4-panel: products/klc-g1-g4-panel.md
+          - klc-e10-e14-terminal: products/klc-e10-e14-terminal.md
+          - klc-ffu: products/klc-ffu.md
+          - klc-clean-bench: products/klc-clean-bench.md
+          - klc-biosafety: products/klc-biosafety.md
+          - yt-hepa-h14: products/yt-hepa-h14.md
+          - yt-ulpa-u15: products/yt-ulpa-u15.md
+          - yt-coarse-g1-g4: products/yt-coarse-g1-g4.md
+          - yt-medium-m5-m6: products/yt-medium-m5-m6.md
+          - yt-fine-f7-f9: products/yt-fine-f7-f9.md
+          - yt-metal-cart: products/yt-metal-cart.md
+          - yt-liq-membrane: products/yt-liq-membrane.md
+          - yt-chemical: products/yt-chemical.md
+          - eaway-ffu-4848: products/eaway-ffu-4848.md
+          - eaway-hepa-61061070: products/eaway-hepa-61061070.md
+          - eaway-hepa-610610292: products/eaway-hepa-610610292.md
+          - eaway-carbon-vbank: products/eaway-carbon-vbank.md
+          - eaway-carbon-panel: products/eaway-carbon-panel.md
+          - eaway-panel-hepa: products/eaway-panel-hepa.md
+          - eaway-gel-hepa: products/eaway-gel-hepa.md
+          - eaway-separator-hepa: products/eaway-separator-hepa.md
+          - eaway-cassette-hepa: products/eaway-cassette-hepa.md
+          - eaway-ht-hepa: products/eaway-ht-hepa.md
+          - eaway-flat-f5: products/eaway-flat-f5.md
+          - eaway-sus-g4: products/eaway-sus-g4.md
+          - eaway-air-shower: products/eaway-air-shower.md
+          - eaway-pass-box: products/eaway-pass-box.md
+          - eaway-95dop: products/eaway-95dop.md
   - 参考资料:
       - 滤材对比: reference/filter-media.md
       - 测试标准: reference/test-standards.md
@@ -46,8 +140,7 @@ nav:
       - 数据状态体系: data-status.md
       - 设计报告: design-report.md
   - 数据:
-      - 样例产品: data/sample-products.md
-
+      - 产品数据: data/products.md
 markdown_extensions:
   - tables
   - admonition
@@ -55,7 +148,7 @@ markdown_extensions:
   - toc:
       permalink: true
 
-# 说明：data/sample-products.json 为机器可读数据（源），
-# docs/data/sample-products.json 为站点服务副本（由生成脚本同步），
-# docs/products/ 下的产品页由 scripts/build-product-pages.py 生成。
+# 说明：data/products.json 为机器可读数据（源），
+# docs/data/products.json 为站点服务副本（由生成脚本同步），
+# docs/products/ 下的产品页与 mkdocs.yml 由 scripts/build-product-pages.py 生成。
 # 域名 data.chinafilterhub.com 为占位（provisional）。
