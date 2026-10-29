@@ -1,0 +1,30 @@
+site_name: FilterHub Data
+site_description: Filter 产品数据库结构设计文档（基于 5 站深度抓取）
+site_url: https://martinxionbiotech-max.github.io/data.filterhub/
+repo_url: https://github.com/martinxionbiotech-max/data.filterhub
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.sections
+    - navigation.indexes
+    - content.code.copy
+nav:
+  - 首页: index.md
+  - 数据库设计:
+      - 实体关系与 ER 图: docs/schema-design.md
+      - 字段字典: docs/field-dictionary.md
+      - 数据状态体系: docs/data-status.md
+      - 设计报告: docs/design-report.md
+  - 数据:
+      - 样例产品: data/sample-products.md
+
+markdown_extensions:
+  - tables
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
+
+# 说明：data/sample-products.json 为机器可读数据，
+# 文档站内以 sample-products.md 形式做可读展示（如需）。
