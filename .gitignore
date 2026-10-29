@@ -1,0 +1,6 @@
+# MkDocs build output
+site/
+
+.DS_Store
+*.log
+__pycache__/

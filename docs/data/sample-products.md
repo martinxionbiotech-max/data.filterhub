@@ -13,3 +13,5 @@
 | cleanroom-ffu.com | Fan Filter Unit 48"x48"、Cleanroom HEPA 610x610x70mm、Carbon V-bank Filter |
 
 所有字段来源真实，缺失字段标记 `pending`（不虚构）。
+
+> 源数据在 `data/sample-products.json`，站点服务副本在 `docs/data/sample-products.json`（由 `scripts/build-product-pages.py` 同步）。

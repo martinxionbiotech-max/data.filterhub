@@ -1,6 +1,6 @@
-site_name: FilterHub Data
-site_description: Filter 产品数据库结构设计文档（基于 5 站深度抓取）
-site_url: https://martinxionbiotech-max.github.io/data.filterhub/
+site_name: China Filter Hub Data
+site_description: Qinghe Air Filter 产品数据库 —— SKU/OE/参数/滤材对比/测试标准（基于 5 站深度抓取）
+site_url: https://data.chinafilterhub.com/
 repo_url: https://github.com/martinxionbiotech-max/data.filterhub
 theme:
   name: material
@@ -11,11 +11,40 @@ theme:
     - content.code.copy
 nav:
   - 首页: index.md
+  - 产品数据库:
+      - SKU 索引: products/index.md
+      - 空气滤清器: products/air-filter.md
+      - 燃油滤清器: products/fuel-filter.md
+      - 变速箱滤清器: products/transmission-filter.md
+      - HVAC 过滤器: products/hvac-filter.md
+      - HEPA 过滤器: products/hepa-filter.md
+      - 活性炭过滤器: products/activated-carbon-filter.md
+      - 金属滤芯: products/metal-cartridge.md
+      - 液体滤芯: products/liquid-filter.md
+      - FFU: products/ffu.md
+      - SKU 单页:
+          - 23401-1441: products/23401-1441.md
+          - 35330-60070: products/35330-60070.md
+          - 42N-62-15470: products/42n-62-15470.md
+          - AIRY-AC-PANEL: products/airy-ac-panel.md
+          - AIRY-AC-POCKET: products/airy-ac-pocket.md
+          - AIRY-F5-CEILING: products/airy-f5-ceiling.md
+          - KLC-24X24-HEPA: products/klc-24x24-hepa.md
+          - KLC-HT-SEPARATOR: products/klc-ht-separator.md
+          - YT-HEPA-H14: products/yt-hepa-h14.md
+          - YT-METAL-CART: products/yt-metal-cart.md
+          - YT-LIQ-MEMBRANE: products/yt-liq-membrane.md
+          - EAWAY-FFU-4848: products/eaway-ffu-4848.md
+          - EAWAY-HEPA-61061070: products/eaway-hepa-61061070.md
+          - EAWAY-CARBON-VBANK: products/eaway-carbon-vbank.md
+  - 参考资料:
+      - 滤材对比: reference/filter-media.md
+      - 测试标准: reference/test-standards.md
   - 数据库设计:
-      - 实体关系与 ER 图: docs/schema-design.md
-      - 字段字典: docs/field-dictionary.md
-      - 数据状态体系: docs/data-status.md
-      - 设计报告: docs/design-report.md
+      - 实体关系与 ER 图: schema-design.md
+      - 字段字典: field-dictionary.md
+      - 数据状态体系: data-status.md
+      - 设计报告: design-report.md
   - 数据:
       - 样例产品: data/sample-products.md
 
@@ -26,5 +55,7 @@ markdown_extensions:
   - toc:
       permalink: true
 
-# 说明：data/sample-products.json 为机器可读数据，
-# 文档站内以 sample-products.md 形式做可读展示（如需）。
+# 说明：data/sample-products.json 为机器可读数据（源），
+# docs/data/sample-products.json 为站点服务副本（由生成脚本同步），
+# docs/products/ 下的产品页由 scripts/build-product-pages.py 生成。
+# 域名 data.chinafilterhub.com 为占位（provisional）。
