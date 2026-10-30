@@ -12,19 +12,19 @@
 
 ## Description
 
-Clean Room Static & Dynamic Pass Box. Cleanroom equipment for contamination-controlled environments. Typical parameters: efficiency Class 100 (static / dynamic), dimension 600×600×600 (static / dynamic), media micro glass fiber, construction housing: galvanized steel / stainless steel, application cleanroom; MOQ 1 pcs. Define the cleanroom ISO class and airflow first, then specify entry and transfer equipment together with the ceiling FFU system.
+Cleanroom static and dynamic pass box for material transfer, catalogued in the cleanroom-equipment category. The source confirms the static/dynamic forms but publishes no dimensions, airflow or efficiency figure. Pass boxes transfer materials without breaking the barrier, and the static/dynamic choice follows whether active airflow is needed. Our advice: confirm the required dimensions and whether static or dynamic operation is needed, then request the spec sheet before ordering.
 
 ## OE cross-reference
 
-`pending`
+not published
 
 ## Technical parameters (spec)
 
 | Parameter | Value | Unit | Status |
 |---|---|---|---|
 | `dimension` | `600×600×600 (static / dynamic)` | `mm` | reference |
-| `cleanliness_class` | `Class 100 / ISO 5` | `pending` | reference |
-| `efficiency_class` | `H13/H14` | `pending` | reference |
+| `cleanliness_class` | `Class 100 / ISO 5` | not published | reference |
+| `efficiency_class` | `H13/H14` | not published | reference |
 
 ## Material
 
@@ -36,7 +36,7 @@ Clean Room Static & Dynamic Pass Box. Cleanroom equipment for contamination-cont
 
 - Type: `micro_glass_fiber`
 - Efficiency class: `H13/H14`
-- Grammage: `pending`
+- Grammage: not published
 
 ## Application
 

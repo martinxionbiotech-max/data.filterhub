@@ -3,7 +3,7 @@
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
 - **SKU**: `EAWAY-95DOP`
-- **Category**: [HEPA / ULPA Filters](hepa-filter.md)
+- **Category**: [HEPA / ULPA Filters](hepa-filters.md)
 - **Evidence source**: manufacturer catalog record
 - **Data status**: catalog-confirmed
 
@@ -12,11 +12,11 @@
 
 ## Description
 
-95% DOP Panel Filter. High-efficiency HEPA / ULPA filter for clean-air and cleanroom duty. Typical parameters: efficiency 95% DOP, media micro glass fiber, construction media: micro glass fiber, frame: aluminium / galvanized steel, seal: gel / gasket, application cleanroom; MOQ 5 pcs. Match the class to the cleanroom ISO 14644 target, verify the seal type against the housing, and request a factory leakage-test certificate.
+95% DOP panel filter, catalogued in the HEPA/ULPA category. The source publishes a 95% DOP efficiency figure and micro-glass media but no face size, airflow or pressure-drop figure. The 95% DOP rating is a pre-HEPA efficiency level suited to less critical terminal duty. From a sourcing perspective, buyers should confirm whether the 95% DOP rating meets the cleanroom target or serves as a pre-filter stage, and verify the dimensions and seal type. Request a leakage-test certificate where required before ordering.
 
 ## OE cross-reference
 
-`pending`
+not published
 
 ## Technical parameters (spec)
 
@@ -35,8 +35,8 @@
 ## Filter media
 
 - Type: `micro_glass_fiber`
-- Efficiency class: `pending`
-- Grammage: `pending`
+- Efficiency class: not published
+- Grammage: not published
 
 ## Application
 

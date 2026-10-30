@@ -3,7 +3,7 @@
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
 - **SKU**: `AIRY-CARDBOARD-PRE`
-- **Category**: [HVAC Filters](hvac-filter.md)
+- **Category**: [HVAC Filters](hvac-filters.md)
 - **Evidence source**: manufacturer catalog record
 - **Data status**: catalog-confirmed
 
@@ -12,18 +12,18 @@
 
 ## Description
 
-Cardboard Paper Frame Pre-Filter for HVAC. HVAC / ventilation air filter for general air-handling duty. Typical parameters: efficiency G4, dimension 595×595×45, media synthetic fiber, construction frame: cardboard/paper, application hvac; MOQ 200 set. State airflow, pressure-drop budget and the governing efficiency standard, then confirm frame and pocket depth against the AHU.
+Cardboard-paper-frame pre-filter for HVAC, with synthetic media. The catalogue confirms the cardboard/paper frame and synthetic media but the spec figures are reference, not catalogue-verified The cardboard frame is a disposable, low-cost pre-stage option where the downstream media is protected. From a sourcing view, confirm the grade and face size, and request pressure-drop and dust-holding data to compare energy cost Confirm the reference on the spec sheet before ordering.
 
 ## OE cross-reference
 
-`pending`
+not published
 
 ## Technical parameters (spec)
 
 | Parameter | Value | Unit | Status |
 |---|---|---|---|
 | `dimension` | `595×595×45` | `mm` | reference |
-| `efficiency_class` | `G4` | `pending` | reference |
+| `efficiency_class` | `G4` | not published | reference |
 
 ## Material
 
@@ -34,8 +34,8 @@ Cardboard Paper Frame Pre-Filter for HVAC. HVAC / ventilation air filter for gen
 ## Filter media
 
 - Type: `synthetic_fiber`
-- Efficiency class: `pending`
-- Grammage: `pending`
+- Efficiency class: not published
+- Grammage: not published
 
 ## Application
 

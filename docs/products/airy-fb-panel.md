@@ -3,7 +3,7 @@
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
 - **SKU**: `AIRY-FB-PANEL`
-- **Category**: [HVAC Filters](hvac-filter.md)
+- **Category**: [HVAC Filters](hvac-filters.md)
 - **Evidence source**: manufacturer catalog record
 - **Data status**: catalog-confirmed
 
@@ -12,18 +12,18 @@
 
 ## Description
 
-FB Panel Filter. HVAC / ventilation air filter for general air-handling duty. Typical parameters: efficiency G4, dimension 595×595×45, media synthetic fiber, construction frame: cardboard / metal, application hvac; MOQ 200 set. State airflow, pressure-drop budget and the governing efficiency standard, then confirm frame and pocket depth against the AHU.
+FB panel filter for HVAC pre-filtration, catalogued in the HVAC category with a cardboard or metal frame and synthetic-fiber media. The source confirms the frame options and media but the parameters here are reference-grade, not source-confirmed Panel pre-filters capture coarse dust to protect downstream stages, and the frame choice follows the duty (cardboard for disposable, metal for washable). From a sourcing perspective, buyers should confirm the grade and face size, and request pressure-drop and dust-holding data for energy-cost comparison.
 
 ## OE cross-reference
 
-`pending`
+not published
 
 ## Technical parameters (spec)
 
 | Parameter | Value | Unit | Status |
 |---|---|---|---|
 | `dimension` | `595×595×45` | `mm` | reference |
-| `efficiency_class` | `G4` | `pending` | reference |
+| `efficiency_class` | `G4` | not published | reference |
 
 ## Material
 
@@ -34,8 +34,8 @@ FB Panel Filter. HVAC / ventilation air filter for general air-handling duty. Ty
 ## Filter media
 
 - Type: `synthetic_fiber`
-- Efficiency class: `pending`
-- Grammage: `pending`
+- Efficiency class: not published
+- Grammage: not published
 
 ## Application
 

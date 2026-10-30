@@ -3,7 +3,7 @@
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
 - **SKU**: `EAWAY-HT-HEPA`
-- **Category**: [HEPA / ULPA Filters](hepa-filter.md)
+- **Category**: [HEPA / ULPA Filters](hepa-filters.md)
 - **Evidence source**: manufacturer catalog record
 - **Data status**: catalog-confirmed
 
@@ -12,18 +12,18 @@
 
 ## Description
 
-High Temperature HEPA Filter. High-efficiency HEPA / ULPA filter for clean-air and cleanroom duty. Typical parameters: efficiency H13/H14, dimension 610×610×292, media micro glass fiber, construction media: micro glass fiber, frame: aluminium / galvanized steel, seal: gel / gasket, application industrial; MOQ 5 pcs. Match the class to the cleanroom ISO 14644 target, verify the seal type against the housing, and request a factory leakage-test certificate.
+Heat-resistant HEPA filter rated H13/H14 for industrial duty. The catalogue confirms the high-temperature application, the H13/H14 class and micro-glass media but withholds the temperature figure, face size and pressure drop. High-temperature HEPA duty hinges on the continuous operating temperature, which drives the media and seal choice. Our advice is to ask for the spec sheet to confirm the temperature rating, dimensions and a leakage-test certificate, and check the seal type before ordering.
 
 ## OE cross-reference
 
-`pending`
+not published
 
 ## Technical parameters (spec)
 
 | Parameter | Value | Unit | Status |
 |---|---|---|---|
 | `dimension` | `610×610×292` | `mm` | reference |
-| `efficiency_class` | `H13/H14` | `pending` | reference |
+| `efficiency_class` | `H13/H14` | not published | reference |
 
 ## Material
 
@@ -37,7 +37,7 @@ High Temperature HEPA Filter. High-efficiency HEPA / ULPA filter for clean-air a
 
 - Type: `micro_glass_fiber`
 - Efficiency class: `H13/H14`
-- Grammage: `pending`
+- Grammage: not published
 
 ## Application
 

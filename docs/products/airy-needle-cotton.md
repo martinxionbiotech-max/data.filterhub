@@ -12,11 +12,11 @@
 
 ## Description
 
-Acupuncture Cotton / Needle Punched Filter Media (AR-03/05). Filter media roll for filter manufacture and integrators. Typical parameters: efficiency G3 / G4, dimension 3 / 5, media needle punched, construction media: synthetic fiber, application hvac; MOQ 20 roll. State roll width, grammage and any fire-rating requirement, and request an efficiency curve for the target particle size.
+Needle-punched (acupuncture cotton) filter media for pre-filtration, catalogued in the filter-media category with a G3/G4 grade. The source publishes an airflow of 5400 m³/h, a pressure drop at or under 35 Pa and 3 mm or 5 mm thickness, with a low 20-roll MOQ. Needle-punched media trades low initial resistance for high coarse-dust capacity in HVAC and spray-booth pre-filtration. Our advice: specify the target grade and application, and confirm roll width and grammage. Request an efficiency curve for the target particle size before bulk ordering.
 
 ## OE cross-reference
 
-`pending`
+not published
 
 ## Technical parameters (spec)
 
@@ -36,7 +36,7 @@ Acupuncture Cotton / Needle Punched Filter Media (AR-03/05). Filter media roll f
 
 - Type: `needle_punched`
 - Efficiency class: `G3-G4`
-- Grammage: `pending`
+- Grammage: not published
 
 ## Application
 

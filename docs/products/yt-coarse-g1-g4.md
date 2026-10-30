@@ -3,7 +3,7 @@
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
 - **SKU**: `YT-COARSE-G1-G4`
-- **Category**: [HVAC Filters](hvac-filter.md)
+- **Category**: [HVAC Filters](hvac-filters.md)
 - **Evidence source**: manufacturer catalog record
 - **Data status**: catalog-confirmed
 
@@ -12,18 +12,18 @@
 
 ## Description
 
-Coarse Ventilation Filter G1-G4. HVAC / ventilation air filter for general air-handling duty. Typical parameters: efficiency G1-G4, dimension 595×595×45, media synthetic fiber, construction media: synthetic fiber, frame: cardboard / metal, application hvac; MOQ 200 set. State airflow, pressure-drop budget and the governing efficiency standard, then confirm frame and pocket depth against the AHU.
+Coarse ventilation filter graded G1-G4 (ISO 16890), catalogued in the HVAC category with synthetic media. The source confirms the G1-G4 grade range and the ISO 16890 reference but publishes no face size, airflow or pressure-drop figure. The coarse stage captures large particles and protects downstream media. Our advice: confirm the exact grade and face size, and request pressure-drop and dust-holding data for energy-cost comparison before bulk ordering.
 
 ## OE cross-reference
 
-`pending`
+not published
 
 ## Technical parameters (spec)
 
 | Parameter | Value | Unit | Status |
 |---|---|---|---|
 | `dimension` | `595×595×45` | `mm` | reference |
-| `efficiency_class` | `G4` | `pending` | reference |
+| `efficiency_class` | `G4` | not published | reference |
 
 ## Material
 
@@ -36,7 +36,7 @@ Coarse Ventilation Filter G1-G4. HVAC / ventilation air filter for general air-h
 
 - Type: `synthetic_fiber`
 - Efficiency class: `G1-G4`
-- Grammage: `pending`
+- Grammage: not published
 
 ## Application
 

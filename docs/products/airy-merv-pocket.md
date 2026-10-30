@@ -3,7 +3,7 @@
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
 - **SKU**: `AIRY-MERV-POCKET`
-- **Category**: [Pocket / Bag Filters](pocket-filter.md)
+- **Category**: [Pocket / Bag Filters](pocket-filters.md)
 - **Evidence source**: manufacturer catalog record
 - **Data status**: catalog-confirmed
 
@@ -11,11 +11,11 @@
 
 ## Description
 
-MERV 5-14 Fiberglass Pocket Air Filter. Pocket / bag filter for medium-to-fine HVAC filtration. Typical parameters: efficiency M5 / M6 / F7, dimension 287×595×550 / 595×595×550 / 595×595×600, media synthetic fiber, construction media: fiberglass, application hvac; MOQ 200 set. State airflow and pressure-drop budget, and confirm pocket depth and frame against the AHU before ordering.
+Fiberglass pocket air filter graded M5/M6/F7 (MERV 5-14 family), catalogued in the pocket-filter category. The source publishes pocket sizes of 287×595×550, 595×595×550 and 595×595×600 mm, airflow of 1000-2950 m³/h and pressure drops of 55-100 Pa, with a 200-set MOQ. Fiberglass pockets hold high dust capacity in a compact AHU frame. Our advice: confirm the grade against the AHU stage and the face dimensions and pocket count against the frame. Request initial pressure-drop and dust-holding data for life-cycle cost before bulk ordering.
 
 ## OE cross-reference
 
-`pending`
+not published
 
 ## Technical parameters (spec)
 
@@ -35,7 +35,7 @@ MERV 5-14 Fiberglass Pocket Air Filter. Pocket / bag filter for medium-to-fine H
 
 - Type: `synthetic_fiber`
 - Efficiency class: `M5-M6-F7`
-- Grammage: `pending`
+- Grammage: not published
 
 ## Application
 

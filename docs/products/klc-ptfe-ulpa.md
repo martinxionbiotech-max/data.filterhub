@@ -3,7 +3,7 @@
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
 - **SKU**: `KLC-PTFE-ULPA`
-- **Category**: [HEPA / ULPA Filters](hepa-filter.md)
+- **Category**: [HEPA / ULPA Filters](hepa-filters.md)
 - **Evidence source**: manufacturer catalog record
 - **Data status**: catalog-confirmed
 
@@ -12,18 +12,18 @@
 
 ## Description
 
-PTFE ULPA / HEPA / Sub-HEPA Mini-pleat Filter. High-efficiency HEPA / ULPA filter for clean-air and cleanroom duty. Typical parameters: efficiency ULPA / HEPA / Sub-HEPA, dimension 610×610×292, media membrane, construction membrane: PTFE, application cleanroom; MOQ 5 pcs. Match the class to the cleanroom ISO 14644 target, verify the seal type against the housing, and request a factory leakage-test certificate.
+PTFE ULPA/HEPA/sub-HEPA mini-pleat filter, catalogued in the HEPA/ULPA category with a ULPA/HEPA/sub-HEPA class span and U15-U17 media rating. The source confirms the PTFE membrane construction but publishes no face size, airflow or pressure-drop figure. PTFE media adds chemical resistance and suits aggressive cleanroom chemistries. From a sourcing perspective, buyers should lock the efficiency class to the process need and confirm the seal type and dimensions. Request a leakage-test certificate where required, since per-model values are not published here.
 
 ## OE cross-reference
 
-`pending`
+not published
 
 ## Technical parameters (spec)
 
 | Parameter | Value | Unit | Status |
 |---|---|---|---|
 | `dimension` | `610×610×292` | `mm` | reference |
-| `efficiency_class` | `H13/H14` | `pending` | reference |
+| `efficiency_class` | `H13/H14` | not published | reference |
 
 ## Material
 
@@ -35,7 +35,7 @@ PTFE ULPA / HEPA / Sub-HEPA Mini-pleat Filter. High-efficiency HEPA / ULPA filte
 
 - Type: `membrane`
 - Efficiency class: `U15-U17`
-- Grammage: `pending`
+- Grammage: not published
 
 ## Application
 

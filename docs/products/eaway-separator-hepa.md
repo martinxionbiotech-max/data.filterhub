@@ -3,7 +3,7 @@
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
 - **SKU**: `EAWAY-SEPARATOR-HEPA`
-- **Category**: [HEPA / ULPA Filters](hepa-filter.md)
+- **Category**: [HEPA / ULPA Filters](hepa-filters.md)
 - **Evidence source**: manufacturer catalog record
 - **Data status**: catalog-confirmed
 
@@ -12,18 +12,18 @@
 
 ## Description
 
-Separator HEPA Filter for Clean Room. High-efficiency HEPA / ULPA filter for clean-air and cleanroom duty. Typical parameters: efficiency H13/H14, dimension 610×610×292, media micro glass fiber, construction media: micro glass fiber, frame: aluminium / galvanized steel, seal: gel / gasket, application cleanroom; MOQ 5 pcs. Match the class to the cleanroom ISO 14644 target, verify the seal type against the housing, and request a factory leakage-test certificate.
+Separator HEPA filter for clean rooms, catalogued in the HEPA/ULPA category with an H13/H14 class and micro-glass media. The source confirms the separator construction and class but publishes no face size, airflow or pressure-drop figure. Separator construction uses pleat-spacing for structural stability, distinct from mini-pleat. Our advice: confirm the dimensions and seal type against the housing, and lock the class to the cleanroom ISO target. Request a leakage-test certificate where required before bulk ordering.
 
 ## OE cross-reference
 
-`pending`
+not published
 
 ## Technical parameters (spec)
 
 | Parameter | Value | Unit | Status |
 |---|---|---|---|
 | `dimension` | `610×610×292` | `mm` | reference |
-| `efficiency_class` | `H13/H14` | `pending` | reference |
+| `efficiency_class` | `H13/H14` | not published | reference |
 
 ## Material
 
@@ -37,7 +37,7 @@ Separator HEPA Filter for Clean Room. High-efficiency HEPA / ULPA filter for cle
 
 - Type: `micro_glass_fiber`
 - Efficiency class: `H13/H14`
-- Grammage: `pending`
+- Grammage: not published
 
 ## Application
 

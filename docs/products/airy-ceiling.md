@@ -12,17 +12,17 @@
 
 ## Description
 
-F5 / MERV 5 Synthetic Fiber Ceiling Air Filter Roll. Filter media roll for filter manufacture and integrators. Typical parameters: efficiency F5 / MERV 5, media needle punched, construction media: synthetic_fiber, application hvac; MOQ 20 roll. State roll width, grammage and any fire-rating requirement, and request an efficiency curve for the target particle size.
+F5 / MERV 5 synthetic-fiber ceiling (roof) filter media supplied as roll stock, catalogued in the filter-media category. The source confirms the F5 / MERV 5 grade and the synthetic-fiber construction, with a low 20-roll MOQ, but publishes no grammage, thickness or efficiency curve. Ceiling/roof media serves high-area pre-filtration in paint booths and industrial halls. Our advice: specify the target grade and application, and confirm roll width and grammage. Request an efficiency curve for the target particle size before bulk ordering.
 
 ## OE cross-reference
 
-`pending`
+not published
 
 ## Technical parameters (spec)
 
 | Parameter | Value | Unit | Status |
 |---|---|---|---|
-| `efficiency_class` | `F5 / MERV 5` | `pending` | verified |
+| `efficiency_class` | `F5 / MERV 5` | not published | verified |
 
 ## Material
 
@@ -34,7 +34,7 @@ F5 / MERV 5 Synthetic Fiber Ceiling Air Filter Roll. Filter media roll for filte
 
 - Type: `needle_punched`
 - Efficiency class: `F5`
-- Grammage: `pending`
+- Grammage: not published
 
 ## Application
 

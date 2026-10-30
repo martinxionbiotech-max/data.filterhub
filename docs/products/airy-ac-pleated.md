@@ -3,7 +3,7 @@
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
 - **SKU**: `AIRY-AC-PLEATED`
-- **Category**: [Activated Carbon Filters](activated-carbon-filter.md)
+- **Category**: [Activated Carbon Filters](activated-carbon.md)
 - **Evidence source**: manufacturer catalog record
 - **Data status**: catalog-confirmed
 
@@ -12,11 +12,11 @@
 
 ## Description
 
-Activated Carbon Pleated Filter. Activated-carbon filter for odour and chemical-vapour removal. Typical parameters: efficiency 60-65% arrestance, dimension 595×595×10 / 495×595×10 / 295×595×10 / 595×595×21 / 495×595×21 / 295×595×21, media activated carbon, construction media: activated_carbon, application hvac; MOQ 200 set. Name the target contaminant and confirm airflow and contact time; request carbon weight and expected service life.
+Activated-carbon pleated filter for odour removal, catalogued in the activated-carbon category. The source publishes six face sizes from 295×595×10 mm to 595×595×21 mm, airflow figures of 2000-3600 m³/h, pressure drops of 10-15 Pa and a 60-65% arrestance figure, with a 200-set MOQ. The pleated form adds media surface area for lower pressure drop, but carbon remains contaminant-specific. From a sourcing perspective, buyers should name the target contaminant and confirm airflow and contact time. Request carbon weight and expected service life, which are not published here, before bulk ordering.
 
 ## OE cross-reference
 
-`pending`
+not published
 
 ## Technical parameters (spec)
 
@@ -36,8 +36,8 @@ Activated Carbon Pleated Filter. Activated-carbon filter for odour and chemical-
 ## Filter media
 
 - Type: `activated_carbon`
-- Efficiency class: `pending`
-- Grammage: `pending`
+- Efficiency class: not published
+- Grammage: not published
 
 ## Application
 

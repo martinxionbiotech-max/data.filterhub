@@ -12,19 +12,19 @@
 
 ## Description
 
-Class 100 / ISO 5 Vertical Flow Clean Bench. Cleanroom equipment for contamination-controlled environments. Typical parameters: efficiency Class 100 / ISO 5, dimension 1200×800×1500 (clean bench), media micro glass fiber, construction housing: galvanized steel / stainless steel, application cleanroom; MOQ 1 pcs. Define the cleanroom ISO class and airflow first, then specify entry and transfer equipment together with the ceiling FFU system.
+Class 100 / ISO 5 vertical-flow clean bench with a lifting door, catalogued in the cleanroom-equipment category. The source confirms the Class 100 / ISO 5 rating, the vertical-flow form and the lifting door but publishes no dimensions, airflow or efficiency figure. A clean bench delivers a local clean working zone for laboratory and repair tasks. Our advice: confirm the working-zone dimensions and the required airflow, and specify AC or EC motor and voltage. Request the spec sheet before ordering.
 
 ## OE cross-reference
 
-`pending`
+not published
 
 ## Technical parameters (spec)
 
 | Parameter | Value | Unit | Status |
 |---|---|---|---|
 | `dimension` | `1200×800×1500 (clean bench)` | `mm` | reference |
-| `cleanliness_class` | `Class 100 / ISO 5` | `pending` | reference |
-| `efficiency_class` | `H13/H14` | `pending` | reference |
+| `cleanliness_class` | `Class 100 / ISO 5` | not published | reference |
+| `efficiency_class` | `H13/H14` | not published | reference |
 
 ## Material
 
@@ -36,7 +36,7 @@ Class 100 / ISO 5 Vertical Flow Clean Bench. Cleanroom equipment for contaminati
 
 - Type: `micro_glass_fiber`
 - Efficiency class: `H13/H14`
-- Grammage: `pending`
+- Grammage: not published
 
 ## Application
 

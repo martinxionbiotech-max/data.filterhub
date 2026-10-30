@@ -3,7 +3,7 @@
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
 - **SKU**: `YT-MEDIUM-M5-M6`
-- **Category**: [HVAC Filters](hvac-filter.md)
+- **Category**: [HVAC Filters](hvac-filters.md)
 - **Evidence source**: manufacturer catalog record
 - **Data status**: catalog-confirmed
 
@@ -12,18 +12,18 @@
 
 ## Description
 
-Medium Ventilation Filter M5/M6. HVAC / ventilation air filter for general air-handling duty. Typical parameters: efficiency M5/M6, dimension 595×595×45, media synthetic fiber, construction media: synthetic fiber, frame: cardboard / metal, application hvac; MOQ 200 set. State airflow, pressure-drop budget and the governing efficiency standard, then confirm frame and pocket depth against the AHU.
+Medium ventilation filter graded M5/M6, catalogued in the HVAC category with synthetic media. The source confirms the M5/M6 grade range but publishes no face size, airflow or pressure-drop figure. The medium stage removes finer particulate behind the pre-filter. From a sourcing perspective, buyers should confirm the exact grade and face size, and request pressure-drop and dust-holding data for energy-cost comparison before ordering.
 
 ## OE cross-reference
 
-`pending`
+not published
 
 ## Technical parameters (spec)
 
 | Parameter | Value | Unit | Status |
 |---|---|---|---|
 | `dimension` | `595×595×45` | `mm` | reference |
-| `efficiency_class` | `G4` | `pending` | reference |
+| `efficiency_class` | `G4` | not published | reference |
 
 ## Material
 
@@ -36,7 +36,7 @@ Medium Ventilation Filter M5/M6. HVAC / ventilation air filter for general air-h
 
 - Type: `synthetic_fiber`
 - Efficiency class: `M5-M6`
-- Grammage: `pending`
+- Grammage: not published
 
 ## Application
 

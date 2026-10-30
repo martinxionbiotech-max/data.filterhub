@@ -3,7 +3,7 @@
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
 - **SKU**: `AIRY-PLEATED-PRE`
-- **Category**: [HVAC Filters](hvac-filter.md)
+- **Category**: [HVAC Filters](hvac-filters.md)
 - **Evidence source**: manufacturer catalog record
 - **Data status**: catalog-confirmed
 
@@ -12,18 +12,18 @@
 
 ## Description
 
-Pleated Pre-Filter. HVAC / ventilation air filter for general air-handling duty. Typical parameters: efficiency G4, dimension 595×595×45, media synthetic fiber, construction media: synthetic fiber, frame: cardboard / metal, application hvac; MOQ 200 set. State airflow, pressure-drop budget and the governing efficiency standard, then confirm frame and pocket depth against the AHU.
+Pleated pre-filter for HVAC systems, catalogued in the HVAC category with synthetic-fiber media. The source confirms the synthetic media and pleated construction but these fields are carried as reference values rather than a verified spec The pleated form adds media area for lower pressure drop in pre-filtration. From a sourcing perspective, buyers should confirm the grade and face size, and request pressure-drop and dust-holding data for energy-cost comparison before ordering.
 
 ## OE cross-reference
 
-`pending`
+not published
 
 ## Technical parameters (spec)
 
 | Parameter | Value | Unit | Status |
 |---|---|---|---|
 | `dimension` | `595×595×45` | `mm` | reference |
-| `efficiency_class` | `G4` | `pending` | reference |
+| `efficiency_class` | `G4` | not published | reference |
 
 ## Material
 
@@ -35,8 +35,8 @@ Pleated Pre-Filter. HVAC / ventilation air filter for general air-handling duty.
 ## Filter media
 
 - Type: `synthetic_fiber`
-- Efficiency class: `pending`
-- Grammage: `pending`
+- Efficiency class: not published
+- Grammage: not published
 
 ## Application
 

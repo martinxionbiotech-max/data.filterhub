@@ -12,19 +12,19 @@
 
 ## Description
 
-Biosafety Cabinet. Cleanroom equipment for contamination-controlled environments. Typical parameters: efficiency Class II Type A2, dimension Class II cabinet (model-specific), media micro glass fiber, construction housing: galvanized steel / stainless steel, application healthcare; MOQ 1 pcs. Define the cleanroom ISO class and airflow first, then specify entry and transfer equipment together with the ceiling FFU system.
+Biosafety cabinet for cleanroom and laboratory use, catalogued in the cleanroom-equipment category. The source confirms the biosafety application but publishes no class, dimensions, airflow or efficiency figure. Biosafety cabinets add containment for biological work, so the class and the working-zone configuration are the key variables. From a sourcing perspective, buyers should confirm the required biosafety class and the working-zone dimensions, and specify AC or EC motor and voltage. Request the spec sheet before ordering.
 
 ## OE cross-reference
 
-`pending`
+not published
 
 ## Technical parameters (spec)
 
 | Parameter | Value | Unit | Status |
 |---|---|---|---|
-| `dimension` | `Class II cabinet (model-specific)` | `pending` | reference |
-| `cleanliness_class` | `Class 100 / ISO 5` | `pending` | reference |
-| `efficiency_class` | `H13/H14` | `pending` | reference |
+| `dimension` | `Class II cabinet (model-specific)` | not published | reference |
+| `cleanliness_class` | `Class 100 / ISO 5` | not published | reference |
+| `efficiency_class` | `H13/H14` | not published | reference |
 
 ## Material
 
@@ -36,7 +36,7 @@ Biosafety Cabinet. Cleanroom equipment for contamination-controlled environments
 
 - Type: `micro_glass_fiber`
 - Efficiency class: `H13/H14`
-- Grammage: `pending`
+- Grammage: not published
 
 ## Application
 

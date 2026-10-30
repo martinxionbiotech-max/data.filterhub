@@ -3,7 +3,7 @@
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
 - **SKU**: `KLC-GLASS-POCKET`
-- **Category**: [Pocket / Bag Filters](pocket-filter.md)
+- **Category**: [Pocket / Bag Filters](pocket-filters.md)
 - **Evidence source**: manufacturer catalog record
 - **Data status**: catalog-confirmed
 
@@ -11,18 +11,18 @@
 
 ## Description
 
-Glass Fiber Medium Efficiency Pocket Filter. Pocket / bag filter for medium-to-fine HVAC filtration. Typical parameters: efficiency F5 / F7, dimension 592×592×600, media micro glass fiber, construction media: glass_fiber, application hvac; MOQ 200 set. State airflow and pressure-drop budget, and confirm pocket depth and frame against the AHU before ordering.
+Glass-fiber medium-efficiency pocket filter, catalogued in the pocket-filter category. The source confirms the glass-fiber media but publishes no grade, face size, airflow or pressure-drop figure. Glass media offers fine-fibre efficiency for the medium AHU band. Our advice: confirm the grade and the face dimensions and pocket count against the AHU frame. Request initial pressure-drop and dust-holding capacity for life-cycle cost comparison, since these are not published here.
 
 ## OE cross-reference
 
-`pending`
+not published
 
 ## Technical parameters (spec)
 
 | Parameter | Value | Unit | Status |
 |---|---|---|---|
 | `dimension` | `592×592×600` | `mm` | reference |
-| `efficiency_class` | `M5 / M6 / F7` | `pending` | reference |
+| `efficiency_class` | `M5 / M6 / F7` | not published | reference |
 
 ## Material
 
@@ -33,8 +33,8 @@ Glass Fiber Medium Efficiency Pocket Filter. Pocket / bag filter for medium-to-f
 ## Filter media
 
 - Type: `micro_glass_fiber`
-- Efficiency class: `pending`
-- Grammage: `pending`
+- Efficiency class: not published
+- Grammage: not published
 
 ## Application
 

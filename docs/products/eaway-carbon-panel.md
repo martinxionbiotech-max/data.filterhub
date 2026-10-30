@@ -3,7 +3,7 @@
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
 - **SKU**: `EAWAY-CARBON-PANEL`
-- **Category**: [Activated Carbon Filters](activated-carbon-filter.md)
+- **Category**: [Activated Carbon Filters](activated-carbon.md)
 - **Evidence source**: manufacturer catalog record
 - **Data status**: catalog-confirmed
 
@@ -12,18 +12,18 @@
 
 ## Description
 
-Carbon Panel Air Filter. Activated-carbon filter for odour and chemical-vapour removal. Typical parameters: efficiency G4 / F5, dimension 592×592×292, media activated carbon, construction media: activated_carbon, application hvac; MOQ 200 set. Name the target contaminant and confirm airflow and contact time; request carbon weight and expected service life.
+Activated-carbon panel air filter for odour removal, catalogued in the activated-carbon category. The source confirms the activated-carbon media but publishes no face size, airflow, carbon weight or efficiency figure. Carbon is contaminant-specific, so the target compound drives the media spec, and the panel form suits HVAC odour stages. Our advice: name the target contaminant and confirm the airflow and contact time, then request carbon weight and expected service life on the spec sheet. Verify the face size against the AHU frame before bulk ordering.
 
 ## OE cross-reference
 
-`pending`
+not published
 
 ## Technical parameters (spec)
 
 | Parameter | Value | Unit | Status |
 |---|---|---|---|
 | `dimension` | `592×592×292` | `mm` | reference |
-| `efficiency_class` | `G4 / F5` | `pending` | reference |
+| `efficiency_class` | `G4 / F5` | not published | reference |
 
 ## Material
 
@@ -34,8 +34,8 @@ Carbon Panel Air Filter. Activated-carbon filter for odour and chemical-vapour r
 ## Filter media
 
 - Type: `activated_carbon`
-- Efficiency class: `pending`
-- Grammage: `pending`
+- Efficiency class: not published
+- Grammage: not published
 
 ## Application
 

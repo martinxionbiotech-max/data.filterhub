@@ -3,7 +3,7 @@
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
 - **SKU**: `KLC-24X24-HEPA`
-- **Category**: [HEPA / ULPA Filters](hepa-filter.md)
+- **Category**: [HEPA / ULPA Filters](hepa-filters.md)
 - **Evidence source**: manufacturer catalog record
 - **Data status**: catalog-confirmed
 
@@ -11,11 +11,11 @@
 
 ## Description
 
-24x24 HEPA Filter. High-efficiency HEPA / ULPA filter for clean-air and cleanroom duty. Typical parameters: efficiency H13/H14, dimension 24×24, media micro glass fiber, construction media: micro glass fiber, frame: aluminium / galvanized steel, seal: gel / gasket, application cleanroom; MOQ 5 pcs. Match the class to the cleanroom ISO 14644 target, verify the seal type against the housing, and request a factory leakage-test certificate.
+Mini-pleat HEPA filter at 24×24 inch, catalogued in the HEPA/ULPA category with an H13/H14 class. The source publishes the face size and the H13/H14 efficiency range but no depth, airflow or pressure-drop figure. The 24×24 form is a standard terminal panel, so class and seal type are the key variables. Our advice: lock the efficiency class (H13 versus H14) to the cleanroom ISO 14644 target, and verify the seal type against the housing. Request dimensions and a leakage-test certificate where required, since these are not published here.
 
 ## OE cross-reference
 
-`pending`
+not published
 
 ## Technical parameters (spec)
 
@@ -35,7 +35,7 @@
 
 - Type: `micro_glass_fiber`
 - Efficiency class: `H13/H14`
-- Grammage: `pending`
+- Grammage: not published
 
 ## Application
 

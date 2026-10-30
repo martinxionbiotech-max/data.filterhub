@@ -12,19 +12,19 @@
 
 ## Description
 
-Cleanroom Air Shower. Cleanroom equipment for contamination-controlled environments. Typical parameters: efficiency Class 100 / ISO 5, dimension single-person (model-specific), media micro glass fiber, construction housing: galvanized steel / stainless steel, application cleanroom; MOQ 1 pcs. Define the cleanroom ISO class and airflow first, then specify entry and transfer equipment together with the ceiling FFU system.
+Cleanroom air shower, catalogued in the cleanroom-equipment category. The source confirms the air-shower application but publishes no dimensions, nozzle count, airflow or efficiency figure. Air showers remove particulate from personnel at entry, so the pass-through dimensions and the door configuration are the key variables. From a sourcing perspective, buyers should confirm the required dimensions, the number of people per cycle and the airflow. Request the spec sheet before ordering.
 
 ## OE cross-reference
 
-`pending`
+not published
 
 ## Technical parameters (spec)
 
 | Parameter | Value | Unit | Status |
 |---|---|---|---|
-| `dimension` | `single-person (model-specific)` | `pending` | reference |
-| `cleanliness_class` | `Class 100 / ISO 5` | `pending` | reference |
-| `efficiency_class` | `H13/H14` | `pending` | reference |
+| `dimension` | `single-person (model-specific)` | not published | reference |
+| `cleanliness_class` | `Class 100 / ISO 5` | not published | reference |
+| `efficiency_class` | `H13/H14` | not published | reference |
 
 ## Material
 
@@ -36,7 +36,7 @@ Cleanroom Air Shower. Cleanroom equipment for contamination-controlled environme
 
 - Type: `micro_glass_fiber`
 - Efficiency class: `H13/H14`
-- Grammage: `pending`
+- Grammage: not published
 
 ## Application
 

@@ -3,7 +3,7 @@
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
 - **SKU**: `YT-HEPA-H14`
-- **Category**: [HEPA / ULPA Filters](hepa-filter.md)
+- **Category**: [HEPA / ULPA Filters](hepa-filters.md)
 - **Evidence source**: manufacturer catalog record
 - **Data status**: catalog-confirmed
 
@@ -12,17 +12,17 @@
 
 ## Description
 
-HEPA Filter H14. High-efficiency HEPA / ULPA filter for clean-air and cleanroom duty. Typical parameters: efficiency H14, media micro glass fiber, construction frame: galvanized_steel / aluminum, application pharma; MOQ 5 pcs. Match the class to the cleanroom ISO 14644 target, verify the seal type against the housing, and request a factory leakage-test certificate.
+HEPA filter rated H14, catalogued in the HEPA/ULPA category for HVAC and cleanroom duty under ISO 16890 and EN 1822. The source confirms the H14 class, a galvanised steel or aluminium frame and micro-glass media, but publishes no face size, airflow or pressure-drop figure. H14 is the standard working point for most cleanrooms. Our advice: confirm the seal type against the housing and whether a factory leakage-test certificate is required. Request dimensions and pressure-drop data on the spec sheet before bulk ordering.
 
 ## OE cross-reference
 
-`pending`
+not published
 
 ## Technical parameters (spec)
 
 | Parameter | Value | Unit | Status |
 |---|---|---|---|
-| `efficiency_class` | `H14` | `pending` | verified |
+| `efficiency_class` | `H14` | not published | verified |
 
 ## Material
 
@@ -34,7 +34,7 @@ HEPA Filter H14. High-efficiency HEPA / ULPA filter for clean-air and cleanroom 
 
 - Type: `micro_glass_fiber`
 - Efficiency class: `H14`
-- Grammage: `pending`
+- Grammage: not published
 
 ## Application
 

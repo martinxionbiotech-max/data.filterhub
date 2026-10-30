@@ -3,7 +3,7 @@
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
 - **SKU**: `KLC-G3-HT-PRIMARY`
-- **Category**: [HVAC Filters](hvac-filter.md)
+- **Category**: [HVAC Filters](hvac-filters.md)
 - **Evidence source**: manufacturer catalog record
 - **Data status**: catalog-confirmed
 
@@ -12,18 +12,18 @@
 
 ## Description
 
-G3 High Heat-Resistance Pleated Primary Filter. HVAC / ventilation air filter for general air-handling duty. Typical parameters: efficiency G3, dimension 595×595×45, media synthetic fiber, construction media: synthetic fiber, frame: cardboard / metal, application industrial; MOQ 200 set. State airflow, pressure-drop budget and the governing efficiency standard, then confirm frame and pocket depth against the AHU.
+G3 high-heat-resistance pleated primary filter, catalogued in the HVAC category with synthetic media. The source confirms the G3 grade, the pleated construction and the high-heat-resistance description but publishes no temperature figure, face size, airflow or pressure-drop figure. As a G3 primary stage, it captures coarse dust and protects downstream media. Our advice: confirm the exact temperature requirement and the face size, and request pressure-drop data before bulk ordering.
 
 ## OE cross-reference
 
-`pending`
+not published
 
 ## Technical parameters (spec)
 
 | Parameter | Value | Unit | Status |
 |---|---|---|---|
 | `dimension` | `595×595×45` | `mm` | reference |
-| `efficiency_class` | `G4` | `pending` | reference |
+| `efficiency_class` | `G4` | not published | reference |
 
 ## Material
 
@@ -36,7 +36,7 @@ G3 High Heat-Resistance Pleated Primary Filter. HVAC / ventilation air filter fo
 
 - Type: `synthetic_fiber`
 - Efficiency class: `G3`
-- Grammage: `pending`
+- Grammage: not published
 
 ## Application
 

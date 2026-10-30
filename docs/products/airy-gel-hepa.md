@@ -3,7 +3,7 @@
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
 - **SKU**: `AIRY-GEL-HEPA`
-- **Category**: [HEPA / ULPA Filters](hepa-filter.md)
+- **Category**: [HEPA / ULPA Filters](hepa-filters.md)
 - **Evidence source**: manufacturer catalog record
 - **Data status**: catalog-confirmed
 
@@ -12,11 +12,11 @@
 
 ## Description
 
-Gel Seal Mini Pleated HEPA Filter (H14). High-efficiency HEPA / ULPA filter for clean-air and cleanroom duty. Typical parameters: efficiency H14, dimension 610×610×90 / 610×610×93 / 915×610×90 / 1220×610×90, media micro glass fiber, construction seal: gel, application cleanroom; MOQ 200 set. Match the class to the cleanroom ISO 14644 target, verify the seal type against the housing, and request a factory leakage-test certificate.
+Gel-seal mini-pleat HEPA filter rated H14, catalogued in the HEPA/ULPA category. The source publishes face sizes of 610×610×90/93, 915×610×90 and 1220×610×90 mm, airflow figures up to 2400 m³/h, initial/final pressure drops and an H14 efficiency of 99.995% ≤ E < 99.9995%, with a 200-set MOQ. The gel seal suits knife-edge housings, so seal type is the key installation variable. From a sourcing perspective, buyers should confirm the seal type against the housing and whether a factory leakage-test certificate is required. Verify dimensions before bulk ordering.
 
 ## OE cross-reference
 
-`pending`
+not published
 
 ## Technical parameters (spec)
 
@@ -37,7 +37,7 @@ Gel Seal Mini Pleated HEPA Filter (H14). High-efficiency HEPA / ULPA filter for 
 
 - Type: `micro_glass_fiber`
 - Efficiency class: `H14`
-- Grammage: `pending`
+- Grammage: not published
 
 ## Application
 

@@ -3,7 +3,7 @@
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
 - **SKU**: `EAWAY-GEL-HEPA`
-- **Category**: [HEPA / ULPA Filters](hepa-filter.md)
+- **Category**: [HEPA / ULPA Filters](hepa-filters.md)
 - **Evidence source**: manufacturer catalog record
 - **Data status**: catalog-confirmed
 
@@ -12,18 +12,18 @@
 
 ## Description
 
-Gel HEPA Filter. High-efficiency HEPA / ULPA filter for clean-air and cleanroom duty. Typical parameters: efficiency H13/H14, dimension 610×610×292, media micro glass fiber, construction seal: gel, application pharma; MOQ 5 pcs. Match the class to the cleanroom ISO 14644 target, verify the seal type against the housing, and request a factory leakage-test certificate.
+Gel-seal HEPA filter for pharmaceutical, medical and laboratory use, catalogued in the HEPA/ULPA category with an H13/H14 class. The source confirms the gel seal and micro-glass media but publishes no face size, airflow or pressure-drop figure. The gel seal is the defining feature, suited to knife-edge housings in critical environments. From a sourcing perspective, buyers should confirm the seal type against the housing and whether a factory leakage-test certificate is required. Request dimensions before bulk ordering.
 
 ## OE cross-reference
 
-`pending`
+not published
 
 ## Technical parameters (spec)
 
 | Parameter | Value | Unit | Status |
 |---|---|---|---|
 | `dimension` | `610×610×292` | `mm` | reference |
-| `efficiency_class` | `H13/H14` | `pending` | reference |
+| `efficiency_class` | `H13/H14` | not published | reference |
 
 ## Material
 
@@ -35,7 +35,7 @@ Gel HEPA Filter. High-efficiency HEPA / ULPA filter for clean-air and cleanroom 
 
 - Type: `micro_glass_fiber`
 - Efficiency class: `H13/H14`
-- Grammage: `pending`
+- Grammage: not published
 
 ## Application
 

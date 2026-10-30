@@ -3,7 +3,7 @@
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
 - **SKU**: `KLC-G1-G4-PANEL`
-- **Category**: [HVAC Filters](hvac-filter.md)
+- **Category**: [HVAC Filters](hvac-filters.md)
 - **Evidence source**: manufacturer catalog record
 - **Data status**: catalog-confirmed
 
@@ -12,18 +12,18 @@
 
 ## Description
 
-Washable G1/G2/G3/G4 Synthetic Fiber Panel Filter. HVAC / ventilation air filter for general air-handling duty. Typical parameters: efficiency G1/G2/G3/G4, dimension 595×595×45, media synthetic fiber, construction media: synthetic_fiber, application hvac; MOQ 200 set. State airflow, pressure-drop budget and the governing efficiency standard, then confirm frame and pocket depth against the AHU.
+Washable G1/G2/G3/G4 synthetic-fiber panel filter, catalogued in the HVAC category. The source confirms the G1-G4 grade range and the washable synthetic construction but publishes no face size, airflow or pressure-drop figure. The washable panel form suits reusable pre-filtration where the downstream stage is protected. From a sourcing perspective, buyers should confirm the exact grade and face size, and request pressure-drop and dust-holding data for energy-cost comparison.
 
 ## OE cross-reference
 
-`pending`
+not published
 
 ## Technical parameters (spec)
 
 | Parameter | Value | Unit | Status |
 |---|---|---|---|
 | `dimension` | `595×595×45` | `mm` | reference |
-| `efficiency_class` | `G4` | `pending` | reference |
+| `efficiency_class` | `G4` | not published | reference |
 
 ## Material
 
@@ -35,7 +35,7 @@ Washable G1/G2/G3/G4 Synthetic Fiber Panel Filter. HVAC / ventilation air filter
 
 - Type: `synthetic_fiber`
 - Efficiency class: `G1-G4`
-- Grammage: `pending`
+- Grammage: not published
 
 ## Application
 

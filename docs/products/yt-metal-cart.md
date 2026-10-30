@@ -3,7 +3,7 @@
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
 - **SKU**: `YT-METAL-CART`
-- **Category**: [Liquid Filter Cartridges](liquid-filter.md)
+- **Category**: [Liquid Filter Cartridges](liquid-cartridges.md)
 - **Evidence source**: manufacturer catalog record
 - **Data status**: catalog-confirmed
 
@@ -12,11 +12,11 @@
 
 ## Description
 
-Metal Filter Cartridge (SS304/SS316L/Ti). Liquid filter cartridge for process-fluid filtration. Typical parameters: efficiency 1-100 μm, dimension 5/10/20/30/40, media sintered mesh, construction core: SS304/SS316L/Ti, o_ring: Silicon/Viton/EPDM/NBR/PEFE, application oil_gas; MOQ 10 pcs. State the fluid, temperature, flow rate and target micron rating, and confirm chemical compatibility of media and seals.
+Metal filter cartridge in SS304, SS316L or titanium, offered in sintered or woven-mesh form, catalogued in the liquid-filter category. The source publishes removal ratings of 1-100 μm, lengths of 5-40 inch and O-ring materials from silicon to Viton, EPDM, NBR and PEFE. Metal media suits high-temperature and chemically aggressive process liquids. From a sourcing perspective, buyers should specify the fluid, temperature and chemical compatibility first, then confirm the micron rating and flow rate. Specify sintered versus woven-mesh construction and the end-fitting type before ordering.
 
 ## OE cross-reference
 
-`pending`
+not published
 
 ## Technical parameters (spec)
 
@@ -35,8 +35,8 @@ Metal Filter Cartridge (SS304/SS316L/Ti). Liquid filter cartridge for process-fl
 ## Filter media
 
 - Type: `sintered_mesh`
-- Efficiency class: `pending`
-- Grammage: `pending`
+- Efficiency class: not published
+- Grammage: not published
 
 ## Application
 

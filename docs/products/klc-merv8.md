@@ -3,7 +3,7 @@
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
 - **SKU**: `KLC-MERV8`
-- **Category**: [HVAC Filters](hvac-filter.md)
+- **Category**: [HVAC Filters](hvac-filters.md)
 - **Evidence source**: manufacturer catalog record
 - **Data status**: catalog-confirmed
 
@@ -12,18 +12,18 @@
 
 ## Description
 
-MERV 8 Pleated Filter. HVAC / ventilation air filter for general air-handling duty. Typical parameters: efficiency MERV 8, dimension 595×595×45, media synthetic fiber, construction media: synthetic fiber, frame: cardboard / metal, application hvac; MOQ 200 set. State airflow, pressure-drop budget and the governing efficiency standard, then confirm frame and pocket depth against the AHU.
+MERV 8 pleated filter, catalogued in the HVAC category with synthetic media. The source confirms the MERV 8 grade and synthetic media but publishes no face size, airflow or pressure-drop figure. MERV 8 is a mid-grade general-ventilation level. From a sourcing perspective, buyers should confirm the face size and frame construction, and request pressure-drop and dust-holding data for energy-cost comparison before ordering.
 
 ## OE cross-reference
 
-`pending`
+not published
 
 ## Technical parameters (spec)
 
 | Parameter | Value | Unit | Status |
 |---|---|---|---|
 | `dimension` | `595×595×45` | `mm` | reference |
-| `efficiency_class` | `G4` | `pending` | reference |
+| `efficiency_class` | `G4` | not published | reference |
 
 ## Material
 
@@ -36,7 +36,7 @@ MERV 8 Pleated Filter. HVAC / ventilation air filter for general air-handling du
 
 - Type: `synthetic_fiber`
 - Efficiency class: `MERV 8`
-- Grammage: `pending`
+- Grammage: not published
 
 ## Application
 
