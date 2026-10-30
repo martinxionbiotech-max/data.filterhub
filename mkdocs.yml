@@ -1,5 +1,5 @@
 site_name: China Filter Hub Data
-site_description: Qinghe Air Filter product database — SKU / OE / parameters / filter-media comparison / test standards
+site_description: Qinghe Yinghui Filter product database — SKU / OE / parameters / filter-media comparison / test standards
 site_url: https://data.chinafilterhub.com/
 repo_url: https://github.com/martinxionbiotech-max/data.filterhub
 theme:
@@ -13,19 +13,19 @@ nav:
   - Home: index.md
   - Product Database:
       - SKU Index: products/index.md
-      - Activated Carbon Filters: products/activated-carbon-filter.md
-      - Air Filters (Engine Intake): products/air-filter.md
-      - Cabin Air Filters: products/cabin-filter.md
+      - Activated Carbon Filters: products/activated-carbon.md
+      - Air Filters (Engine Intake): products/air-filters.md
+      - Cabin Air Filters: products/cabin-filters.md
       - Cleanroom Equipment: products/cleanroom-equipment.md
       - Filter Media: products/filter-media.md
-      - Fuel Filters: products/fuel-filter.md
-      - HEPA / ULPA Filters: products/hepa-filter.md
-      - HVAC Filters: products/hvac-filter.md
-      - Hydraulic Filters: products/hydraulic-filter.md
-      - Liquid Filter Cartridges: products/liquid-filter.md
-      - Oil Filters: products/oil-filter.md
-      - Pocket / Bag Filters: products/pocket-filter.md
-      - Transmission Filters: products/transmission-filter.md
+      - Fuel Filters: products/fuel-filters.md
+      - HEPA / ULPA Filters: products/hepa-filters.md
+      - HVAC Filters: products/hvac-filters.md
+      - Hydraulic Filters: products/hydraulic-filters.md
+      - Liquid Filter Cartridges: products/liquid-cartridges.md
+      - Oil Filters: products/oil-filters.md
+      - Pocket / Bag Filters: products/pocket-filters.md
+      - Transmission Filters: products/transmission-filters.md
       - SKU Pages:
           - 42n-62-15470: products/42n-62-15470.md
           - p778989: products/p778989.md

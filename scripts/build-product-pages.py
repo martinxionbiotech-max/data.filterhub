@@ -27,20 +27,21 @@ MKFILE = os.path.join(ROOT, "mkdocs.yml")
 
 EVIDENCE_SOURCE = "manufacturer catalog record"
 
+# `category` is now the kebab slug (matching the main site).
 CATEGORY_NAMES = {
-    "air_filter": "Air Filters (Engine Intake)",
-    "cabin_filter": "Cabin Air Filters",
-    "oil_filter": "Oil Filters",
-    "fuel_filter": "Fuel Filters",
-    "hydraulic_filter": "Hydraulic Filters",
-    "transmission_filter": "Transmission Filters",
-    "hvac_filter": "HVAC Filters",
-    "hepa_filter": "HEPA / ULPA Filters",
-    "activated_carbon_filter": "Activated Carbon Filters",
-    "pocket_filter": "Pocket / Bag Filters",
-    "filter_media": "Filter Media",
-    "liquid_filter": "Liquid Filter Cartridges",
-    "cleanroom_equipment": "Cleanroom Equipment",
+    "air-filters": "Air Filters (Engine Intake)",
+    "cabin-filters": "Cabin Air Filters",
+    "oil-filters": "Oil Filters",
+    "fuel-filters": "Fuel Filters",
+    "hydraulic-filters": "Hydraulic Filters",
+    "transmission-filters": "Transmission Filters",
+    "hvac-filters": "HVAC Filters",
+    "hepa-filters": "HEPA / ULPA Filters",
+    "activated-carbon": "Activated Carbon Filters",
+    "pocket-filters": "Pocket / Bag Filters",
+    "filter-media": "Filter Media",
+    "liquid-cartridges": "Liquid Filter Cartridges",
+    "cleanroom-equipment": "Cleanroom Equipment",
 }
 
 AUTO_NOTE = "<!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->\n"
@@ -51,9 +52,13 @@ def slugify(s):
 
 
 def cell(v):
-    """Render a list/value as a single-line comma-separated cell (tables don't allow newlines)."""
+    """Render a list/value as a single-line comma-separated cell (tables don't allow newlines).
+
+    Empty slots render as ``not published`` (consistent with the main site's
+    "no fields left pending" stance) rather than ``pending``.
+    """
     if v is None or v == "" or v == []:
-        return "`pending`"
+        return "not published"
     if isinstance(v, list):
         return ", ".join(f"`{x}`" for x in v)
     return f"`{v}`"
@@ -130,7 +135,7 @@ def main():
             lines.append(f"- **Efficiency class**: `{p['efficiency_class']}`")
 
         lines.append("\n## Description\n")
-        lines.append(p.get("description") or "`pending`")
+        lines.append(p.get("description") or "not published")
 
         lines.append("\n## OE cross-reference\n")
         oes = p.get("oe_reference") or []
@@ -143,7 +148,7 @@ def main():
                     f"{cell(o.get('equipment_type'))} | {o.get('data_status', 'reference')} |"
                 )
         else:
-            lines.append("`pending`")
+            lines.append("not published")
 
         lines.append("\n## Technical parameters (spec)\n")
         if p.get("spec"):
@@ -155,7 +160,7 @@ def main():
                     f"{cell(s.get('unit'))} | {s.get('data_status', 'pending')} |"
                 )
         else:
-            lines.append("`pending`")
+            lines.append("not published")
 
         lines.append("\n## Material\n")
         if p.get("material"):
@@ -167,7 +172,7 @@ def main():
                     f"{m.get('data_status', 'pending')} |"
                 )
         else:
-            lines.append("`pending`")
+            lines.append("not published")
 
         lines.append("\n## Filter media\n")
         fm = p.get("filter_media") or []
@@ -179,7 +184,7 @@ def main():
                 f"- Grammage: {cell(m0.get('grammage'))}"
             )
         else:
-            lines.append("`pending`")
+            lines.append("not published")
 
         lines.append("\n## Application\n")
         apps = p.get("application") or []
@@ -192,14 +197,14 @@ def main():
                     f"{a.get('data_status', 'reference')} |"
                 )
         else:
-            lines.append("`pending`")
+            lines.append("not published")
 
         moq = p.get("moq") or {}
         lines.append("\n## MOQ\n")
         if moq.get("moq_value") is not None:
             lines.append(f"`{moq['moq_value']} {moq.get('moq_unit', '')}` ({moq.get('data_status', 'reference')})".strip())
         else:
-            lines.append("`pending`")
+            lines.append("not published")
 
         with open(os.path.join(OUT, f"{slugify(sku)}.md"), "w", encoding="utf-8") as f:
             f.write("\n".join(lines) + "\n")
@@ -257,7 +262,7 @@ def write_mkdocs(payload, products, groups):
 
     mk = [
         "site_name: China Filter Hub Data",
-        "site_description: Qinghe Air Filter product database — SKU / OE / parameters / filter-media comparison / test standards",
+        "site_description: Qinghe Yinghui Filter product database — SKU / OE / parameters / filter-media comparison / test standards",
         "site_url: https://data.chinafilterhub.com/",
         "repo_url: https://github.com/martinxionbiotech-max/data.filterhub",
         "theme:",

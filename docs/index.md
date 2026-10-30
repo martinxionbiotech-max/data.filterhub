@@ -1,6 +1,6 @@
 # China Filter Hub Data
 
-Qinghe Air Filter product database (data subsite `data.chinafilterhub.com`, domain provisional).
+Qinghe Yinghui Filter product database (data subsite `data.chinafilterhub.com`, domain provisional).
 
 Structured filter product database covering 104 SKUs across 13 main categories:
 
