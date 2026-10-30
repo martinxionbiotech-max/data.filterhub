@@ -13,67 +13,67 @@
       "air_filter": {
         "slug": "air-filters",
         "name": "Air Filters (Engine Intake)",
-        "nameZh": "Air Filters (Engine Intake)"
+        "nameZh": "空气滤清器"
       },
       "cabin_filter": {
         "slug": "cabin-filters",
         "name": "Cabin Air Filters",
-        "nameZh": "Cabin Air Filters"
+        "nameZh": "空调滤清器"
       },
       "oil_filter": {
         "slug": "oil-filters",
         "name": "Oil Filters",
-        "nameZh": "Oil Filters"
+        "nameZh": "机油滤清器"
       },
       "fuel_filter": {
         "slug": "fuel-filters",
         "name": "Fuel Filters",
-        "nameZh": "Fuel Filters"
+        "nameZh": "燃油滤清器"
       },
       "hydraulic_filter": {
         "slug": "hydraulic-filters",
         "name": "Hydraulic Filters",
-        "nameZh": "Hydraulic Filters"
+        "nameZh": "液压滤清器"
       },
       "transmission_filter": {
         "slug": "transmission-filters",
         "name": "Transmission Filters",
-        "nameZh": "Transmission Filters"
+        "nameZh": "变速箱滤清器"
       },
       "hvac_filter": {
         "slug": "hvac-filters",
         "name": "HVAC Filters",
-        "nameZh": "HVAC Filters"
+        "nameZh": "HVAC 过滤器"
       },
       "hepa_filter": {
         "slug": "hepa-filters",
         "name": "HEPA / ULPA Filters",
-        "nameZh": "HEPA / ULPA Filters"
+        "nameZh": "HEPA/ULPA 高效过滤器"
       },
       "activated_carbon_filter": {
         "slug": "activated-carbon",
         "name": "Activated Carbon Filters",
-        "nameZh": "Activated Carbon Filters"
+        "nameZh": "活性炭过滤器"
       },
       "pocket_filter": {
         "slug": "pocket-filters",
         "name": "Pocket / Bag Filters",
-        "nameZh": "Pocket / Bag Filters"
+        "nameZh": "袋式过滤器"
       },
       "filter_media": {
         "slug": "filter-media",
         "name": "Filter Media",
-        "nameZh": "Filter Media"
+        "nameZh": "滤材介质"
       },
       "liquid_filter": {
         "slug": "liquid-cartridges",
         "name": "Liquid Filter Cartridges",
-        "nameZh": "Liquid Filter Cartridges"
+        "nameZh": "液体过滤滤芯"
       },
       "cleanroom_equipment": {
         "slug": "cleanroom-equipment",
         "name": "Cleanroom Equipment",
-        "nameZh": "Cleanroom Equipment"
+        "nameZh": "洁净室设备"
       }
     },
     "note": "category maps to 13 main categories; subcategory carries finer granularity. efficiency_class / dimension / material / application / MOQ are populated."
@@ -657,7 +657,7 @@
       "name": "Primary Obround Powercore Air Filter P608677 (Mack/Volvo/Wirtgen)",
       "category": "air-filters",
       "company": "hbxueyuan.com",
-      "description": "Primary obround PowerCore air filter cross-referenced under OE number P608677, replacing Mack 57MD321M and covering Mack, Volvo and Wirtgen equipment in the PowerCore subcategory. The source records the OE reference and the equipment span but no source-confirmed spec is attached; the values are reference-grade As a primary-stage obround element, its role is high dust capacity ahead of the safety element. Our advice: verify the exact machine and the obround dimensions before ordering, since the Mack/Volvo/Wirtgen span implies several housings. Request the spec sheet for media, dimensions and ISO 5011 figures and verify against the OE drawing.",
+      "description": "Primary obround PowerCore air filter cross-referenced under OE number P608677, replacing Mack 57MD321M and covering Mack, Volvo and Wirtgen equipment in the PowerCore subcategory. The source records the OE reference and the equipment span but no source-confirmed spec is attached; the values are reference-grade. As a primary-stage obround element, its role is high dust capacity ahead of the safety element. Our advice: verify the exact machine and the obround dimensions before ordering, since the Mack/Volvo/Wirtgen span implies several housings. Request the spec sheet for media, dimensions and ISO 5011 figures and verify against the OE drawing.",
       "source_url": "https://www.hbxueyuan.com/product-p608677-air-filter-primary-obround-powercore-replaces-mack-57md321m.html",
       "data_status": "catalog-confirmed",
       "efficiency_class": "ISO 5011 (>=99.9% primary)",
@@ -1217,7 +1217,7 @@
       "name": "Caterpillar Cabin Air Filter 580-5439",
       "category": "cabin-filters",
       "company": "hbxueyuan.com",
-      "description": "Caterpillar cabin air filter under OE number 580-5439, catalogued in the cabin-filtration category. The source records the Caterpillar OE reference and the machinery application but the parameters are reference-grade figures to verify on the spec sheet As a machine-cab filter, this entry is fitment-driven and dust-heavy in practice. From a sourcing perspective, buyers should verify the exact Cat machine model and the housing configuration, and specify particle-only versus carbon media. Request the spec sheet for dimensions and ISO 16890 efficiency class, which are not published and must be verified before ordering.",
+      "description": "Caterpillar cabin air filter under OE number 580-5439, catalogued in the cabin-filtration category. The source records the Caterpillar OE reference and the machinery application but the parameters are reference-grade figures to verify on the spec sheet. As a machine-cab filter, this entry is fitment-driven and dust-heavy in practice. From a sourcing perspective, buyers should verify the exact Cat machine model and the housing configuration, and specify particle-only versus carbon media. Request the spec sheet for dimensions and ISO 16890 efficiency class, which are not published and must be verified before ordering.",
       "source_url": "https://www.hbxueyuan.com/product-caterpillar-cat-580-5439-cabin-air-filter.html",
       "data_status": "catalog-confirmed",
       "efficiency_class": "ISO 16890 ePM2.5 (particle)",
@@ -1829,7 +1829,7 @@
       "name": "Fuel Filter 8159975",
       "category": "fuel-filters",
       "company": "hbxueyuan.com",
-      "description": "Replacement diesel fuel filter under OE number 8159975, catalogued in the fuel-filtration category. The source records the OE number and the diesel-engine application but these fields are carried as reference values rather than a verified spec As a replacement element, the fit is cross-reference-led, so the number is a starting point rather than a guarantee. From a sourcing perspective, buyers should confirm the exact engine and fuel type, and whether water separation is required. Request the spec sheet for micron rating and water-separation efficiency, and verify against the injection specification before ordering.",
+      "description": "Replacement diesel fuel filter under OE number 8159975, catalogued in the fuel-filtration category. The source records the OE number and the diesel-engine application but these fields are carried as reference values rather than a verified spec. As a replacement element, the fit is cross-reference-led, so the number is a starting point rather than a guarantee. From a sourcing perspective, buyers should confirm the exact engine and fuel type, and whether water separation is required. Request the spec sheet for micron rating and water-separation efficiency, and verify against the injection specification before ordering.",
       "source_url": "https://www.hbxueyuan.com/product-fuelfilter8159975.html",
       "data_status": "catalog-confirmed",
       "efficiency_class": "4-10 micron (typical)",
@@ -2915,7 +2915,7 @@
       "name": "Oil Filter 15208-AD200",
       "category": "oil-filters",
       "company": "hbxueyuan.com",
-      "description": "Spin-on oil filter, part number 15208-AD200, for passenger cars. the parameters here are reference-grade, not source-confirmed In practice the mounting thread and the gasket seat decide whether the part bolts up and seals; the media and the bypass valve then decide whether it protects. Buyers should pull the spec sheet and verify thread pitch, gasket diameter and the relief-valve setting before buying in volume.",
+      "description": "Spin-on oil filter, part number 15208-AD200, for passenger cars. the parameters here are reference-grade, not source-confirmed. In practice the mounting thread and the gasket seat decide whether the part bolts up and seals; the media and the bypass valve then decide whether it protects. Buyers should pull the spec sheet and verify thread pitch, gasket diameter and the relief-valve setting before buying in volume.",
       "source_url": "https://www.hbxueyuan.com/product-15208-ad200.html",
       "data_status": "catalog-confirmed",
       "efficiency_class": ">=99% @ 20 micron",
@@ -3259,7 +3259,7 @@
       "name": "Oil Filter 93175493",
       "category": "oil-filters",
       "company": "hbxueyuan.com",
-      "description": "Oil filter for passenger cars, numbered 93175493. media, size and grade are reference values here On a spin-on element the anti-drain-back valve is what stops dry starts, and the relief setting guards the element at high pressure. Buyers should obtain the spec sheet to confirm thread, gasket and relief setting, and state the oil grade and interval before committing a line.",
+      "description": "Oil filter for passenger cars, numbered 93175493. media, size and grade are reference values here. On a spin-on element the anti-drain-back valve is what stops dry starts, and the relief setting guards the element at high pressure. Buyers should obtain the spec sheet to confirm thread, gasket and relief setting, and state the oil grade and interval before committing a line.",
       "source_url": "https://www.hbxueyuan.com/product-93175493.html",
       "data_status": "catalog-confirmed",
       "efficiency_class": ">=99% @ 20 micron",
@@ -3604,7 +3604,7 @@
       "name": "Hydraulic Filter Element 322-3155/322-3154 (Caterpillar)",
       "category": "hydraulic-filters",
       "company": "hbxueyuan.com",
-      "description": "Caterpillar hydraulic filter element assembly, OE 322-3155 / 322-3154. The catalogue confirms the Cat references and the machinery application, the parameters here are reference-grade, not source-confirmed As a lubrication element assembly, the fit is housing-specific and the duty follows the circuit. From a sourcing view, provide flow rate and operating pressure, state the ISO 4406 cleanliness target, and request pressure-drop and beta-ratio data.",
+      "description": "Caterpillar hydraulic filter element assembly, OE 322-3155 / 322-3154. The catalogue confirms the Cat references and the machinery application, the parameters here are reference-grade, not source-confirmed. As a lubrication element assembly, the fit is housing-specific and the duty follows the circuit. From a sourcing view, provide flow rate and operating pressure, state the ISO 4406 cleanliness target, and request pressure-drop and beta-ratio data.",
       "source_url": "https://www.hbxueyuan.com/product-oil-filter-element-machine-lubrication-322-3155-3223155-assembly-322-3154-3223154-use-for-cat.html",
       "data_status": "catalog-confirmed",
       "efficiency_class": "10 micron beta>=200 (typical)",
@@ -3952,7 +3952,7 @@
       "name": "Hydraulic Return Oil Filter 1194740 (Caterpillar)",
       "category": "hydraulic-filters",
       "company": "hbxueyuan.com",
-      "description": "Caterpillar hydraulic return oil filter under part 1194740. The catalogue confirms the Cat reference and the machinery application, media, size and grade are reference values here As a return-line element it protects the reservoir side of the circuit, so its duty follows the return flow. Buyers should provide flow and operating pressure, state the ISO 4406 target, and request pressure-drop and beta-ratio data before ordering.",
+      "description": "Caterpillar hydraulic return oil filter under part 1194740. The catalogue confirms the Cat reference and the machinery application, media, size and grade are reference values here. As a return-line element it protects the reservoir side of the circuit, so its duty follows the return flow. Buyers should provide flow and operating pressure, state the ISO 4406 target, and request pressure-drop and beta-ratio data before ordering.",
       "source_url": "https://www.hbxueyuan.com/product-hydraulic-return-oil-filter-for-caterpillar-1194740.html",
       "data_status": "catalog-confirmed",
       "efficiency_class": "10 micron beta>=200 (typical)",
