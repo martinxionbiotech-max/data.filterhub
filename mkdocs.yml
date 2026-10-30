@@ -152,3 +152,6 @@ markdown_extensions:
 # docs/data/products.json 为站点服务副本（由生成脚本同步），
 # docs/products/ 下的产品页与 mkdocs.yml 由 scripts/build-product-pages.py 生成。
 # 域名 data.chinafilterhub.com 为占位（provisional）。
+
+hooks:
+  - hooks/build_hook.py
