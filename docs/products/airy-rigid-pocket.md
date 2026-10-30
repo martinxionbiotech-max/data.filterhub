@@ -11,7 +11,7 @@
 
 ## Description
 
-Rigid pocket filter for HVAC main stages, catalogued in the pocket-filter category with synthetic-fiber media. The source confirms the synthetic media but dimensions, media and efficiency are reference values only Rigid pockets maintain their form under airflow, suiting higher-velocity AHU stages. Our advice: confirm the grade and the face dimensions and pocket count against the AHU frame. Request initial pressure-drop and dust-holding capacity for life-cycle cost before bulk ordering.
+Rigid pocket filter for HVAC main stages, catalogued in the pocket-filter category with synthetic-fiber media. The source confirms the synthetic media but dimensions, media and efficiency are reference values only. Rigid pockets maintain their form under airflow, suiting higher-velocity AHU stages. Our advice: verify the grade and the face dimensions and pocket count against the AHU frame. Request initial pressure-drop and dust-holding capacity for life-cycle cost before bulk ordering.
 
 ## OE cross-reference
 

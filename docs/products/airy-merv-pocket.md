@@ -11,7 +11,7 @@
 
 ## Description
 
-Fiberglass pocket air filter graded M5/M6/F7 (MERV 5-14 family), catalogued in the pocket-filter category. The source publishes pocket sizes of 287×595×550, 595×595×550 and 595×595×600 mm, airflow of 1000-2950 m³/h and pressure drops of 55-100 Pa, with a 200-set MOQ. Fiberglass pockets hold high dust capacity in a compact AHU frame. Our advice: confirm the grade against the AHU stage and the face dimensions and pocket count against the frame. Request initial pressure-drop and dust-holding data for life-cycle cost before bulk ordering.
+Fiberglass pocket air filter graded M5/M6/F7 (MERV 5-14 family), catalogued in the pocket-filter category. The source publishes pocket sizes of 287×595×550, 595×595×550 and 595×595×600 mm, airflow of 1000-2950 m³/h and pressure drops of 55-100 Pa. Fiberglass pockets hold high dust capacity in a compact AHU frame. Our advice: confirm the grade against the AHU stage and the face dimensions and pocket count against the frame. Request initial pressure-drop and dust-holding data for life-cycle cost before bulk ordering.
 
 ## OE cross-reference
 

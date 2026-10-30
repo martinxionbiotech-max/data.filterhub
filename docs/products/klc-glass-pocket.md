@@ -11,7 +11,7 @@
 
 ## Description
 
-Glass-fiber medium-efficiency pocket filter, catalogued in the pocket-filter category. The source confirms the glass-fiber media but publishes no grade, face size, airflow or pressure-drop figure. Glass media offers fine-fibre efficiency for the medium AHU band. Our advice: confirm the grade and the face dimensions and pocket count against the AHU frame. Request initial pressure-drop and dust-holding capacity for life-cycle cost comparison, since these are not published here.
+Glass-fiber medium-efficiency pocket filter, catalogued in the pocket-filter category. The source confirms the glass-fiber media but publishes no grade, face size, airflow or pressure-drop figure. Glass media offers fine-fibre efficiency for the medium AHU band. Our advice: verify the grade and the face dimensions and pocket count against the AHU frame. Request initial pressure-drop and dust-holding capacity for life-cycle cost comparison, since these are not published here.
 
 ## OE cross-reference
 

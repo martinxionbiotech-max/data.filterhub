@@ -12,7 +12,7 @@
 
 ## Description
 
-Panel HEPA filter in mini-pleat design, catalogued in the HEPA/ULPA category with an H13/H14 class and micro-glass media. The source confirms the mini-pleat construction and class but publishes no face size, airflow or pressure-drop figure. Mini-pleat packs more media area into a compact frame, suiting space-constrained housings. Our advice: confirm the panel dimensions and seal type against the housing, and lock the class to the cleanroom ISO target. Request a leakage-test certificate where required, since these details are not published here.
+Panel HEPA filter in mini-pleat design, catalogued in the HEPA/ULPA category with an H13/H14 class and micro-glass media. The source confirms the mini-pleat construction and class but publishes no face size, airflow or pressure-drop figure. Mini-pleat packs more media area into a compact frame, suiting space-constrained housings. Our advice: verify the panel dimensions and seal type against the housing, and lock the class to the cleanroom ISO target. Request a leakage-test certificate where required, since these details are not published here.
 
 ## OE cross-reference
 

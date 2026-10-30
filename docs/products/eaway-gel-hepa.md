@@ -12,7 +12,7 @@
 
 ## Description
 
-Gel-seal HEPA filter for pharmaceutical, medical and laboratory use, catalogued in the HEPA/ULPA category with an H13/H14 class. The source confirms the gel seal and micro-glass media but publishes no face size, airflow or pressure-drop figure. The gel seal is the defining feature, suited to knife-edge housings in critical environments. From a sourcing perspective, buyers should confirm the seal type against the housing and whether a factory leakage-test certificate is required. Request dimensions before bulk ordering.
+Gel-seal HEPA filter for pharmaceutical, medical and laboratory use, catalogued in the HEPA/ULPA category with an H13/H14 class. The source confirms the gel seal and micro-glass media but publishes no face size, airflow or pressure-drop figure. The gel seal is the defining feature, suited to knife-edge housings in critical environments. From a sourcing perspective, buyers should verify the seal type against the housing and whether a factory leakage-test certificate is required. Request dimensions before bulk ordering.
 
 ## OE cross-reference
 

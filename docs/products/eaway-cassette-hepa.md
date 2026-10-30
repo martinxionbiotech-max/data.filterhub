@@ -12,7 +12,7 @@
 
 ## Description
 
-HEPA filter cassette in deep-pleat design at 6 or 12 inch thickness, catalogued in the HEPA/ULPA category with an H13/H14 class. The source confirms the cassette form, the deep-pleat construction and the 6/12-inch thickness option but publishes no face size, airflow or pressure-drop figure. Cassette filters suit replaceable terminal housings. From a sourcing perspective, buyers should confirm the exact thickness and dimensions against the housing, and lock the class to the ISO target. Request a leakage-test certificate where required.
+HEPA filter cassette in deep-pleat design at 6 or 12 inch thickness, catalogued in the HEPA/ULPA category with an H13/H14 class. The source confirms the cassette form, the deep-pleat construction and the 6/12-inch thickness option but publishes no face size, airflow or pressure-drop figure. Cassette filters suit replaceable terminal housings. From a sourcing perspective, buyers should verify the exact thickness and dimensions against the housing, and lock the class to the ISO target. Request a leakage-test certificate where required.
 
 ## OE cross-reference
 

@@ -11,7 +11,7 @@
 
 ## Description
 
-Polyester-fiber pocket filter for AHU main filtration, catalogued in the pocket-filter category. The source confirms the polyester media but no source-confirmed spec is attached; the values are reference-grade Polyester pockets offer high dust-holding capacity and strength for AHU main stages. From a sourcing perspective, buyers should confirm the grade and the face dimensions and pocket count against the AHU frame. Request initial pressure-drop and dust-holding capacity for life-cycle cost comparison, since these are not published here.
+Polyester-fiber pocket filter for AHU main filtration, catalogued in the pocket-filter category. The source confirms the polyester media but no source-confirmed spec is attached; the values are reference-grade. Polyester pockets offer high dust-holding capacity and strength for AHU main stages. From a sourcing perspective, buyers should verify the grade and the face dimensions and pocket count against the AHU frame. Request initial pressure-drop and dust-holding capacity for life-cycle cost comparison, since these are not published here.
 
 ## OE cross-reference
 

@@ -12,7 +12,7 @@
 
 ## Description
 
-High-temperature fiberglass filter media rated for continuous 300 °C (350 °C peak), catalogued in the filter-media category with a G3/G4 grade. The source publishes 85/95% efficiency figures, airflow of 5800/5400 m³/h and dust-holding of 500/600 g/m², with a low 20-roll MOQ. Fiberglass suits high-temperature industrial exhaust and process duty where synthetic media would fail. From a sourcing perspective, buyers should confirm the exact continuous temperature requirement and specify the grade. Request an efficiency curve and confirm roll width and grammage before committing volume.
+High-temperature fiberglass filter media rated for continuous 300 °C (350 °C peak), catalogued in the filter-media category with a G3/G4 grade. The source publishes 85/95% efficiency figures, airflow of 5800/5400 m³/h and dust-holding of 500/600 g/m². Fiberglass suits high-temperature industrial exhaust and process duty where synthetic media would fail. From a sourcing perspective, buyers should verify the exact continuous temperature requirement and specify the grade. Request an efficiency curve and verify roll width and grammage before committing volume.
 
 ## OE cross-reference
 

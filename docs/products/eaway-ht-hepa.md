@@ -12,7 +12,7 @@
 
 ## Description
 
-Heat-resistant HEPA filter rated H13/H14 for industrial duty. The catalogue confirms the high-temperature application, the H13/H14 class and micro-glass media but withholds the temperature figure, face size and pressure drop. High-temperature HEPA duty hinges on the continuous operating temperature, which drives the media and seal choice. Our advice is to ask for the spec sheet to confirm the temperature rating, dimensions and a leakage-test certificate, and check the seal type before ordering.
+Heat-resistant HEPA filter rated H13/H14 for industrial duty. The catalogue confirms the high-temperature application, the H13/H14 class and micro-glass media but withholds the temperature figure, face size and pressure drop. High-temperature HEPA duty hinges on the continuous operating temperature, which drives the media and seal choice. Our advice is to ask for the spec sheet to verify the temperature rating, dimensions and a leakage-test certificate, and check the seal type before ordering.
 
 ## OE cross-reference
 

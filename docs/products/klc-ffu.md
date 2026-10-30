@@ -12,7 +12,7 @@
 
 ## Description
 
-Cleanroom AC/EC fan filter unit (FFU), catalogued in the cleanroom-equipment category with a galvanised-steel or stainless housing. The source confirms the AC/EC motor option and the housing materials but publishes no size, airflow, efficiency or voltage figure. An FFU generates ceiling-down laminar airflow, so sizing follows the room coverage and cleanliness class. From a sourcing perspective, buyers should confirm the cleanroom ISO class and the required airflow and coverage, and specify AC or EC motor and voltage. Request dimensions before ordering.
+Cleanroom AC/EC fan filter unit (FFU), catalogued in the cleanroom-equipment category with a galvanised-steel or stainless housing. The source confirms the AC/EC motor option and the housing materials but publishes no size, airflow, efficiency or voltage figure. An FFU generates ceiling-down laminar airflow, so sizing follows the room coverage and cleanliness class. From a sourcing perspective, buyers should verify the cleanroom ISO class and the required airflow and coverage, and specify AC or EC motor and voltage. Request dimensions before ordering.
 
 ## OE cross-reference
 

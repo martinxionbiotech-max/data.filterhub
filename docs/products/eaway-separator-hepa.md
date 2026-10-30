@@ -12,7 +12,7 @@
 
 ## Description
 
-Separator HEPA filter for clean rooms, catalogued in the HEPA/ULPA category with an H13/H14 class and micro-glass media. The source confirms the separator construction and class but publishes no face size, airflow or pressure-drop figure. Separator construction uses pleat-spacing for structural stability, distinct from mini-pleat. Our advice: confirm the dimensions and seal type against the housing, and lock the class to the cleanroom ISO target. Request a leakage-test certificate where required before bulk ordering.
+Separator HEPA filter for clean rooms, catalogued in the HEPA/ULPA category with an H13/H14 class and micro-glass media. The source confirms the separator construction and class but publishes no face size, airflow or pressure-drop figure. Separator construction uses pleat-spacing for structural stability, distinct from mini-pleat. Our advice: verify the dimensions and seal type against the housing, and lock the class to the cleanroom ISO target. Request a leakage-test certificate where required before bulk ordering.
 
 ## OE cross-reference
 

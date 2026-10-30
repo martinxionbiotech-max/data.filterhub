@@ -12,7 +12,7 @@
 
 ## Description
 
-G3 high-heat-resistance pleated primary filter, catalogued in the HVAC category with synthetic media. The source confirms the G3 grade, the pleated construction and the high-heat-resistance description but publishes no temperature figure, face size, airflow or pressure-drop figure. As a G3 primary stage, it captures coarse dust and protects downstream media. Our advice: confirm the exact temperature requirement and the face size, and request pressure-drop data before bulk ordering.
+G3 high-heat-resistance pleated primary filter, catalogued in the HVAC category with synthetic media. The source confirms the G3 grade, the pleated construction and the high-heat-resistance description but publishes no temperature figure, face size, airflow or pressure-drop figure. As a G3 primary stage, it captures coarse dust and protects downstream media. Our advice: verify the exact temperature requirement and the face size, and request pressure-drop data before bulk ordering.
 
 ## OE cross-reference
 

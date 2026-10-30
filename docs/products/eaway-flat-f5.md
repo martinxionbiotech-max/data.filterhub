@@ -12,7 +12,7 @@
 
 ## Description
 
-Metal-frame flat pre-air filter graded F5 with replaceable media, catalogued in the HVAC category. The source confirms the F5 grade, the metal frame and the replaceable media but publishes no face size, airflow or pressure-drop figure. The metal frame supports replaceable media for a reusable pre-stage. From a sourcing perspective, buyers should confirm the face size and request pressure-drop and dust-holding data for energy-cost comparison before ordering.
+Metal-frame flat pre-air filter graded F5 with replaceable media, catalogued in the HVAC category. The source confirms the F5 grade, the metal frame and the replaceable media but publishes no face size, airflow or pressure-drop figure. The metal frame supports replaceable media for a reusable pre-stage. From a sourcing perspective, buyers should verify the face size and request pressure-drop and dust-holding data for energy-cost comparison before ordering.
 
 ## OE cross-reference
 

@@ -12,7 +12,7 @@
 
 ## Description
 
-Cleanroom air shower, catalogued in the cleanroom-equipment category. The source confirms the air-shower application but publishes no dimensions, nozzle count, airflow or efficiency figure. Air showers remove particulate from personnel at entry, so the pass-through dimensions and the door configuration are the key variables. From a sourcing perspective, buyers should confirm the required dimensions, the number of people per cycle and the airflow. Request the spec sheet before ordering.
+Cleanroom air shower, catalogued in the cleanroom-equipment category. The source confirms the air-shower application but publishes no dimensions, nozzle count, airflow or efficiency figure. Air showers remove particulate from personnel at entry, so the pass-through dimensions and the door configuration are the key variables. From a sourcing perspective, buyers should verify the required dimensions, the number of people per cycle and the airflow. Request the spec sheet before ordering.
 
 ## OE cross-reference
 

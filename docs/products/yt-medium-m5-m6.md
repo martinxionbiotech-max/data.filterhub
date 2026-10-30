@@ -12,7 +12,7 @@
 
 ## Description
 
-Medium ventilation filter graded M5/M6, catalogued in the HVAC category with synthetic media. The source confirms the M5/M6 grade range but publishes no face size, airflow or pressure-drop figure. The medium stage removes finer particulate behind the pre-filter. From a sourcing perspective, buyers should confirm the exact grade and face size, and request pressure-drop and dust-holding data for energy-cost comparison before ordering.
+Medium ventilation filter graded M5/M6, catalogued in the HVAC category with synthetic media. The source confirms the M5/M6 grade range but publishes no face size, airflow or pressure-drop figure. The medium stage removes finer particulate behind the pre-filter. From a sourcing perspective, buyers should verify the exact grade and face size, and request pressure-drop and dust-holding data for energy-cost comparison before ordering.
 
 ## OE cross-reference
 

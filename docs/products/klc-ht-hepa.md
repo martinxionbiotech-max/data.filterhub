@@ -12,7 +12,7 @@
 
 ## Description
 
-High-temperature HEPA filter with micro-glass media, from the KLC range. The source confirms the high-temperature application and micro-glass construction but publishes no temperature rating, class, size or pressure-drop figure. The exact operating temperature is what decides the media and seal materials, so confirm it first, then lock the efficiency class to the process need. From a sourcing perspective, request the spec sheet for dimensions, class and a leakage-test certificate, and verify the seal type against the housing.
+High-temperature HEPA filter with micro-glass media, from the KLC range. The source confirms the high-temperature application and micro-glass construction but publishes no temperature rating, class, size or pressure-drop figure. The exact operating temperature is what decides the media and seal materials, so verify it first, then lock the efficiency class to the process need. From a sourcing perspective, request the spec sheet for dimensions, class and a leakage-test certificate, and verify the seal type against the housing.
 
 ## OE cross-reference
 

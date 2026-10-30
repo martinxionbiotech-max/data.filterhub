@@ -12,7 +12,7 @@
 
 ## Description
 
-Cleanroom static and dynamic pass box for material transfer, catalogued in the cleanroom-equipment category. The source confirms the static/dynamic forms but publishes no dimensions, airflow or efficiency figure. Pass boxes transfer materials without breaking the barrier, and the static/dynamic choice follows whether active airflow is needed. Our advice: confirm the required dimensions and whether static or dynamic operation is needed, then request the spec sheet before ordering.
+Cleanroom static and dynamic pass box for material transfer, catalogued in the cleanroom-equipment category. The source confirms the static/dynamic forms but publishes no dimensions, airflow or efficiency figure. Pass boxes transfer materials without breaking the barrier, and the static/dynamic choice follows whether active airflow is needed. Our advice: verify the required dimensions and whether static or dynamic operation is needed, then request the spec sheet before ordering.
 
 ## OE cross-reference
 

@@ -12,7 +12,7 @@
 
 ## Description
 
-Needle-punched (acupuncture cotton) filter media for pre-filtration, catalogued in the filter-media category with a G3/G4 grade. The source publishes an airflow of 5400 m³/h, a pressure drop at or under 35 Pa and 3 mm or 5 mm thickness, with a low 20-roll MOQ. Needle-punched media trades low initial resistance for high coarse-dust capacity in HVAC and spray-booth pre-filtration. Our advice: specify the target grade and application, and confirm roll width and grammage. Request an efficiency curve for the target particle size before bulk ordering.
+Needle-punched (acupuncture cotton) filter media for pre-filtration, catalogued in the filter-media category with a G3/G4 grade. The source publishes an airflow of 5400 m³/h, a pressure drop at or under 35 Pa and 3 mm or 5 mm thickness. Needle-punched media trades low initial resistance for high coarse-dust capacity in HVAC and spray-booth pre-filtration. Our advice: specify the target grade and application, and confirm roll width and grammage. Request an efficiency curve for the target particle size before bulk ordering.
 
 ## OE cross-reference
 

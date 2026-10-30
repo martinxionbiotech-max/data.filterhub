@@ -12,7 +12,7 @@
 
 ## Description
 
-MERV 8 pleated filter, catalogued in the HVAC category with synthetic media. The source confirms the MERV 8 grade and synthetic media but publishes no face size, airflow or pressure-drop figure. MERV 8 is a mid-grade general-ventilation level. From a sourcing perspective, buyers should confirm the face size and frame construction, and request pressure-drop and dust-holding data for energy-cost comparison before ordering.
+MERV 8 pleated filter, catalogued in the HVAC category with synthetic media. The source confirms the MERV 8 grade and synthetic media but publishes no face size, airflow or pressure-drop figure. MERV 8 is a mid-grade general-ventilation level. From a sourcing perspective, buyers should verify the face size and frame construction, and request pressure-drop and dust-holding data for energy-cost comparison before ordering.
 
 ## OE cross-reference
 

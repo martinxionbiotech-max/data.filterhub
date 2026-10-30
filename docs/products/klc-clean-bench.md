@@ -12,7 +12,7 @@
 
 ## Description
 
-Class 100 / ISO 5 vertical-flow clean bench with a lifting door, catalogued in the cleanroom-equipment category. The source confirms the Class 100 / ISO 5 rating, the vertical-flow form and the lifting door but publishes no dimensions, airflow or efficiency figure. A clean bench delivers a local clean working zone for laboratory and repair tasks. Our advice: confirm the working-zone dimensions and the required airflow, and specify AC or EC motor and voltage. Request the spec sheet before ordering.
+Class 100 / ISO 5 vertical-flow clean bench with a lifting door, catalogued in the cleanroom-equipment category. The source confirms the Class 100 / ISO 5 rating, the vertical-flow form and the lifting door but publishes no dimensions, airflow or efficiency figure. A clean bench delivers a local clean working zone for laboratory and repair tasks. Our advice: verify the working-zone dimensions and the required airflow, and specify AC or EC motor and voltage. Request the spec sheet before ordering.
 
 ## OE cross-reference
 

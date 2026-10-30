@@ -12,7 +12,7 @@
 
 ## Description
 
-Medium V-bank filter, catalogued in the HVAC category with a metal or plastic frame and synthetic media. The source confirms the V-bank construction and frame options but publishes no grade, face size, airflow or pressure-drop figure. V-bank rigid filters deliver high airflow at low pressure drop for the main AHU stage. Our advice: confirm the grade and face dimensions, and request initial/final pressure-drop and dust-holding data for energy-cost comparison before bulk ordering.
+Medium V-bank filter, catalogued in the HVAC category with a metal or plastic frame and synthetic media. The source confirms the V-bank construction and frame options but publishes no grade, face size, airflow or pressure-drop figure. V-bank rigid filters deliver high airflow at low pressure drop for the main AHU stage. Our advice: verify the grade and face dimensions, and request initial/final pressure-drop and dust-holding data for energy-cost comparison before bulk ordering.
 
 ## OE cross-reference
 

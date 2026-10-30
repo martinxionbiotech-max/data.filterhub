@@ -12,7 +12,7 @@
 
 ## Description
 
-Activated-carbon pocket filter for high-capacity dust retention and odour removal, catalogued in the activated-carbon category with a G3/G4/F5 grade range. The source publishes three pocket sizes (287×592×600, 490×592×600, 592×592×600 mm), airflow of 1700-4250 m³/h and pressure drops of 20-60 Pa, with a 200-set MOQ and a choice of aluminium, galvanised steel, stainless or plastic frames. Carbon is contaminant-specific, so the target compound drives media choice. Our advice: name the target contaminant and confirm airflow and contact time, then request carbon weight and service life, which are not published here.
+Activated-carbon pocket filter for high-capacity dust retention and odour removal, catalogued in the activated-carbon category with a G3/G4/F5 grade range. The source publishes three pocket sizes (287×592×600, 490×592×600, 592×592×600 mm), airflow of 1700-4250 m³/h and pressure drops of 20-60 Pa and a choice of aluminium, galvanised steel, stainless or plastic frames. Carbon is contaminant-specific, so the target compound drives media choice. Our advice: name the target contaminant and confirm airflow and contact time, then request carbon weight and service life, which are not published here.
 
 ## OE cross-reference
 
