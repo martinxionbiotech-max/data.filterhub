@@ -1,0 +1,54 @@
+# Heavy Duty Machinery Air Filter CFH-AF-003/P822769 (Case/Cat/Hitachi)
+
+<!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
+
+- **SKU**: `CFH-AF-003`
+- **Category**: [Air Filters (Engine Intake)](air-filters.md)
+- **Evidence source**: manufacturer catalog record
+- **Data status**: catalog-confirmed
+
+- **Subcategory**: `heavy_duty`
+- **Efficiency class**: `ISO 5011 (>=99.9% primary)`
+
+## Description
+
+Heavy-duty machinery air filter cross-referenced under OE numbers P822768 and P822769 for Case, Caterpillar and Hitachi equipment, grouped in the heavy-duty intake subcategory. The catalogue confirms the OE numbers and the heavy-machinery application but dimension, media and grade are recorded as reference figures. Across the Case/Cat/Hitachi range the same OE reference can map to different housings, so our advice is to verify the specific machine model and the element form factor before committing volume. Check media type and ISO 5011 efficiency/dust-capacity figures on the spec sheet, since per-model values are not published here and must be verified against the OE drawing.
+
+## OE cross-reference
+
+| OE number | Brand | Equipment type | Status |
+|---|---|---|---|
+| `P822768` | `Case/Caterpillar/Hitachi` | `heavy machinery` | catalog-confirmed |
+| `P822769` | `Case/Caterpillar/Hitachi` | `heavy machinery` | catalog-confirmed |
+
+## Technical parameters (spec)
+
+| Parameter | Value | Unit | Status |
+|---|---|---|---|
+| `dimension` | `Ø130 x 250 (heavy-duty round)` | `mm` | reference |
+| `efficiency_class` | `ISO 5011` | not published | reference |
+| `temperature_resistance` | `100` | `°C` | reference |
+
+## Material
+
+| Part | Material | Status |
+|---|---|---|
+| `media` | `cellulose / synthetic blend` | reference |
+| `end_cap` | `PU (polyurethane)` | reference |
+| `support` | `galvanized steel mesh` | reference |
+
+## Filter media
+
+- Type: `cellulose_synthetic_blend`
+- Efficiency class: `>=99.9% (ISO 5011)`
+- Grammage: not published
+
+## Application
+
+| Application | Medium | Status |
+|---|---|---|
+| `heavy_machinery` | `air` | reference |
+
+## MOQ
+
+`500 pcs` (reference)

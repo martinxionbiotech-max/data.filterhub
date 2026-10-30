@@ -1,0 +1,52 @@
+# Cabin Air Filter CFH-CF-004 (Lexus IS300/RX300, Toyota Highlander)
+
+<!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
+
+- **SKU**: `CFH-CF-004`
+- **Category**: [Cabin Air Filters](cabin-filters.md)
+- **Evidence source**: manufacturer catalog record
+- **Data status**: catalog-confirmed
+
+- **Efficiency class**: `ISO 16890 ePM2.5 (particle)`
+
+## Description
+
+Cabin air filter referenced by OE number 90915-YZZA3 for the Lexus IS300/RX300 (99-03) and Toyota Highlander, catalogued in the cabin-filtration category. The source confirms the Lexus/Toyota OE reference and the model span but no source-confirmed spec is attached; the values are reference-grade. The cross-brand reference spans different cabins, so year and trim confirmation is the gating step. Our advice: verify the exact vehicle, year and trim, and state particle-only versus carbon media. Request the spec sheet for dimensions and efficiency class before a bulk order, and verify fitment against the OE drawing.
+
+## OE cross-reference
+
+| OE number | Brand | Equipment type | Status |
+|---|---|---|---|
+| `90915-YZZA3` | `Lexus/Toyota` | `passenger car` | catalog-confirmed |
+
+## Technical parameters (spec)
+
+| Parameter | Value | Unit | Status |
+|---|---|---|---|
+| `dimension` | `200 x 200 x 30 (cabin cartridge)` | not published | reference |
+| `efficiency_class` | `ISO 16890 ePM2.5` | not published | reference |
+| `temperature_resistance` | `60` | `°C` | reference |
+
+## Material
+
+| Part | Material | Status |
+|---|---|---|
+| `media` | `nonwoven polyester` | reference |
+| `frame` | `PP plastic` | reference |
+| `seal` | `foam gasket` | reference |
+
+## Filter media
+
+- Type: `nonwoven_polyester`
+- Efficiency class: `ePM2.5 (ISO 16890)`
+- Grammage: not published
+
+## Application
+
+| Application | Medium | Status |
+|---|---|---|
+| `automotive` | `cabin` | reference |
+
+## MOQ
+
+`1000 pcs` (reference)

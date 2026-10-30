@@ -1,0 +1,52 @@
+# Transmission Filter CFH-TF-001
+
+<!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
+
+- **SKU**: `CFH-TF-001`
+- **Category**: [Transmission Filters](transmission-filters.md)
+- **Evidence source**: manufacturer catalog record
+- **Data status**: catalog-confirmed
+
+- **Efficiency class**: `25-40 micron (typical)`
+
+## Description
+
+Transmission filter under part number 35330-60070. The source records the OE number and the transmission application, but the parameters here are reference-grade, not source-confirmed. What protects the valve body and clutches is catching wear debris before it circulates, and that depends on matching the exact transmission model. From a sourcing perspective, verify whether the filter is pan-mounted or external, and ask for media and micron data on the spec sheet before ordering.
+
+## OE cross-reference
+
+| OE number | Brand | Equipment type | Status |
+|---|---|---|---|
+| `35330-60070` | not published | `transmission` | catalog-confirmed |
+
+## Technical parameters (spec)
+
+| Parameter | Value | Unit | Status |
+|---|---|---|---|
+| `dimension` | `pan-mounted (model-specific)` | not published | reference |
+| `removal_rating` | `25-40` | `um` | reference |
+| `mounting` | `pan-mounted / external (model-specific)` | not published | reference |
+
+## Material
+
+| Part | Material | Status |
+|---|---|---|
+| `media` | `synthetic fiber` | reference |
+| `housing` | `steel / plastic` | reference |
+| `gasket` | `cork / rubber` | reference |
+
+## Filter media
+
+- Type: `synthetic_fiber`
+- Efficiency class: `25-40 um`
+- Grammage: not published
+
+## Application
+
+| Application | Medium | Status |
+|---|---|---|
+| `automotive` | `oil` | reference |
+
+## MOQ
+
+`500 pcs` (reference)

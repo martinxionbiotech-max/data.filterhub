@@ -80,8 +80,8 @@
   },
   "products": [
     {
-      "sku": "42N-62-15470",
-      "name": "Air Filter 42N-62-15470 (Komatsu Loader)",
+      "sku": "CFH-AF-001",
+      "name": "Air Filter CFH-AF-001 (Komatsu Loader)",
       "category": "air-filters",
       "company": "hbxueyuan.com",
       "description": "Komatsu loader intake air filter cross-referenced under OE number 42N-62-15470, listed in the heavy-machinery engine-intake category. dimensions, media and efficiency are reference values only. For loaders working high-dust off-highway duty, buyers should prioritise confirmed dust-holding capacity and intake-restriction control over a nominal efficiency label. Before committing a bulk line, verify the form factor, pleat construction and ISO 5011 capacity against the OE drawing and request the spec sheet rather than relying on the catalogue alone.",
@@ -152,11 +152,12 @@
         "moq_value": 500,
         "moq_unit": "pcs",
         "data_status": "reference"
-      }
+      },
+      "url_slug": "42n-62-15470"
     },
     {
-      "sku": "P778989",
-      "name": "Air Compressor Air Filter P778989 (Mitsubishi L200/Storm)",
+      "sku": "CFH-AF-002",
+      "name": "Air Compressor Air Filter CFH-AF-002 (Mitsubishi L200/Storm)",
       "category": "air-filters",
       "company": "hbxueyuan.com",
       "description": "Air-compressor intake filter referenced by OE number P778989 for the Mitsubishi L200/Storm family, catalogued under the air-compressor subcategory. The source records the Mitsubishi OE number and the compressor application; the parameters here are reference-grade, not source-confirmed. Compressor intake runs a high-velocity, high-dust airflow, so capacity and pressure-drop behaviour matter at least as much as raw efficiency. From a sourcing perspective, buyers should verify the housing form factor and the exact compressor model before ordering, and treat the cross-reference as a discovery aid. Request the spec sheet for dimensions, media and efficiency before a bulk commitment.",
@@ -228,11 +229,12 @@
         "moq_unit": "pcs",
         "data_status": "reference"
       },
-      "subcategory": "air_compressor"
+      "subcategory": "air_compressor",
+      "url_slug": "p778989"
     },
     {
-      "sku": "P822768",
-      "name": "Heavy Duty Machinery Air Filter P822768/P822769 (Case/Cat/Hitachi)",
+      "sku": "CFH-AF-003",
+      "name": "Heavy Duty Machinery Air Filter CFH-AF-003/P822769 (Case/Cat/Hitachi)",
       "category": "air-filters",
       "company": "hbxueyuan.com",
       "description": "Heavy-duty machinery air filter cross-referenced under OE numbers P822768 and P822769 for Case, Caterpillar and Hitachi equipment, grouped in the heavy-duty intake subcategory. The catalogue confirms the OE numbers and the heavy-machinery application but dimension, media and grade are recorded as reference figures. Across the Case/Cat/Hitachi range the same OE reference can map to different housings, so our advice is to verify the specific machine model and the element form factor before committing volume. Check media type and ISO 5011 efficiency/dust-capacity figures on the spec sheet, since per-model values are not published here and must be verified against the OE drawing.",
@@ -310,11 +312,12 @@
         "moq_unit": "pcs",
         "data_status": "reference"
       },
-      "subcategory": "heavy_duty"
+      "subcategory": "heavy_duty",
+      "url_slug": "p822768"
     },
     {
-      "sku": "1542743",
-      "name": "Engine Parts Air Filter 1542743/1660619/475388 (Volvo)",
+      "sku": "CFH-AF-004",
+      "name": "Engine Parts Air Filter CFH-AF-004/1660619/475388 (Volvo)",
       "category": "air-filters",
       "company": "hbxueyuan.com",
       "description": "Volvo engine-parts air filter cross-referenced under OE numbers 1542743, 1660619 and 475388 for truck applications, listed in the heavy-duty intake subcategory. The source confirms the Volvo truck OE references; these fields are carried as reference values rather than a verified spec. Volvo trucks run sustained high-dust intake duty, so dust-holding capacity and restriction control are the figures that decide service interval. From a sourcing perspective, buyers should pin down the exact chassis and housing before ordering and treat the triple OE reference as a starting point. Request the spec sheet to verify dimensions and capacity against the OE drawing before a bulk order.",
@@ -398,11 +401,12 @@
         "moq_unit": "pcs",
         "data_status": "reference"
       },
-      "subcategory": "heavy_duty"
+      "subcategory": "heavy_duty",
+      "url_slug": "1542743"
     },
     {
-      "sku": "626095",
-      "name": "Air Compressor Filter 626095/P626096/P626104",
+      "sku": "CFH-AF-005",
+      "name": "Air Compressor Filter CFH-AF-005/P626096/P626104",
       "category": "air-filters",
       "company": "hbxueyuan.com",
       "description": "Air-compressor filter element cross-referenced under OE numbers 626095, P626096 and P626104, catalogued in the air-compressor intake subcategory. The source lists the three OE references but the spec figures are reference, not catalogue-verified. Compressor intake filtration is compact and housing-specific, which makes form-factor confirmation the critical first step. Our advice: verify the exact compressor model and element form factor, then request the spec sheet for media, dimensions and efficiency. Do not treat the triple OE reference as a fitment guarantee until it is checked against the drawing.",
@@ -486,11 +490,12 @@
         "moq_unit": "pcs",
         "data_status": "reference"
       },
-      "subcategory": "air_compressor"
+      "subcategory": "air_compressor",
+      "url_slug": "626095"
     },
     {
-      "sku": "178017810",
-      "name": "Engine Powercore Air Filter 178017810/17801-7810 (Hino Trucks)",
+      "sku": "CFH-AF-006",
+      "name": "Engine Powercore Air Filter CFH-AF-006/17801-7810 (Hino Trucks)",
       "category": "air-filters",
       "company": "hbxueyuan.com",
       "description": "PowerCore engine air filter cross-referenced under OE numbers 178017810 and 17801-7810 for Hino trucks, catalogued in the PowerCore intake subcategory. PowerCore construction adds a compact pleated-media option for space-limited housings, but the source media, size and grade are reference values here. Hino truck duty favours high dust capacity and low restriction over long hauls, so our advice is to confirm the exact truck model and housing before committing. Request the spec sheet for dimensions, media and ISO 5011 efficiency/dust-capacity data, and verify the cross-reference against the OE drawing rather than assuming fitment from the number.",
@@ -568,11 +573,12 @@
         "moq_unit": "pcs",
         "data_status": "reference"
       },
-      "subcategory": "powercore"
+      "subcategory": "powercore",
+      "url_slug": "178017810"
     },
     {
-      "sku": "8-98260-8340",
-      "name": "Powercore Air Filter 8-98260-8340/8982608340 (Isuzu Trucks)",
+      "sku": "CFH-AF-007",
+      "name": "Powercore Air Filter CFH-AF-007/8982608340 (Isuzu Trucks)",
       "category": "air-filters",
       "company": "hbxueyuan.com",
       "description": "PowerCore air filter cross-referenced under OE numbers 8-98260-8340 and 8982608340 for Isuzu trucks, listed in the PowerCore intake subcategory. The source confirms the Isuzu truck OE references but the parameters are reference-grade figures to verify on the spec sheet. PowerCore's compact pleated construction suits tight truck housings, yet the same reference can span several Isuzu chassis, so fitment must be verified. From a sourcing perspective, buyers should verify the exact model and housing form factor, then request the spec sheet for dimensions, media and ISO 5011 capacity. Treat the OE number as a cross-reference, not a verified match.",
@@ -650,11 +656,12 @@
         "moq_unit": "pcs",
         "data_status": "reference"
       },
-      "subcategory": "powercore"
+      "subcategory": "powercore",
+      "url_slug": "8-98260-8340"
     },
     {
-      "sku": "P608677",
-      "name": "Primary Obround Powercore Air Filter P608677 (Mack/Volvo/Wirtgen)",
+      "sku": "CFH-AF-008",
+      "name": "Primary Obround Powercore Air Filter CFH-AF-008 (Mack/Volvo/Wirtgen)",
       "category": "air-filters",
       "company": "hbxueyuan.com",
       "description": "Primary obround PowerCore air filter cross-referenced under OE number P608677, replacing Mack 57MD321M and covering Mack, Volvo and Wirtgen equipment in the PowerCore subcategory. The source records the OE reference and the equipment span but no source-confirmed spec is attached; the values are reference-grade. As a primary-stage obround element, its role is high dust capacity ahead of the safety element. Our advice: verify the exact machine and the obround dimensions before ordering, since the Mack/Volvo/Wirtgen span implies several housings. Request the spec sheet for media, dimensions and ISO 5011 figures and verify against the OE drawing.",
@@ -726,11 +733,12 @@
         "moq_unit": "pcs",
         "data_status": "reference"
       },
-      "subcategory": "powercore"
+      "subcategory": "powercore",
+      "url_slug": "p608677"
     },
     {
-      "sku": "P623400",
-      "name": "Powercore Truck Air Filter P623400/PA32001/P635170",
+      "sku": "CFH-AF-009",
+      "name": "Powercore Truck Air Filter CFH-AF-009/PA32001/P635170",
       "category": "air-filters",
       "company": "hbxueyuan.com",
       "description": "PowerCore truck air filter cross-referenced under OE numbers P623400, PA32001 and P635170, catalogued in the PowerCore intake subcategory. The source lists the three OE references but dimensions, media and efficiency are reference values only. PowerCore's compact pleated media suits space-limited truck housings, yet the triple reference is a discovery aid rather than a fitment guarantee. From a sourcing perspective, buyers should confirm the exact truck model and housing form factor first, then request the spec sheet for dimensions, media and ISO 5011 capacity. Verify the cross-reference against the OE drawing before a bulk order.",
@@ -814,11 +822,12 @@
         "moq_unit": "pcs",
         "data_status": "reference"
       },
-      "subcategory": "powercore"
+      "subcategory": "powercore",
+      "url_slug": "p623400"
     },
     {
-      "sku": "2116040258",
-      "name": "Tractor Honeycomb Air Filter 2116040258",
+      "sku": "CFH-AF-010",
+      "name": "Tractor Honeycomb Air Filter CFH-AF-010",
       "category": "air-filters",
       "company": "hbxueyuan.com",
       "description": "Tractor engine honeycomb air filter under OE number 2116040258, listed in the round intake subcategory for agricultural equipment. The source confirms the tractor application and the honeycomb element description but the parameters here are reference-grade, not source-confirmed. Agricultural duty runs heavy in field dust, so capacity and restriction control drive service life more than a nominal efficiency number. Our advice: verify the exact tractor model and the round-element dimensions before ordering, then request the spec sheet for media and ISO 5011 dust-capacity data. Treat the OE number as a cross-reference to be verified against the drawing.",
@@ -890,11 +899,12 @@
         "moq_unit": "pcs",
         "data_status": "reference"
       },
-      "subcategory": "round"
+      "subcategory": "round",
+      "url_slug": "2116040258"
     },
     {
-      "sku": "AF55014",
-      "name": "Air Filter AF55014/AF55308 (Tractor/Combine/ATV)",
+      "sku": "CFH-AF-011",
+      "name": "Air Filter CFH-AF-011/AF55308 (Tractor/Combine/ATV)",
       "category": "air-filters",
       "company": "hbxueyuan.com",
       "description": "Round air filter cross-referenced under OE numbers AF55014 and AF55308 for tractors, combines and ATVs, replacing 222035, listed in the round intake subcategory. The source records the multi-equipment OE reference but dimension, media and grade are recorded as reference figures. Because the reference spans tractors, combines and ATVs, the same number family can map to different housings, so fitment confirmation is essential. From a sourcing perspective, buyers should specify the exact equipment model and verify the round-element dimensions, then request the spec sheet for media and ISO 5011 figures. Do not treat the OE reference as a verified fitment.",
@@ -972,11 +982,12 @@
         "moq_unit": "pcs",
         "data_status": "reference"
       },
-      "subcategory": "round"
+      "subcategory": "round",
+      "url_slug": "af55014"
     },
     {
-      "sku": "P643118",
-      "name": "Powercore Compressed Air Filter P643118/P318005/RE288552",
+      "sku": "CFH-AF-012",
+      "name": "Powercore Compressed Air Filter CFH-AF-012/P318005/RE288552",
       "category": "air-filters",
       "company": "hbxueyuan.com",
       "description": "PowerCore honeycomb compressed-air filter cross-referenced under OE numbers P643118, P318005 and RE288552, catalogued in the air-compressor intake subcategory. The source lists the three OE references and the PowerCore honeycomb construction but these fields are carried as reference values rather than a verified spec. Compressed-air intake is compact and housing-specific, so form-factor confirmation is the first gating step. Our advice: verify the exact compressor model and element dimensions, then request the spec sheet for media and efficiency. Treat the triple OE reference as a discovery point and verify against the drawing before committing volume.",
@@ -1060,11 +1071,12 @@
         "moq_unit": "pcs",
         "data_status": "reference"
       },
-      "subcategory": "air_compressor"
+      "subcategory": "air_compressor",
+      "url_slug": "p643118"
     },
     {
-      "sku": "72880-FG000",
-      "name": "Cabin Air Filter 72880-FG000 (Subaru Forester/WRX/Impreza)",
+      "sku": "CFH-CF-001",
+      "name": "Cabin Air Filter CFH-CF-001 (Subaru Forester/WRX/Impreza)",
       "category": "cabin-filters",
       "company": "hbxueyuan.com",
       "description": "Cabin air filter referenced by OE number 72880-FG000 for the Subaru Forester, WRX, Impreza and Crosstrek 2016-17, catalogued in the cabin-filtration category. The source confirms the Subaru OE number and the model-year span but the spec figures are reference, not catalogue-verified. Cabin filters are fitment-driven, so year and trim are the dominant failure points in sourcing. From a sourcing perspective, buyers should verify the exact vehicle year and trim and state whether particle-only or activated-carbon media is required. Request the spec sheet for dimensions and efficiency class, since these are not published and must be verified before bulk ordering.",
@@ -1135,11 +1147,12 @@
         "moq_value": 1000,
         "moq_unit": "pcs",
         "data_status": "reference"
-      }
+      },
+      "url_slug": "72880-fg000"
     },
     {
-      "sku": "500-0957",
-      "name": "Caterpillar Cabin Air Filter 500-0957 (CAT 5000957)",
+      "sku": "CFH-CF-002",
+      "name": "Caterpillar Cabin Air Filter CFH-CF-002 (CAT 5000957)",
       "category": "cabin-filters",
       "company": "hbxueyuan.com",
       "description": "Caterpillar cabin air filter under OE number 500-0957 (CAT 5000957), catalogued in the cabin-filtration category for construction-machinery cabs. The source confirms the Caterpillar OE number and the machinery application but media, size and grade are reference values here. Machine-cab duty is dust-heavy, so particle-holding behaviour matters more than in passenger-vehicle duty. Our advice: verify the exact Cat machine model and whether the housing takes a single-piece or two-piece filter, then request the spec sheet for dimensions and efficiency. Verify fitment against the OE drawing before a bulk commitment.",
@@ -1210,11 +1223,12 @@
         "moq_value": 1000,
         "moq_unit": "pcs",
         "data_status": "reference"
-      }
+      },
+      "url_slug": "500-0957"
     },
     {
-      "sku": "580-5439",
-      "name": "Caterpillar Cabin Air Filter 580-5439",
+      "sku": "CFH-CF-003",
+      "name": "Caterpillar Cabin Air Filter CFH-CF-003",
       "category": "cabin-filters",
       "company": "hbxueyuan.com",
       "description": "Caterpillar cabin air filter under OE number 580-5439, catalogued in the cabin-filtration category. The source records the Caterpillar OE reference and the machinery application but the parameters are reference-grade figures to verify on the spec sheet. As a machine-cab filter, this entry is fitment-driven and dust-heavy in practice. From a sourcing perspective, buyers should verify the exact Cat machine model and the housing configuration, and specify particle-only versus carbon media. Request the spec sheet for dimensions and ISO 16890 efficiency class, which are not published and must be verified before ordering.",
@@ -1285,11 +1299,12 @@
         "moq_value": 1000,
         "moq_unit": "pcs",
         "data_status": "reference"
-      }
+      },
+      "url_slug": "580-5439"
     },
     {
-      "sku": "90915-YZZA3",
-      "name": "Cabin Air Filter 90915-YZZA3 (Lexus IS300/RX300, Toyota Highlander)",
+      "sku": "CFH-CF-004",
+      "name": "Cabin Air Filter CFH-CF-004 (Lexus IS300/RX300, Toyota Highlander)",
       "category": "cabin-filters",
       "company": "hbxueyuan.com",
       "description": "Cabin air filter referenced by OE number 90915-YZZA3 for the Lexus IS300/RX300 (99-03) and Toyota Highlander, catalogued in the cabin-filtration category. The source confirms the Lexus/Toyota OE reference and the model span but no source-confirmed spec is attached; the values are reference-grade. The cross-brand reference spans different cabins, so year and trim confirmation is the gating step. Our advice: verify the exact vehicle, year and trim, and state particle-only versus carbon media. Request the spec sheet for dimensions and efficiency class before a bulk order, and verify fitment against the OE drawing.",
@@ -1360,11 +1375,12 @@
         "moq_value": 1000,
         "moq_unit": "pcs",
         "data_status": "reference"
-      }
+      },
+      "url_slug": "90915-yzza3"
     },
     {
-      "sku": "G92DH42010",
-      "name": "Cabin Air Filter G92DH42010 (Toyota RAV4)",
+      "sku": "CFH-CF-005",
+      "name": "Cabin Air Filter CFH-CF-005 (Toyota RAV4)",
       "category": "cabin-filters",
       "company": "hbxueyuan.com",
       "description": "Cabin air-condition filter under OE number G92DH42010 for the Toyota RAV4, catalogued in the cabin-filtration category. The source confirms the Toyota OE reference and the RAV4 application but publishes no dimensions, media type or efficiency class. RAV4 cabins vary by generation and trim, so fitment is the dominant risk. From a sourcing perspective, buyers should verify the exact model year and trim, and specify whether particle-only or activated-carbon media is needed. Request the spec sheet for dimensions and ISO 16890 efficiency class, since these are not published and must be verified before bulk ordering.",
@@ -1435,11 +1451,12 @@
         "moq_value": 1000,
         "moq_unit": "pcs",
         "data_status": "reference"
-      }
+      },
+      "url_slug": "g92dh42010"
     },
     {
-      "sku": "88880-20110",
-      "name": "Interior Air Filter 88880-20110 (Toyota Avensis)",
+      "sku": "CFH-CF-006",
+      "name": "Interior Air Filter CFH-CF-006 (Toyota Avensis)",
       "category": "cabin-filters",
       "company": "hbxueyuan.com",
       "description": "Interior cabin air filter under OE number 88880-20110 for the Toyota Avensis estate and saloon, catalogued in the cabin-filtration category. The source confirms the Toyota OE reference and the estate/saloon application but publishes no dimensions, media type or efficiency class. Estate and saloon bodies can take the same filter, but year and trim confirmation remains the gating step. Our advice: verify the exact Avensis model and trim, and specify particle-only versus carbon media. Request the spec sheet for dimensions and ISO 16890 efficiency class before committing a bulk line.",
@@ -1510,11 +1527,12 @@
         "moq_value": 1000,
         "moq_unit": "pcs",
         "data_status": "reference"
-      }
+      },
+      "url_slug": "88880-20110"
     },
     {
-      "sku": "7803A112",
-      "name": "Cabin Air Filter 7803A112 (Mitsubishi L200/Fiat Fullback)",
+      "sku": "CFH-CF-007",
+      "name": "Cabin Air Filter CFH-CF-007 (Mitsubishi L200/Fiat Fullback)",
       "category": "cabin-filters",
       "company": "hbxueyuan.com",
       "description": "Cabin air filter under OE number 7803A112 for the Mitsubishi L200/Triton MQ and Fiat Fullback 2.4 diesel (2015-2018), catalogued in the cabin-filtration category. The source confirms the Mitsubishi/Fiat OE reference and the model-year span but publishes no dimensions, media type or ISO 16890 efficiency class. Shared-platform pickups still vary by trim, so fitment confirmation is essential. From a sourcing perspective, buyers should verify the exact model, year and trim, and specify particle-only versus carbon media. Request the spec sheet for dimensions and efficiency class before bulk ordering.",
@@ -1585,11 +1603,12 @@
         "moq_value": 1000,
         "moq_unit": "pcs",
         "data_status": "reference"
-      }
+      },
+      "url_slug": "7803a112"
     },
     {
-      "sku": "7701059997",
-      "name": "Interior Air Filter 7701059997 (Dacia/Lada/Nissan/Renault)",
+      "sku": "CFH-CF-008",
+      "name": "Interior Air Filter CFH-CF-008 (Dacia/Lada/Nissan/Renault)",
       "category": "cabin-filters",
       "company": "hbxueyuan.com",
       "description": "Interior cabin air filter under OE number 7701059997 for the Dacia Duster, Lada, Nissan and Renault (02-18), catalogued in the cabin-filtration category. The source confirms the Renault/Dacia OE reference and the broad model span but dimensions, media and efficiency are reference values only. The wide cross-brand span means the same number can map to several cabins, so confirmation is the gating step. Our advice: verify the exact vehicle, year and trim, and state particle-only versus carbon media. Request the spec sheet for dimensions and ISO 16890 efficiency class before ordering.",
@@ -1660,11 +1679,12 @@
         "moq_value": 1000,
         "moq_unit": "pcs",
         "data_status": "reference"
-      }
+      },
+      "url_slug": "7701059997"
     },
     {
-      "sku": "23401-1441",
-      "name": "Fuel Filter 23401-1441",
+      "sku": "CFH-FF-001",
+      "name": "Fuel Filter CFH-FF-001",
       "category": "fuel-filters",
       "company": "hbxueyuan.com",
       "description": "Fuel filter under OE number 23401-1441 for heavy-duty diesel trucks, catalogued in the fuel-filtration category. The source records the OE number and the heavy-truck diesel application but the parameters here are reference-grade, not source-confirmed. Heavy-duty diesel lines typically require water separation in addition to particle retention, so that capability is the first thing to verify. From a sourcing perspective, buyers should state the exact fuel type and system pressure and verify whether the line needs water separation. Request the spec sheet for micron rating and water-separation efficiency, since these are not published here.",
@@ -1741,11 +1761,12 @@
         "moq_value": 500,
         "moq_unit": "pcs",
         "data_status": "reference"
-      }
+      },
+      "url_slug": "23401-1441"
     },
     {
-      "sku": "23401-1220",
-      "name": "Fuel Filter 23401-1220",
+      "sku": "CFH-FF-002",
+      "name": "Fuel Filter CFH-FF-002",
       "category": "fuel-filters",
       "company": "hbxueyuan.com",
       "description": "Diesel fuel filter under OE number 23401-1220, for diesel vehicles. The source records the number and the diesel application but dimension, media and grade are recorded as reference figures. Diesel filtration protects the injection system, so a wrong element risks the pump and injectors. Our advice is to confirm the exact fuel type and whether the line needs water separation, then request the spec sheet for micron rating and water-separation efficiency. Verify the reference against the injection specification.",
@@ -1822,11 +1843,12 @@
         "moq_value": 500,
         "moq_unit": "pcs",
         "data_status": "reference"
-      }
+      },
+      "url_slug": "23401-1220"
     },
     {
-      "sku": "8159975",
-      "name": "Fuel Filter 8159975",
+      "sku": "CFH-FF-003",
+      "name": "Fuel Filter CFH-FF-003",
       "category": "fuel-filters",
       "company": "hbxueyuan.com",
       "description": "Replacement diesel fuel filter under OE number 8159975, catalogued in the fuel-filtration category. The source records the OE number and the diesel-engine application but these fields are carried as reference values rather than a verified spec. As a replacement element, the fit is cross-reference-led, so the number is a starting point rather than a guarantee. From a sourcing perspective, buyers should confirm the exact engine and fuel type, and whether water separation is required. Request the spec sheet for micron rating and water-separation efficiency, and verify against the injection specification before ordering.",
@@ -1903,11 +1925,12 @@
         "moq_value": 500,
         "moq_unit": "pcs",
         "data_status": "reference"
-      }
+      },
+      "url_slug": "8159975"
     },
     {
-      "sku": "2169185",
-      "name": "Fuel Filter 2169185",
+      "sku": "CFH-FF-004",
+      "name": "Fuel Filter CFH-FF-004",
       "category": "fuel-filters",
       "company": "hbxueyuan.com",
       "description": "Fuel filter under OE number 2169185 for heavy trucks, catalogued in the fuel-filtration category. The source records the OE number and the heavy-truck application but the spec figures are reference, not catalogue-verified. Heavy-truck diesel duty makes water separation a common requirement, and the injection system tolerates little contamination. Our advice: confirm the fuel type and system pressure, and state whether the line needs water separation. Request the spec sheet for micron rating and water-separation efficiency before a bulk commitment.",
@@ -1984,11 +2007,12 @@
         "moq_value": 500,
         "moq_unit": "pcs",
         "data_status": "reference"
-      }
+      },
+      "url_slug": "2169185"
     },
     {
-      "sku": "0007733150",
-      "name": "Fuel Filter 0007733150",
+      "sku": "CFH-FF-005",
+      "name": "Fuel Filter CFH-FF-005",
       "category": "fuel-filters",
       "company": "hbxueyuan.com",
       "description": "Fuel filter, part 0007733150, for diesel vehicles. media, size and grade are reference values here. Because diesel lines tolerate very little contamination, the correct element is a protection decision, not a commodity pick. Buyers should state the fuel type and system pressure, and confirm whether water separation is required, then pull micron and water-separation data from the spec sheet. Verify the reference on the spec sheet before ordering.",
@@ -2065,11 +2089,12 @@
         "moq_value": 500,
         "moq_unit": "pcs",
         "data_status": "reference"
-      }
+      },
+      "url_slug": "0007733150"
     },
     {
-      "sku": "VG1540080311",
-      "name": "Fuel Filter VG1540080311",
+      "sku": "CFH-FF-006",
+      "name": "Fuel Filter CFH-FF-006",
       "category": "fuel-filters",
       "company": "hbxueyuan.com",
       "description": "Fuel filter under OE number VG1540080311 for heavy trucks and commercial vehicles, catalogued in the fuel-filtration category. The source records the OE number and the heavy-truck/commercial application but the parameters are reference-grade figures to verify on the spec sheet. Commercial diesel duty usually needs water separation alongside particle retention. Our advice: verify the exact fuel type and system pressure, and state whether the line needs water separation. Request the spec sheet for micron rating and water-separation efficiency, since these are not published and must be verified before bulk ordering.",
@@ -2146,11 +2171,12 @@
         "moq_value": 500,
         "moq_unit": "pcs",
         "data_status": "reference"
-      }
+      },
+      "url_slug": "vg1540080311"
     },
     {
-      "sku": "FS19920",
-      "name": "Fuel Filter FS19920 (Water Separation)",
+      "sku": "CFH-FF-007",
+      "name": "Fuel Filter CFH-FF-007 (Water Separation)",
       "category": "fuel-filters",
       "company": "hbxueyuan.com",
       "description": "Heavy-duty fuel filter under OE number FS19920, explicitly described as carrying water separation and a high-efficiency design, catalogued in the fuel-filtration category. The source flags water separation as a headline feature but no source-confirmed spec is attached; the values are reference-grade. For diesel duty where water ingress is a real risk, that separation capability is the deciding factor. From a sourcing perspective, buyers should verify the exact fuel type and system pressure, then request the spec sheet for micron rating and water-separation efficiency. Verify the OE reference before a bulk line.",
@@ -2227,11 +2253,12 @@
         "moq_value": 500,
         "moq_unit": "pcs",
         "data_status": "reference"
-      }
+      },
+      "url_slug": "fs19920"
     },
     {
-      "sku": "PP879",
-      "name": "Fuel Filter PP879",
+      "sku": "CFH-FF-008",
+      "name": "Fuel Filter CFH-FF-008",
       "category": "fuel-filters",
       "company": "hbxueyuan.com",
       "description": "Diesel fuel filter under OE number PP879 for heavy-duty vehicles, catalogued in the fuel-filtration category. The source records the OE number and the heavy-duty diesel application but dimensions, media and efficiency are reference values only. Diesel injection systems are contamination-sensitive, so the correct element matters. Our advice: confirm the fuel type and system pressure, and state whether water separation is required. Request the spec sheet for micron rating and water-separation efficiency, and verify the OE reference against the injection specification before ordering.",
@@ -2308,11 +2335,12 @@
         "moq_value": 500,
         "moq_unit": "pcs",
         "data_status": "reference"
-      }
+      },
+      "url_slug": "pp879"
     },
     {
-      "sku": "35330-60070",
-      "name": "Transmission Filter 35330-60070",
+      "sku": "CFH-TF-001",
+      "name": "Transmission Filter CFH-TF-001",
       "category": "transmission-filters",
       "company": "hbxueyuan.com",
       "description": "Transmission filter under part number 35330-60070. The source records the OE number and the transmission application, but the parameters here are reference-grade, not source-confirmed. What protects the valve body and clutches is catching wear debris before it circulates, and that depends on matching the exact transmission model. From a sourcing perspective, verify whether the filter is pan-mounted or external, and ask for media and micron data on the spec sheet before ordering.",
@@ -2383,11 +2411,12 @@
         "moq_value": 500,
         "moq_unit": "pcs",
         "data_status": "reference"
-      }
+      },
+      "url_slug": "35330-60070"
     },
     {
-      "sku": "35303-B1010",
-      "name": "Transmission Filter 35303-B1010",
+      "sku": "CFH-TF-002",
+      "name": "Transmission Filter CFH-TF-002",
       "category": "transmission-filters",
       "company": "hbxueyuan.com",
       "description": "Automatic-transmission filter, OE 35303-B1010. The catalogue lists the number and the gearbox application only — dimension, media and grade are recorded as reference figures A transmission filter's whole job is debris control for the valve body and clutches, so exact model fitment is the gate. From a sourcing view, verify pan-mounted versus external mounting and request media and micron data on the spec sheet.",
@@ -2458,11 +2487,12 @@
         "moq_value": 500,
         "moq_unit": "pcs",
         "data_status": "reference"
-      }
+      },
+      "url_slug": "35303-b1010"
     },
     {
-      "sku": "31728-3JX0C",
-      "name": "Transmission Filter 31728-3JX0C",
+      "sku": "CFH-TF-003",
+      "name": "Transmission Filter CFH-TF-003",
       "category": "transmission-filters",
       "company": "hbxueyuan.com",
       "description": "Transmission filter listed as 31728-3JX0C. Beyond the number and the transmission segment, the source these fields are carried as reference values rather than a verified spec. Wear-debris control protects the valve body and clutches, which makes model-level fitment the critical variable. Buyers should confirm the mounting form (pan or external) and pull media and micron data from the spec sheet before committing a line.",
@@ -2533,11 +2563,12 @@
         "moq_value": 500,
         "moq_unit": "pcs",
         "data_status": "reference"
-      }
+      },
+      "url_slug": "31728-3jx0c"
     },
     {
-      "sku": "25420-PR0-030",
-      "name": "Transmission Filter 25420-PR0-030 (Honda)",
+      "sku": "CFH-TF-004",
+      "name": "Transmission Filter CFH-TF-004 (Honda)",
       "category": "transmission-filters",
       "company": "hbxueyuan.com",
       "description": "Honda transmission filter, OE 25420-PR0-030. The source confirms the Honda reference and the transmission application but the spec figures are reference, not catalogue-verified. Honda filters are model-specific, and a pan-mounted element is not interchangeable with an external one. Verify the exact transmission model and the mounting form; our advice is to request media and micron data on the spec sheet before bulk ordering.",
@@ -2608,11 +2639,12 @@
         "moq_value": 500,
         "moq_unit": "pcs",
         "data_status": "reference"
-      }
+      },
+      "url_slug": "25420-pr0-030"
     },
     {
-      "sku": "25420-P7W-003",
-      "name": "Transmission Filter 25420-P7W-003 (Honda/Acura)",
+      "sku": "CFH-TF-005",
+      "name": "Transmission Filter CFH-TF-005 (Honda/Acura)",
       "category": "transmission-filters",
       "company": "hbxueyuan.com",
       "description": "Transmission filter for Honda/Acura, part 25420-P7W-003. The catalogue names the Honda/Acura reference and the gearbox application, media, size and grade are reference values here. Because the reference spans Honda and Acura, the same number can map to several transmissions, so model confirmation is essential. We recommend asking whether the filter is pan-mounted or external, and getting media and micron data on the spec sheet.",
@@ -2683,11 +2715,12 @@
         "moq_value": 500,
         "moq_unit": "pcs",
         "data_status": "reference"
-      }
+      },
+      "url_slug": "25420-p7w-003"
     },
     {
-      "sku": "25420-PW4-010",
-      "name": "Transmission Filter 25420-PW4-010 (Honda)",
+      "sku": "CFH-TF-006",
+      "name": "Transmission Filter CFH-TF-006 (Honda)",
       "category": "transmission-filters",
       "company": "hbxueyuan.com",
       "description": "Honda transmission filter under OE 25420-PW4-010. The source gives the Honda reference and the application, the parameters are reference-grade figures to verify on the spec sheet. Debris control for the valve body and clutches is the purpose, so the exact model fit is the gate. Verify the Honda transmission model and the pan-versus-external mounting form; in our view, request media and micron data before ordering.",
@@ -2758,11 +2791,12 @@
         "moq_value": 500,
         "moq_unit": "pcs",
         "data_status": "reference"
-      }
+      },
+      "url_slug": "25420-pw4-010"
     },
     {
-      "sku": "31728-AA000",
-      "name": "Transmission Filter 31728-AA000 (Subaru)",
+      "sku": "CFH-TF-007",
+      "name": "Transmission Filter CFH-TF-007 (Subaru)",
       "category": "transmission-filters",
       "company": "hbxueyuan.com",
       "description": "Subaru transmission filter, part 31728-AA000. The catalogue confirms the Subaru reference and the transmission application but no source-confirmed spec is attached; the values are reference-grade. Subaru filters are model-specific, and the pan-mounted and external forms are not interchangeable. From a sourcing view, verify the exact Subaru transmission and the mounting form, then request media and micron data on the spec sheet.",
@@ -2833,11 +2867,12 @@
         "moq_value": 500,
         "moq_unit": "pcs",
         "data_status": "reference"
-      }
+      },
+      "url_slug": "31728-aa000"
     },
     {
-      "sku": "8973310630",
-      "name": "Transmission Filter 8973310630 (Isuzu)",
+      "sku": "CFH-TF-008",
+      "name": "Transmission Filter CFH-TF-008 (Isuzu)",
       "category": "transmission-filters",
       "company": "hbxueyuan.com",
       "description": "Isuzu transmission filter under OE 8973310630. The source records the Isuzu reference and the transmission segment, dimensions, media and efficiency are reference values only. The filter protects the valve body and clutches from wear debris, so exact model fitment is the deciding step. Confirm the Isuzu transmission model and whether the element is pan-mounted or external; from a sourcing standpoint, ask for media and micron data before ordering.",
@@ -2908,11 +2943,12 @@
         "moq_value": 500,
         "moq_unit": "pcs",
         "data_status": "reference"
-      }
+      },
+      "url_slug": "8973310630"
     },
     {
-      "sku": "15208-AD200",
-      "name": "Oil Filter 15208-AD200",
+      "sku": "CFH-OF-001",
+      "name": "Oil Filter CFH-OF-001",
       "category": "oil-filters",
       "company": "hbxueyuan.com",
       "description": "Spin-on oil filter, part number 15208-AD200, for passenger cars. the parameters here are reference-grade, not source-confirmed. In practice the mounting thread and the gasket seat decide whether the part bolts up and seals; the media and the bypass valve then decide whether it protects. Buyers should pull the spec sheet and verify thread pitch, gasket diameter and the relief-valve setting before buying in volume.",
@@ -2994,11 +3030,12 @@
         "moq_value": 1000,
         "moq_unit": "pcs",
         "data_status": "reference"
-      }
+      },
+      "url_slug": "15208-ad200"
     },
     {
-      "sku": "1S7J-6744-BA",
-      "name": "Oil Filter 1S7J-6744-BA",
+      "sku": "CFH-OF-002",
+      "name": "Oil Filter CFH-OF-002",
       "category": "oil-filters",
       "company": "hbxueyuan.com",
       "description": "Ford oil filter, OE reference 1S7J-6744-BA. The source names Ford and the passenger segment but dimension, media and grade are recorded as reference figures. Ford engines split across several filter families, so the OE number is the practical key and the exact engine must be matched rather than assumed. Our advice is to ask the supplier for the spec sheet to verify the gasket seat and thread, and give the oil grade and drain interval so the media lines up with the service schedule.",
@@ -3080,11 +3117,12 @@
         "moq_value": 1000,
         "moq_unit": "pcs",
         "data_status": "reference"
-      }
+      },
+      "url_slug": "1s7j-6744-ba"
     },
     {
-      "sku": "77-00-126-705",
-      "name": "Oil Filter 77-00-126-705",
+      "sku": "CFH-OF-003",
+      "name": "Oil Filter CFH-OF-003",
       "category": "oil-filters",
       "company": "hbxueyuan.com",
       "description": "Renault oil filter under part 77-00-126-705. Beyond the Renault reference and the car application, the catalogue these fields are carried as reference values rather than a verified spec. Renault powerplants differ family by family, so fitment is confirmed against the engine rather than the number. Our advice is to request the specification sheet for thread and gasket geometry, and to verify the oil type and change interval before a bulk purchase.",
@@ -3166,11 +3204,12 @@
         "moq_value": 1000,
         "moq_unit": "pcs",
         "data_status": "reference"
-      }
+      },
+      "url_slug": "77-00-126-705"
     },
     {
-      "sku": "93-18-6310",
-      "name": "Oil Filter 93-18-6310",
+      "sku": "CFH-OF-004",
+      "name": "Oil Filter CFH-OF-004",
       "category": "oil-filters",
       "company": "hbxueyuan.com",
       "description": "Passenger-car oil filter listed as 93-18-6310. The record carries only the number and the vehicle class; the spec figures are reference, not catalogue-verified. What actually guards the engine is the relief valve at high pressure and the drain-back valve at start-up, not the media alone. We suggest confirming thread pitch, gasket seat and relief opening on the spec sheet, then order against that data rather than the number.",
@@ -3252,11 +3291,12 @@
         "moq_value": 1000,
         "moq_unit": "pcs",
         "data_status": "reference"
-      }
+      },
+      "url_slug": "93-18-6310"
     },
     {
-      "sku": "93175493",
-      "name": "Oil Filter 93175493",
+      "sku": "CFH-OF-005",
+      "name": "Oil Filter CFH-OF-005",
       "category": "oil-filters",
       "company": "hbxueyuan.com",
       "description": "Oil filter for passenger cars, numbered 93175493. media, size and grade are reference values here. On a spin-on element the anti-drain-back valve is what stops dry starts, and the relief setting guards the element at high pressure. Buyers should obtain the spec sheet to confirm thread, gasket and relief setting, and state the oil grade and interval before committing a line.",
@@ -3338,11 +3378,12 @@
         "moq_value": 1000,
         "moq_unit": "pcs",
         "data_status": "reference"
-      }
+      },
+      "url_slug": "93175493"
     },
     {
-      "sku": "03C115577A",
-      "name": "Oil Filter 03C115577A",
+      "sku": "CFH-OF-006",
+      "name": "Oil Filter CFH-OF-006",
       "category": "oil-filters",
       "company": "hbxueyuan.com",
       "description": "Volkswagen oil filter, OE 03C115577A. The catalogue confirms Volkswagen and the passenger segment, but the parameters are reference-grade figures to verify on the spec sheet VW filter fits shift with engine generation, so matching the exact powerplant is the deciding step. From a sourcing view, get the spec sheet to check thread and gasket seat and the relief-valve setting, and supply the oil grade and change interval.",
@@ -3424,11 +3465,12 @@
         "moq_value": 1000,
         "moq_unit": "pcs",
         "data_status": "reference"
-      }
+      },
+      "url_slug": "03c115577a"
     },
     {
-      "sku": "0393-1030",
-      "name": "Oil Filter 0393-1030",
+      "sku": "CFH-OF-007",
+      "name": "Oil Filter CFH-OF-007",
       "category": "oil-filters",
       "company": "hbxueyuan.com",
       "description": "Engine oil filter, part 0393-1030, for passenger cars. Apart from the number and the car segment the catalogue discloses nothing — no source-confirmed spec is attached; the values are reference-grade. Media efficiency matters only after the bypass and drain-back valves do their job, so those settings deserve equal attention. From a sourcing perspective, ask for the spec sheet to verify thread pitch, gasket diameter and relief setting before buying.",
@@ -3510,11 +3552,12 @@
         "moq_value": 1000,
         "moq_unit": "pcs",
         "data_status": "reference"
-      }
+      },
+      "url_slug": "0393-1030"
     },
     {
-      "sku": "SH66279",
-      "name": "Hydraulic Oil Filter SH66279/362-1163 (Caterpillar 308C2)",
+      "sku": "CFH-HF-001",
+      "name": "Hydraulic Oil Filter CFH-HF-001/362-1163 (Caterpillar 308C2)",
       "category": "hydraulic-filters",
       "company": "hbxueyuan.com",
       "description": "Hydraulic oil filter for the Caterpillar 308C2 excavator, OE SH66279 / 362-1163. The source confirms the Cat references and the excavator application but dimensions, media and efficiency are reference values only. Hydraulic selection turns on system pressure, flow rate and the circuit cleanliness target, so those inputs decide the element. Buyers should supply flow and pressure and state the ISO 4406 target, then request pressure-drop and beta-ratio data.",
@@ -3597,11 +3640,12 @@
         "moq_value": 300,
         "moq_unit": "pcs",
         "data_status": "reference"
-      }
+      },
+      "url_slug": "sh66279"
     },
     {
-      "sku": "322-3155",
-      "name": "Hydraulic Filter Element 322-3155/322-3154 (Caterpillar)",
+      "sku": "CFH-HF-002",
+      "name": "Hydraulic Filter Element CFH-HF-002/322-3154 (Caterpillar)",
       "category": "hydraulic-filters",
       "company": "hbxueyuan.com",
       "description": "Caterpillar hydraulic filter element assembly, OE 322-3155 / 322-3154. The catalogue confirms the Cat references and the machinery application, the parameters here are reference-grade, not source-confirmed. As a lubrication element assembly, the fit is housing-specific and the duty follows the circuit. From a sourcing view, provide flow rate and operating pressure, state the ISO 4406 cleanliness target, and request pressure-drop and beta-ratio data.",
@@ -3684,11 +3728,12 @@
         "moq_value": 300,
         "moq_unit": "pcs",
         "data_status": "reference"
-      }
+      },
+      "url_slug": "322-3155"
     },
     {
-      "sku": "P177047",
-      "name": "Hydraulic Filter Spin-On P177047/1G-8878/6668819 (Bobcat)",
+      "sku": "CFH-HF-003",
+      "name": "Hydraulic Filter Spin-On CFH-HF-003/1G-8878/6668819 (Bobcat)",
       "category": "hydraulic-filters",
       "company": "hbxueyuan.com",
       "description": "Spin-on hydraulic filter for Bobcat skid-steer loaders, OE P177047 / 1G-8878 / 6668819. The source confirms the Bobcat references and the skid-steer application but dimension, media and grade are recorded as reference figures A spin-on hydraulic element is thread- and pressure-specific, so fitment and duty are the gating variables. Our advice is to supply flow rate and operating pressure, state the ISO 4406 target, and request pressure-drop and beta-ratio data before ordering.",
@@ -3777,11 +3822,12 @@
         "moq_value": 300,
         "moq_unit": "pcs",
         "data_status": "reference"
-      }
+      },
+      "url_slug": "p177047"
     },
     {
-      "sku": "A222100000119",
-      "name": "Hydraulic Oil Filter A222100000119 (SANY)",
+      "sku": "CFH-HF-004",
+      "name": "Hydraulic Oil Filter CFH-HF-004 (SANY)",
       "category": "hydraulic-filters",
       "company": "hbxueyuan.com",
       "description": "Hydraulic oil filter for SANY heavy machinery, part A222100000119. The catalogue lists the SANY reference and the machinery application only — these fields are carried as reference values rather than a verified spec. Selection depends on system pressure, flow rate and the cleanliness target of the circuit. Buyers should provide flow and pressure and state the ISO 4406 target, then request pressure-drop and beta-ratio data for the circuit.",
@@ -3858,11 +3904,12 @@
         "moq_value": 300,
         "moq_unit": "pcs",
         "data_status": "reference"
-      }
+      },
+      "url_slug": "a222100000119"
     },
     {
-      "sku": "R010109",
-      "name": "Hydraulic Oil Filter R010109/E1310212 (Hyundai)",
+      "sku": "CFH-HF-005",
+      "name": "Hydraulic Oil Filter CFH-HF-005/E1310212 (Hyundai)",
       "category": "hydraulic-filters",
       "company": "hbxueyuan.com",
       "description": "Hyundai hydraulic oil filter, OE R010109 / E1310212. The source confirms the Hyundai references and the machinery application, the spec figures are reference, not catalogue-verified. Hydraulic selection is driven by system pressure, flow rate and the circuit cleanliness target. From a sourcing view, provide those inputs and state the ISO 4406 target, then request pressure-drop and beta-ratio data before committing an order.",
@@ -3945,11 +3992,12 @@
         "moq_value": 300,
         "moq_unit": "pcs",
         "data_status": "reference"
-      }
+      },
+      "url_slug": "r010109"
     },
     {
-      "sku": "1194740",
-      "name": "Hydraulic Return Oil Filter 1194740 (Caterpillar)",
+      "sku": "CFH-HF-006",
+      "name": "Hydraulic Return Oil Filter CFH-HF-006 (Caterpillar)",
       "category": "hydraulic-filters",
       "company": "hbxueyuan.com",
       "description": "Caterpillar hydraulic return oil filter under part 1194740. The catalogue confirms the Cat reference and the machinery application, media, size and grade are reference values here. As a return-line element it protects the reservoir side of the circuit, so its duty follows the return flow. Buyers should provide flow and operating pressure, state the ISO 4406 target, and request pressure-drop and beta-ratio data before ordering.",
@@ -4026,11 +4074,12 @@
         "moq_value": 300,
         "moq_unit": "pcs",
         "data_status": "reference"
-      }
+      },
+      "url_slug": "1194740"
     },
     {
-      "sku": "P502561",
-      "name": "Excavator Hydraulic Return Oil Filter P502561 (SK130-8)",
+      "sku": "CFH-HF-007",
+      "name": "Excavator Hydraulic Return Oil Filter CFH-HF-007 (SK130-8)",
       "category": "hydraulic-filters",
       "company": "hbxueyuan.com",
       "description": "Excavator hydraulic return oil filter for the SK130-8, OE P502561. The source confirms the excavator application and the return-filter position but the parameters are reference-grade figures to verify on the spec sheet. Return-line duty follows the return flow, so flow-rate and cleanliness-target inputs decide the correct element. We recommend providing those inputs, stating the ISO 4406 target, and requesting pressure-drop and beta-ratio data for the circuit before ordering.",
@@ -4107,11 +4156,12 @@
         "moq_value": 300,
         "moq_unit": "pcs",
         "data_status": "reference"
-      }
+      },
+      "url_slug": "p502561"
     },
     {
-      "sku": "AIRY-AC-PANEL",
-      "name": "Activated Carbon Panel Filter",
+      "sku": "CFH-AC-001",
+      "name": "Activated Carbon Panel Filter (CFH-AC-001)",
       "category": "activated-carbon",
       "company": "airyfilter.com",
       "description": "Activated-carbon panel filter for odour and chemical-vapour neutralisation, catalogued in the activated-carbon category. The source publishes six face sizes from 295×595×10 mm to 595×595×21 mm, airflow figures of 2000-3600 m³/h, pressure drops of 10-15 Pa and a 60-65% arrestance figure. Carbon is contaminant-specific, so the target compound drives the media spec. From a sourcing perspective, buyers should name the target contaminant (odour, VOC or a specific vapour) and confirm the airflow and contact time. Request carbon weight and expected service life, which are not published here, before bulk ordering.",
@@ -4172,11 +4222,12 @@
         "moq_unit": "set",
         "data_status": "verified"
       },
-      "subcategory": "panel"
+      "subcategory": "panel",
+      "url_slug": "airy-ac-panel"
     },
     {
-      "sku": "AIRY-AC-POCKET",
-      "name": "Activated Carbon Pocket Filter",
+      "sku": "CFH-AC-002",
+      "name": "Activated Carbon Pocket Filter (CFH-AC-002)",
       "category": "activated-carbon",
       "company": "airyfilter.com",
       "description": "Activated-carbon pocket filter for high-capacity dust retention and odour removal, catalogued in the activated-carbon category with a G3/G4/F5 grade range. The source publishes three pocket sizes (287×592×600, 490×592×600, 592×592×600 mm), airflow of 1700-4250 m³/h and pressure drops of 20-60 Pa and a choice of aluminium, galvanised steel, stainless or plastic frames. Carbon is contaminant-specific, so the target compound drives media choice. Our advice: name the target contaminant and confirm airflow and contact time, then request carbon weight and service life, which are not published here.",
@@ -4236,11 +4287,12 @@
         "moq_unit": "set",
         "data_status": "verified"
       },
-      "subcategory": "pocket"
+      "subcategory": "pocket",
+      "url_slug": "airy-ac-pocket"
     },
     {
-      "sku": "AIRY-AC-PLEATED",
-      "name": "Activated Carbon Pleated Filter",
+      "sku": "CFH-AC-003",
+      "name": "Activated Carbon Pleated Filter (CFH-AC-003)",
       "category": "activated-carbon",
       "company": "airyfilter.com",
       "description": "Activated-carbon pleated filter for odour removal, catalogued in the activated-carbon category. The source publishes six face sizes from 295×595×10 mm to 595×595×21 mm, airflow figures of 2000-3600 m³/h, pressure drops of 10-15 Pa and a 60-65% arrestance figure. The pleated form adds media surface area for lower pressure drop, but carbon remains contaminant-specific. From a sourcing perspective, buyers should name the target contaminant and confirm airflow and contact time. Request carbon weight and expected service life, which are not published here, before bulk ordering.",
@@ -4301,11 +4353,12 @@
         "moq_unit": "set",
         "data_status": "verified"
       },
-      "subcategory": "pleated"
+      "subcategory": "pleated",
+      "url_slug": "airy-ac-pleated"
     },
     {
-      "sku": "AIRY-AC-MEDIA",
-      "name": "Activated Carbon Filter Media (AR-TM)",
+      "sku": "CFH-FM-001",
+      "name": "Activated Carbon Filter Media (AR-TM) (CFH-FM-001)",
       "category": "filter-media",
       "company": "airyfilter.com",
       "description": "Activated-carbon filter media supplied as roll stock for odour and chemical-vapour adsorption, catalogued in the filter-media category. The source publishes dust-holding of 300/350/580 g/m², pressure drops of 25-35 Pa, a 90-95% adsorption figure and roll sizes of 1.12 m-2.0 m width in 50 m lengths. Carbon is contaminant-specific, so the target compound drives grade selection. From a sourcing perspective, buyers should specify the target efficiency grade and application, and confirm roll width and grammage. Request an efficiency curve for the target contaminant before committing volume.",
@@ -4371,11 +4424,12 @@
         "moq_unit": "roll",
         "data_status": "verified"
       },
-      "subcategory": "activated_carbon"
+      "subcategory": "activated_carbon",
+      "url_slug": "airy-ac-media"
     },
     {
-      "sku": "AIRY-GEL-HEPA",
-      "name": "Gel Seal Mini Pleated HEPA Filter (H14)",
+      "sku": "CFH-HP-001",
+      "name": "Gel Seal Mini Pleated HEPA Filter (H14) (CFH-HP-001)",
       "category": "hepa-filters",
       "company": "airyfilter.com",
       "description": "Gel-seal mini-pleat HEPA filter rated H14, catalogued in the HEPA/ULPA category. The source publishes face sizes of 610×610×90/93, 915×610×90 and 1220×610×90 mm, airflow figures up to 2400 m³/h, initial/final pressure drops and an H14 efficiency of 99.995% ≤ E < 99.9995%. The gel seal suits knife-edge housings, so seal type is the key installation variable. From a sourcing perspective, buyers should confirm the seal type against the housing and whether a factory leakage-test certificate is required. Verify dimensions before bulk ordering.",
@@ -4436,11 +4490,12 @@
         "moq_unit": "set",
         "data_status": "verified"
       },
-      "subcategory": "h13-h14"
+      "subcategory": "h13-h14",
+      "url_slug": "airy-gel-hepa"
     },
     {
-      "sku": "AIRY-MERV-POCKET",
-      "name": "MERV 5-14 Fiberglass Pocket Air Filter",
+      "sku": "CFH-PF-001",
+      "name": "MERV 5-14 Fiberglass Pocket Air Filter (CFH-PF-001)",
       "category": "pocket-filters",
       "company": "airyfilter.com",
       "description": "Fiberglass pocket air filter graded M5/M6/F7 (MERV 5-14 family), catalogued in the pocket-filter category. The source publishes pocket sizes of 287×595×550, 595×595×550 and 595×595×600 mm, airflow of 1000-2950 m³/h and pressure drops of 55-100 Pa. Fiberglass pockets hold high dust capacity in a compact AHU frame. Our advice: confirm the grade against the AHU stage and the face dimensions and pocket count against the frame. Request initial pressure-drop and dust-holding data for life-cycle cost before bulk ordering.",
@@ -4494,11 +4549,12 @@
         "moq_value": 200,
         "moq_unit": "set",
         "data_status": "verified"
-      }
+      },
+      "url_slug": "airy-merv-pocket"
     },
     {
-      "sku": "AIRY-POLY-POCKET",
-      "name": "Polyester Fiber Pocket Filter",
+      "sku": "CFH-PF-002",
+      "name": "Polyester Fiber Pocket Filter (CFH-PF-002)",
       "category": "pocket-filters",
       "company": "airyfilter.com",
       "description": "Polyester-fiber pocket filter for AHU main filtration, catalogued in the pocket-filter category. The source confirms the polyester media but no source-confirmed spec is attached; the values are reference-grade. Polyester pockets offer high dust-holding capacity and strength for AHU main stages. From a sourcing perspective, buyers should verify the grade and the face dimensions and pocket count against the AHU frame. Request initial pressure-drop and dust-holding capacity for life-cycle cost comparison, since these are not published here.",
@@ -4546,11 +4602,12 @@
         "moq_value": 200,
         "moq_unit": "set",
         "data_status": "verified"
-      }
+      },
+      "url_slug": "airy-poly-pocket"
     },
     {
-      "sku": "AIRY-RIGID-POCKET",
-      "name": "Rigid Pocket Filter",
+      "sku": "CFH-PF-003",
+      "name": "Rigid Pocket Filter (CFH-PF-003)",
       "category": "pocket-filters",
       "company": "airyfilter.com",
       "description": "Rigid pocket filter for HVAC main stages, catalogued in the pocket-filter category with synthetic-fiber media. The source confirms the synthetic media but dimensions, media and efficiency are reference values only. Rigid pockets maintain their form under airflow, suiting higher-velocity AHU stages. Our advice: verify the grade and the face dimensions and pocket count against the AHU frame. Request initial pressure-drop and dust-holding capacity for life-cycle cost before bulk ordering.",
@@ -4598,11 +4655,12 @@
         "moq_value": 200,
         "moq_unit": "set",
         "data_status": "verified"
-      }
+      },
+      "url_slug": "airy-rigid-pocket"
     },
     {
-      "sku": "AIRY-FB-PANEL",
-      "name": "FB Panel Filter",
+      "sku": "CFH-HV-001",
+      "name": "FB Panel Filter (CFH-HV-001)",
       "category": "hvac-filters",
       "company": "airyfilter.com",
       "description": "FB panel filter for HVAC pre-filtration, catalogued in the HVAC category with a cardboard or metal frame and synthetic-fiber media. The source confirms the frame options and media but the parameters here are reference-grade, not source-confirmed. Panel pre-filters capture coarse dust to protect downstream stages, and the frame choice follows the duty (cardboard for disposable, metal for washable). From a sourcing perspective, buyers should verify the grade and face size, and request pressure-drop and dust-holding data for energy-cost comparison.",
@@ -4651,11 +4709,12 @@
         "moq_unit": "set",
         "data_status": "verified"
       },
-      "subcategory": "pre"
+      "subcategory": "pre",
+      "url_slug": "airy-fb-panel"
     },
     {
-      "sku": "AIRY-PRE-PANEL",
-      "name": "Pre-Panel Filter",
+      "sku": "CFH-HV-002",
+      "name": "Pre-Panel Filter (CFH-HV-002)",
       "category": "hvac-filters",
       "company": "airyfilter.com",
       "description": "Pre-panel filter for HVAC pre-filtration stages, with synthetic-fiber media. The source confirms the synthetic media but dimension, media and grade are recorded as reference figures A pre-stage protects the downstream media and trades low resistance for high capacity. Buyers should verify the grade and face size against the AHU, and request pressure-drop and dust-holding data for energy-cost comparison before ordering.",
@@ -4709,11 +4768,12 @@
         "moq_unit": "set",
         "data_status": "verified"
       },
-      "subcategory": "pre"
+      "subcategory": "pre",
+      "url_slug": "airy-pre-panel"
     },
     {
-      "sku": "AIRY-PLEATED-PRE",
-      "name": "Pleated Pre-Filter",
+      "sku": "CFH-HV-003",
+      "name": "Pleated Pre-Filter (CFH-HV-003)",
       "category": "hvac-filters",
       "company": "airyfilter.com",
       "description": "Pleated pre-filter for HVAC systems, catalogued in the HVAC category with synthetic-fiber media. The source confirms the synthetic media and pleated construction but these fields are carried as reference values rather than a verified spec. The pleated form adds media area for lower pressure drop in pre-filtration. From a sourcing perspective, buyers should verify the grade and face size, and request pressure-drop and dust-holding data for energy-cost comparison before ordering.",
@@ -4767,11 +4827,12 @@
         "moq_unit": "set",
         "data_status": "verified"
       },
-      "subcategory": "pre"
+      "subcategory": "pre",
+      "url_slug": "airy-pleated-pre"
     },
     {
-      "sku": "AIRY-CARDBOARD-PRE",
-      "name": "Cardboard Paper Frame Pre-Filter for HVAC",
+      "sku": "CFH-HV-004",
+      "name": "Cardboard Paper Frame Pre-Filter for HVAC (CFH-HV-004)",
       "category": "hvac-filters",
       "company": "airyfilter.com",
       "description": "Cardboard-paper-frame pre-filter for HVAC, with synthetic media. The catalogue confirms the cardboard/paper frame and synthetic media but the spec figures are reference, not catalogue-verified. The cardboard frame is a disposable, low-cost pre-stage option where the downstream media is protected. From a sourcing view, verify the grade and face size, and request pressure-drop and dust-holding data to compare energy cost. Verify the reference on the spec sheet before ordering.",
@@ -4820,11 +4881,12 @@
         "moq_unit": "set",
         "data_status": "verified"
       },
-      "subcategory": "pre"
+      "subcategory": "pre",
+      "url_slug": "airy-cardboard-pre"
     },
     {
-      "sku": "AIRY-NEEDLE-COTTON",
-      "name": "Acupuncture Cotton / Needle Punched Filter Media (AR-03/05)",
+      "sku": "CFH-FM-002",
+      "name": "Acupuncture Cotton / Needle Punched Filter Media (AR-03/05) (CFH-FM-002)",
       "category": "filter-media",
       "company": "airyfilter.com",
       "description": "Needle-punched (acupuncture cotton) filter media for pre-filtration, catalogued in the filter-media category with a G3/G4 grade. The source publishes an airflow of 5400 m³/h, a pressure drop at or under 35 Pa and 3 mm or 5 mm thickness. Needle-punched media trades low initial resistance for high coarse-dust capacity in HVAC and spray-booth pre-filtration. Our advice: specify the target grade and application, and confirm roll width and grammage. Request an efficiency curve for the target particle size before bulk ordering.",
@@ -4879,11 +4941,12 @@
         "moq_unit": "roll",
         "data_status": "verified"
       },
-      "subcategory": "needle_punched"
+      "subcategory": "needle_punched",
+      "url_slug": "airy-needle-cotton"
     },
     {
-      "sku": "AIRY-HT-FIBERGLASS",
-      "name": "High Temperature Fiberglass Filter Media (AR-GW)",
+      "sku": "CFH-FM-003",
+      "name": "High Temperature Fiberglass Filter Media (AR-GW) (CFH-FM-003)",
       "category": "filter-media",
       "company": "airyfilter.com",
       "description": "High-temperature fiberglass filter media rated for continuous 300 °C (350 °C peak), catalogued in the filter-media category with a G3/G4 grade. The source publishes 85/95% efficiency figures, airflow of 5800/5400 m³/h and dust-holding of 500/600 g/m². Fiberglass suits high-temperature industrial exhaust and process duty where synthetic media would fail. From a sourcing perspective, buyers should verify the exact continuous temperature requirement and specify the grade. Request an efficiency curve and verify roll width and grammage before committing volume.",
@@ -4944,11 +5007,12 @@
         "moq_unit": "roll",
         "data_status": "verified"
       },
-      "subcategory": "micro_glass"
+      "subcategory": "micro_glass",
+      "url_slug": "airy-ht-fiberglass"
     },
     {
-      "sku": "AIRY-HT-SYNTHETIC",
-      "name": "High Temperature Synthetic Filter Media (AR-100)",
+      "sku": "CFH-FM-004",
+      "name": "High Temperature Synthetic Filter Media (AR-100) (CFH-FM-004)",
       "category": "filter-media",
       "company": "airyfilter.com",
       "description": "High-temperature synthetic filter media, catalogued in the filter-media category with a G4 grade. The source publishes 90/95% efficiency figures, an airflow of 5400 m³/h and dust-holding of 200/450 g/m². Synthetic fibre adds strength and washability for general HVAC duty, distinct from the fiberglass high-temperature option. Our advice: specify the target grade and application, and confirm roll width and grammage. Request an efficiency curve for the target particle size before bulk ordering.",
@@ -5003,11 +5067,12 @@
         "moq_unit": "roll",
         "data_status": "verified"
       },
-      "subcategory": "synthetic_fiber"
+      "subcategory": "synthetic_fiber",
+      "url_slug": "airy-ht-synthetic"
     },
     {
-      "sku": "AIRY-FR-MEDIA",
-      "name": "Flame Retardant Pre-Filter Media (ARZ)",
+      "sku": "CFH-FM-005",
+      "name": "Flame Retardant Pre-Filter Media (ARZ) (CFH-FM-005)",
       "category": "filter-media",
       "company": "airyfilter.com",
       "description": "Flame-retardant pre-filter media for spray booths, catalogued in the filter-media category with a G3/G4 grade. The source publishes a 120 °C temperature rating, 85/95% efficiency figures and dust-holding of 500/600 g/m². Flame-retardant media is the correct choice for spray-booth overspray where a fire-rating is mandated. From a sourcing perspective, buyers should verify the fire-rating requirement and specify the grade. Request an efficiency curve and verify roll width and grammage before committing volume.",
@@ -5062,11 +5127,12 @@
         "moq_unit": "roll",
         "data_status": "verified"
       },
-      "subcategory": "synthetic_fiber"
+      "subcategory": "synthetic_fiber",
+      "url_slug": "airy-fr-media"
     },
     {
-      "sku": "AIRY-CEILING",
-      "name": "F5 / MERV 5 Synthetic Fiber Ceiling Air Filter Roll",
+      "sku": "CFH-FM-006",
+      "name": "F5 / MERV 5 Synthetic Fiber Ceiling Air Filter Roll (CFH-FM-006)",
       "category": "filter-media",
       "company": "airyfilter.com",
       "description": "F5 / MERV 5 synthetic-fiber ceiling (roof) filter media supplied as roll stock, catalogued in the filter-media category. The source confirms the F5 / MERV 5 grade and the synthetic-fiber construction, but publishes no grammage, thickness or efficiency curve. Ceiling/roof media serves high-area pre-filtration in paint booths and industrial halls. Our advice: specify the target grade and application, and verify roll width and grammage. Request an efficiency curve for the target particle size before bulk ordering.",
@@ -5109,11 +5175,12 @@
         "moq_unit": "roll",
         "data_status": "verified"
       },
-      "subcategory": "synthetic_fiber"
+      "subcategory": "synthetic_fiber",
+      "url_slug": "airy-ceiling"
     },
     {
-      "sku": "KLC-24X24-HEPA",
-      "name": "24x24 HEPA Filter",
+      "sku": "CFH-HP-002",
+      "name": "24x24 HEPA Filter (CFH-HP-002)",
       "category": "hepa-filters",
       "company": "klcintl.com",
       "description": "Mini-pleat HEPA filter at 24×24 inch, catalogued in the HEPA/ULPA category with an H13/H14 class. The source publishes the face size and the H13/H14 efficiency range but no depth, airflow or pressure-drop figure. The 24×24 form is a standard terminal panel, so class and seal type are the key variables. Our advice: lock the efficiency class (H13 versus H14) to the cleanroom ISO 14644 target, and verify the seal type against the housing. Request dimensions and a leakage-test certificate where required, since these are not published here.",
@@ -5165,11 +5232,12 @@
         "moq_value": 5,
         "moq_unit": "pcs",
         "data_status": "reference"
-      }
+      },
+      "url_slug": "klc-24x24-hepa"
     },
     {
-      "sku": "KLC-PTFE-ULPA",
-      "name": "PTFE ULPA / HEPA / Sub-HEPA Mini-pleat Filter",
+      "sku": "CFH-HP-003",
+      "name": "PTFE ULPA / HEPA / Sub-HEPA Mini-pleat Filter (CFH-HP-003)",
       "category": "hepa-filters",
       "company": "klcintl.com",
       "description": "PTFE ULPA/HEPA/sub-HEPA mini-pleat filter, catalogued in the HEPA/ULPA category with a ULPA/HEPA/sub-HEPA class span and U15-U17 media rating. The source confirms the PTFE membrane construction but publishes no face size, airflow or pressure-drop figure. PTFE media adds chemical resistance and suits aggressive cleanroom chemistries. From a sourcing perspective, buyers should lock the efficiency class to the process need and verify the seal type and dimensions. Request a leakage-test certificate where required, since per-model values are not published here.",
@@ -5218,11 +5286,12 @@
         "moq_unit": "pcs",
         "data_status": "reference"
       },
-      "subcategory": "u15-u17"
+      "subcategory": "u15-u17",
+      "url_slug": "klc-ptfe-ulpa"
     },
     {
-      "sku": "KLC-HT-HEPA",
-      "name": "High Temperature HEPA Filter (KLC)",
+      "sku": "CFH-HP-004",
+      "name": "High Temperature HEPA Filter (KLC) (CFH-HP-004)",
       "category": "hepa-filters",
       "company": "klcintl.com",
       "description": "High-temperature HEPA filter with micro-glass media, from the KLC range. The source confirms the high-temperature application and micro-glass construction but publishes no temperature rating, class, size or pressure-drop figure. The exact operating temperature is what decides the media and seal materials, so verify it first, then lock the efficiency class to the process need. From a sourcing perspective, request the spec sheet for dimensions, class and a leakage-test certificate, and verify the seal type against the housing.",
@@ -5281,11 +5350,12 @@
         "moq_unit": "pcs",
         "data_status": "reference"
       },
-      "subcategory": "h13-h14"
+      "subcategory": "h13-h14",
+      "url_slug": "klc-ht-hepa"
     },
     {
-      "sku": "KLC-HT-SEPARATOR",
-      "name": "260/350°C High Temperature Separator Filter",
+      "sku": "CFH-HV-005",
+      "name": "260/350°C High Temperature Separator Filter (CFH-HV-005)",
       "category": "hvac-filters",
       "company": "klcintl.com",
       "description": "High-temperature separator filter rated 260-350 °C, catalogued in the HVAC category with a metal frame and synthetic media. The source publishes the 260-350 °C temperature range and the metal frame but no grade, face size, airflow or pressure-drop figure. The separator construction and high heat resistance suit industrial high-temperature ventilation. From a sourcing perspective, buyers should confirm the exact operating temperature and the face size, and request pressure-drop data before ordering.",
@@ -5328,11 +5398,12 @@
         "moq_unit": "set",
         "data_status": "reference"
       },
-      "subcategory": "v_bank"
+      "subcategory": "v_bank",
+      "url_slug": "klc-ht-separator"
     },
     {
-      "sku": "KLC-MED-VBANK",
-      "name": "Medium V-bank Filter",
+      "sku": "CFH-HV-006",
+      "name": "Medium V-bank Filter (CFH-HV-006)",
       "category": "hvac-filters",
       "company": "klcintl.com",
       "description": "Medium V-bank filter, catalogued in the HVAC category with a metal or plastic frame and synthetic media. The source confirms the V-bank construction and frame options but publishes no grade, face size, airflow or pressure-drop figure. V-bank rigid filters deliver high airflow at low pressure drop for the main AHU stage. Our advice: verify the grade and face dimensions, and request initial/final pressure-drop and dust-holding data for energy-cost comparison before bulk ordering.",
@@ -5381,11 +5452,12 @@
         "moq_unit": "set",
         "data_status": "reference"
       },
-      "subcategory": "v_bank"
+      "subcategory": "v_bank",
+      "url_slug": "klc-med-vbank"
     },
     {
-      "sku": "KLC-MERV8",
-      "name": "MERV 8 Pleated Filter",
+      "sku": "CFH-HV-007",
+      "name": "MERV 8 Pleated Filter (CFH-HV-007)",
       "category": "hvac-filters",
       "company": "klcintl.com",
       "description": "MERV 8 pleated filter, catalogued in the HVAC category with synthetic media. The source confirms the MERV 8 grade and synthetic media but publishes no face size, airflow or pressure-drop figure. MERV 8 is a mid-grade general-ventilation level. From a sourcing perspective, buyers should verify the face size and frame construction, and request pressure-drop and dust-holding data for energy-cost comparison before ordering.",
@@ -5439,11 +5511,12 @@
         "moq_unit": "set",
         "data_status": "reference"
       },
-      "subcategory": "medium"
+      "subcategory": "medium",
+      "url_slug": "klc-merv8"
     },
     {
-      "sku": "KLC-G3-HT-PRIMARY",
-      "name": "G3 High Heat-Resistance Pleated Primary Filter",
+      "sku": "CFH-HV-008",
+      "name": "G3 High Heat-Resistance Pleated Primary Filter (CFH-HV-008)",
       "category": "hvac-filters",
       "company": "klcintl.com",
       "description": "G3 high-heat-resistance pleated primary filter, catalogued in the HVAC category with synthetic media. The source confirms the G3 grade, the pleated construction and the high-heat-resistance description but publishes no temperature figure, face size, airflow or pressure-drop figure. As a G3 primary stage, it captures coarse dust and protects downstream media. Our advice: verify the exact temperature requirement and the face size, and request pressure-drop data before bulk ordering.",
@@ -5497,11 +5570,12 @@
         "moq_unit": "set",
         "data_status": "reference"
       },
-      "subcategory": "pre"
+      "subcategory": "pre",
+      "url_slug": "klc-g3-ht-primary"
     },
     {
-      "sku": "KLC-M5-M9-POCKET",
-      "name": "M5/M6/F7/F8/F9 Synthetic Fiber Pocket Filter",
+      "sku": "CFH-PF-004",
+      "name": "M5/M6/F7/F8/F9 Synthetic Fiber Pocket Filter (CFH-PF-004)",
       "category": "pocket-filters",
       "company": "klcintl.com",
       "description": "Long-life synthetic-fiber pocket filter graded M5/M6/F7/F8/F9, catalogued in the pocket-filter category. The source confirms the synthetic media and the M5-M9 grade range but publishes no face size, airflow or pressure-drop figure. The M5-M9 span covers medium through fine AHU stages, so the grade must be matched to the protection target. From a sourcing perspective, buyers should verify the grade and the face dimensions and pocket count against the frame. Request initial pressure-drop and dust-holding data before bulk ordering.",
@@ -5549,11 +5623,12 @@
         "moq_value": 200,
         "moq_unit": "set",
         "data_status": "reference"
-      }
+      },
+      "url_slug": "klc-m5-m9-pocket"
     },
     {
-      "sku": "KLC-GLASS-POCKET",
-      "name": "Glass Fiber Medium Efficiency Pocket Filter",
+      "sku": "CFH-PF-005",
+      "name": "Glass Fiber Medium Efficiency Pocket Filter (CFH-PF-005)",
       "category": "pocket-filters",
       "company": "klcintl.com",
       "description": "Glass-fiber medium-efficiency pocket filter, catalogued in the pocket-filter category. The source confirms the glass-fiber media but publishes no grade, face size, airflow or pressure-drop figure. Glass media offers fine-fibre efficiency for the medium AHU band. Our advice: verify the grade and the face dimensions and pocket count against the AHU frame. Request initial pressure-drop and dust-holding capacity for life-cycle cost comparison, since these are not published here.",
@@ -5601,11 +5676,12 @@
         "moq_value": 200,
         "moq_unit": "set",
         "data_status": "reference"
-      }
+      },
+      "url_slug": "klc-glass-pocket"
     },
     {
-      "sku": "KLC-G1-G4-PANEL",
-      "name": "Washable G1/G2/G3/G4 Synthetic Fiber Panel Filter",
+      "sku": "CFH-HV-009",
+      "name": "Washable G1/G2/G3/G4 Synthetic Fiber Panel Filter (CFH-HV-009)",
       "category": "hvac-filters",
       "company": "klcintl.com",
       "description": "Washable G1/G2/G3/G4 synthetic-fiber panel filter, catalogued in the HVAC category. The source confirms the G1-G4 grade range and the washable synthetic construction but publishes no face size, airflow or pressure-drop figure. The washable panel form suits reusable pre-filtration where the downstream stage is protected. From a sourcing perspective, buyers should verify the exact grade and face size, and request pressure-drop and dust-holding data for energy-cost comparison.",
@@ -5654,11 +5730,12 @@
         "moq_unit": "set",
         "data_status": "reference"
       },
-      "subcategory": "pre"
+      "subcategory": "pre",
+      "url_slug": "klc-g1-g4-panel"
     },
     {
-      "sku": "KLC-E10-E14-TERMINAL",
-      "name": "E10/E11/E12/H13/H14 Disposable Hooded Terminal Filter",
+      "sku": "CFH-HP-005",
+      "name": "E10/E11/E12/H13/H14 Disposable Hooded Terminal Filter (CFH-HP-005)",
       "category": "hepa-filters",
       "company": "klcintl.com",
       "description": "Disposable hooded terminal filter spanning E10/E11/E12/H13/H14, catalogued in the HEPA/ULPA category. The source publishes the class range but no face size, airflow or pressure-drop figure. Hooded terminal filters mount at the cleanroom ceiling and the class must be matched to the ISO 14644 target rather than selected for its own sake. From a sourcing perspective, buyers should lock the efficiency class and confirm the hood dimensions and seal type. Request a leakage-test certificate where required, since per-model values are not published here.",
@@ -5717,11 +5794,12 @@
         "moq_unit": "pcs",
         "data_status": "reference"
       },
-      "subcategory": "h10-h12"
+      "subcategory": "h10-h12",
+      "url_slug": "klc-e10-e14-terminal"
     },
     {
-      "sku": "KLC-FFU",
-      "name": "Clean Room AC/EC Fan Filter Unit (FFU)",
+      "sku": "CFH-CR-001",
+      "name": "Clean Room AC/EC Fan Filter Unit (FFU) (CFH-CR-001)",
       "category": "cleanroom-equipment",
       "company": "klcintl.com",
       "description": "Cleanroom AC/EC fan filter unit (FFU), catalogued in the cleanroom-equipment category with a galvanised-steel or stainless housing. The source confirms the AC/EC motor option and the housing materials but publishes no size, airflow, efficiency or voltage figure. An FFU generates ceiling-down laminar airflow, so sizing follows the room coverage and cleanliness class. From a sourcing perspective, buyers should verify the cleanroom ISO class and the required airflow and coverage, and specify AC or EC motor and voltage. Request dimensions before ordering.",
@@ -5776,11 +5854,12 @@
         "moq_unit": "pcs",
         "data_status": "reference"
       },
-      "subcategory": "ffu"
+      "subcategory": "ffu",
+      "url_slug": "klc-ffu"
     },
     {
-      "sku": "KLC-CLEAN-BENCH",
-      "name": "Class 100 / ISO 5 Vertical Flow Clean Bench",
+      "sku": "CFH-CR-002",
+      "name": "Class 100 / ISO 5 Vertical Flow Clean Bench (CFH-CR-002)",
       "category": "cleanroom-equipment",
       "company": "klcintl.com",
       "description": "Class 100 / ISO 5 vertical-flow clean bench with a lifting door, catalogued in the cleanroom-equipment category. The source confirms the Class 100 / ISO 5 rating, the vertical-flow form and the lifting door but publishes no dimensions, airflow or efficiency figure. A clean bench delivers a local clean working zone for laboratory and repair tasks. Our advice: verify the working-zone dimensions and the required airflow, and specify AC or EC motor and voltage. Request the spec sheet before ordering.",
@@ -5835,11 +5914,12 @@
         "moq_unit": "pcs",
         "data_status": "reference"
       },
-      "subcategory": "laminar_flow"
+      "subcategory": "laminar_flow",
+      "url_slug": "klc-clean-bench"
     },
     {
-      "sku": "KLC-BIOSAFETY",
-      "name": "Biosafety Cabinet",
+      "sku": "CFH-CR-003",
+      "name": "Biosafety Cabinet (CFH-CR-003)",
       "category": "cleanroom-equipment",
       "company": "klcintl.com",
       "description": "Biosafety cabinet for cleanroom and laboratory use, catalogued in the cleanroom-equipment category. The source confirms the biosafety application but publishes no class, dimensions, airflow or efficiency figure. Biosafety cabinets add containment for biological work, so the class and the working-zone configuration are the key variables. From a sourcing perspective, buyers should verify the required biosafety class and the working-zone dimensions, and specify AC or EC motor and voltage. Request the spec sheet before ordering.",
@@ -5894,11 +5974,12 @@
         "moq_unit": "pcs",
         "data_status": "reference"
       },
-      "subcategory": "biosafety_cabinet"
+      "subcategory": "biosafety_cabinet",
+      "url_slug": "klc-biosafety"
     },
     {
-      "sku": "YT-HEPA-H14",
-      "name": "HEPA Filter H14",
+      "sku": "CFH-HP-006",
+      "name": "HEPA Filter H14 (CFH-HP-006)",
       "category": "hepa-filters",
       "company": "yitong-filter.com",
       "description": "HEPA filter rated H14, catalogued in the HEPA/ULPA category for HVAC and cleanroom duty under ISO 16890 and EN 1822. The source confirms the H14 class, a galvanised steel or aluminium frame and micro-glass media, but publishes no face size, airflow or pressure-drop figure. H14 is the standard working point for most cleanrooms. Our advice: verify the seal type against the housing and whether a factory leakage-test certificate is required. Request dimensions and pressure-drop data on the spec sheet before bulk ordering.",
@@ -5941,11 +6022,12 @@
         "moq_unit": "pcs",
         "data_status": "reference"
       },
-      "subcategory": "h13-h14"
+      "subcategory": "h13-h14",
+      "url_slug": "yt-hepa-h14"
     },
     {
-      "sku": "YT-ULPA-U15",
-      "name": "ULPA Filter U15-U17 (Ventilation)",
+      "sku": "CFH-HP-007",
+      "name": "ULPA Filter U15-U17 (Ventilation) (CFH-HP-007)",
       "category": "hepa-filters",
       "company": "yitong-filter.com",
       "description": "Ultra-low-penetration ULPA filter rated U15-U17 for ventilation, catalogued in the HEPA/ULPA category. The source confirms the U15-U17 class and micro-glass media but publishes no face size, airflow or pressure-drop figure. ULPA only earns its cost where the process genuinely requires the higher class and where an adequate pre-filter chain protects it. From a sourcing perspective, buyers should verify the required class and the upstream pre-filtration, then request dimensions and a leakage-test certificate. Verify the seal type before ordering.",
@@ -6004,11 +6086,12 @@
         "moq_unit": "pcs",
         "data_status": "reference"
       },
-      "subcategory": "u15-u17"
+      "subcategory": "u15-u17",
+      "url_slug": "yt-ulpa-u15"
     },
     {
-      "sku": "YT-COARSE-G1-G4",
-      "name": "Coarse Ventilation Filter G1-G4",
+      "sku": "CFH-HV-010",
+      "name": "Coarse Ventilation Filter G1-G4 (CFH-HV-010)",
       "category": "hvac-filters",
       "company": "yitong-filter.com",
       "description": "Coarse ventilation filter graded G1-G4 (ISO 16890), catalogued in the HVAC category with synthetic media. The source confirms the G1-G4 grade range and the ISO 16890 reference but publishes no face size, airflow or pressure-drop figure. The coarse stage captures large particles and protects downstream media. Our advice: verify the exact grade and face size, and request pressure-drop and dust-holding data for energy-cost comparison before bulk ordering.",
@@ -6062,11 +6145,12 @@
         "moq_unit": "set",
         "data_status": "reference"
       },
-      "subcategory": "pre"
+      "subcategory": "pre",
+      "url_slug": "yt-coarse-g1-g4"
     },
     {
-      "sku": "YT-MEDIUM-M5-M6",
-      "name": "Medium Ventilation Filter M5/M6",
+      "sku": "CFH-HV-011",
+      "name": "Medium Ventilation Filter M5/M6 (CFH-HV-011)",
       "category": "hvac-filters",
       "company": "yitong-filter.com",
       "description": "Medium ventilation filter graded M5/M6, catalogued in the HVAC category with synthetic media. The source confirms the M5/M6 grade range but publishes no face size, airflow or pressure-drop figure. The medium stage removes finer particulate behind the pre-filter. From a sourcing perspective, buyers should verify the exact grade and face size, and request pressure-drop and dust-holding data for energy-cost comparison before ordering.",
@@ -6120,11 +6204,12 @@
         "moq_unit": "set",
         "data_status": "reference"
       },
-      "subcategory": "medium"
+      "subcategory": "medium",
+      "url_slug": "yt-medium-m5-m6"
     },
     {
-      "sku": "YT-FINE-F7-F9",
-      "name": "Fine Ventilation Filter F7/F8/F9",
+      "sku": "CFH-HV-012",
+      "name": "Fine Ventilation Filter F7/F8/F9 (CFH-HV-012)",
       "category": "hvac-filters",
       "company": "yitong-filter.com",
       "description": "Fine ventilation filter graded F7/F8/F9, catalogued in the HVAC category with synthetic media. The source confirms the F7-F9 grade range but publishes no face size, airflow or pressure-drop figure. The fine stage handles fine particulate for higher-cleanliness HVAC duty. Our advice: verify the exact grade and face size, and request pressure-drop and dust-holding data for energy-cost comparison before bulk ordering.",
@@ -6178,11 +6263,12 @@
         "moq_unit": "set",
         "data_status": "reference"
       },
-      "subcategory": "medium"
+      "subcategory": "medium",
+      "url_slug": "yt-fine-f7-f9"
     },
     {
-      "sku": "YT-METAL-CART",
-      "name": "Metal Filter Cartridge (SS304/SS316L/Ti)",
+      "sku": "CFH-LC-001",
+      "name": "Metal Filter Cartridge (SS304/SS316L/Ti) (CFH-LC-001)",
       "category": "liquid-cartridges",
       "company": "yitong-filter.com",
       "description": "Metal filter cartridge in SS304, SS316L or titanium, offered in sintered or woven-mesh form, catalogued in the liquid-filter category. The source publishes removal ratings of 1-100 μm, lengths of 5-40 inch and O-ring materials from silicon to Viton, EPDM, NBR and PEFE. Metal media suits high-temperature and chemically aggressive process liquids. From a sourcing perspective, buyers should specify the fluid, temperature and chemical compatibility first, then confirm the micron rating and flow rate. Specify sintered versus woven-mesh construction and the end-fitting type before ordering.",
@@ -6236,11 +6322,12 @@
         "moq_unit": "pcs",
         "data_status": "reference"
       },
-      "subcategory": "metal"
+      "subcategory": "metal",
+      "url_slug": "yt-metal-cart"
     },
     {
-      "sku": "YT-LIQ-MEMBRANE",
-      "name": "Liquid Filtration Membrane Cartridge (PP/PVDF/PTFE)",
+      "sku": "CFH-LC-002",
+      "name": "Liquid Filtration Membrane Cartridge (PP/PVDF/PTFE) (CFH-LC-002)",
       "category": "liquid-cartridges",
       "company": "yitong-filter.com",
       "description": "Liquid filtration membrane cartridge with PP, PVDF or PTFE membrane, catalogued in the liquid-filter category. The source publishes lengths of 5-70 inch, membrane options (PP/PVDF/PTFE/NL/GF/PET), core materials (PP/PET/PTFE/PVDF), end-caps (215/222/Flat 222/High 222/226/DOE) and O-ring materials (silicon/EPDM/Viton/FEP). Membrane choice follows the fluid chemistry and temperature before micron rating is even considered. Our advice: name the fluid, temperature and chemical compatibility, then confirm the micron rating, flow rate and end-cap style before bulk ordering.",
@@ -6298,11 +6385,12 @@
         "moq_unit": "pcs",
         "data_status": "reference"
       },
-      "subcategory": "membrane"
+      "subcategory": "membrane",
+      "url_slug": "yt-liq-membrane"
     },
     {
-      "sku": "YT-CHEMICAL",
-      "name": "Chemical Air Filter (Activated Carbon Bag/Panel)",
+      "sku": "CFH-AC-004",
+      "name": "Chemical Air Filter (Activated Carbon Bag/Panel) (CFH-AC-004)",
       "category": "activated-carbon",
       "company": "yitong-filter.com",
       "description": "Chemical air filter using an activated-carbon bag or panel for airborne molecular contamination control, catalogued in the activated-carbon category. The source confirms the activated-carbon media and the chemical/AMC application but publishes no face size, airflow, carbon weight or efficiency figure. AMC control is highly contaminant-specific, so the target compound is the deciding input. Our advice: name the target contaminant and verify the required airflow and contact time. Request carbon weight and expected service life on the spec sheet, since these are not published and must be verified before ordering.",
@@ -6351,11 +6439,12 @@
         "moq_unit": "set",
         "data_status": "reference"
       },
-      "subcategory": "panel"
+      "subcategory": "panel",
+      "url_slug": "yt-chemical"
     },
     {
-      "sku": "EAWAY-FFU-4848",
-      "name": "Fan Filter Unit (FFU) 48\"x48\"",
+      "sku": "CFH-CR-004",
+      "name": "Fan Filter Unit (FFU) 48\"x48\" (CFH-CR-004)",
       "category": "cleanroom-equipment",
       "company": "cleanroom-ffu.com",
       "description": "Fan filter unit (FFU) at 48×48 inch, catalogued in the cleanroom-equipment category for Class 100 duty with H10-H14/U15 efficiency and AC/EC motor. The source publishes the 48×48-inch size (320 mm thickness), an airflow of 4000-5000 CMH, Class 100 cleanliness, H10-H14/U15 efficiency and an 80 °C operating limit, with a galvanised-steel or stainless housing. Our advice: confirm the cleanroom ISO class and coverage, and specify AC or EC motor and voltage. This is a point-source unit; size the fleet to the room, not the room to the unit.",
@@ -6422,11 +6511,12 @@
         "moq_unit": "pcs",
         "data_status": "reference"
       },
-      "subcategory": "ffu"
+      "subcategory": "ffu",
+      "url_slug": "eaway-ffu-4848"
     },
     {
-      "sku": "EAWAY-HEPA-61061070",
-      "name": "Cleanroom HEPA Filter 610×610×70mm",
+      "sku": "CFH-HP-008",
+      "name": "Cleanroom HEPA Filter 610×610×70mm (CFH-HP-008)",
       "category": "hepa-filters",
       "company": "cleanroom-ffu.com",
       "description": "Cleanroom HEPA filter at 610×610×70 mm (24×24×2.75 inch), catalogued in the HEPA/ULPA category with an H13/H14 class and an aluminium frame. The source publishes the dimensions and quantity pricing (USD 40/37/33 at 5/10/100 pcs). The 70 mm depth is a standard ceiling panel. Our advice: lock the efficiency class to the cleanroom ISO target and confirm the seal type against the housing. Request a leakage-test certificate where required before bulk ordering.",
@@ -6475,11 +6565,12 @@
         "moq_unit": "pcs",
         "data_status": "reference"
       },
-      "subcategory": "h13-h14"
+      "subcategory": "h13-h14",
+      "url_slug": "eaway-hepa-61061070"
     },
     {
-      "sku": "EAWAY-HEPA-610610292",
-      "name": "Cleanroom HEPA Filter 610×610×292mm",
+      "sku": "CFH-HP-009",
+      "name": "Cleanroom HEPA Filter 610×610×292mm (CFH-HP-009)",
       "category": "hepa-filters",
       "company": "cleanroom-ffu.com",
       "description": "Cleanroom HEPA filter at 610×610×292 mm (24×24×12 inch), catalogued in the HEPA/ULPA category with an H13/H14 class and an aluminium frame. The source publishes the dimensions and quantity pricing (USD 84/75/67 at 5/10/100 pcs). The 292 mm deep body carries more media area for higher airflow and longer life than the 70 mm panel. From a sourcing perspective, buyers should confirm the required depth against the housing and the efficiency class against the ISO target. Request a leakage-test certificate where required.",
@@ -6528,11 +6619,12 @@
         "moq_unit": "pcs",
         "data_status": "reference"
       },
-      "subcategory": "h13-h14"
+      "subcategory": "h13-h14",
+      "url_slug": "eaway-hepa-610610292"
     },
     {
-      "sku": "EAWAY-CARBON-VBANK",
-      "name": "Carbon V-bank Filter 592×592×292mm",
+      "sku": "CFH-AC-005",
+      "name": "Carbon V-bank Filter 592×592×292mm (CFH-AC-005)",
       "category": "activated-carbon",
       "company": "cleanroom-ffu.com",
       "description": "Activated-carbon V-bank filter for odour removal, catalogued in the activated-carbon category at 592×592×292 mm and 592×287×292 mm. The source publishes the two V-bank face sizes but no airflow, carbon weight or efficiency figure. The V-bank form packs high media area for low-pressure-drop odour removal in AHU systems. From a sourcing perspective, buyers should name the target contaminant and confirm airflow and contact time. Request carbon weight and expected service life on the spec sheet, which are not published here, before bulk ordering.",
@@ -6575,11 +6667,12 @@
         "moq_unit": "set",
         "data_status": "reference"
       },
-      "subcategory": "v_bank"
+      "subcategory": "v_bank",
+      "url_slug": "eaway-carbon-vbank"
     },
     {
-      "sku": "EAWAY-CARBON-PANEL",
-      "name": "Carbon Panel Air Filter",
+      "sku": "CFH-AC-006",
+      "name": "Carbon Panel Air Filter (CFH-AC-006)",
       "category": "activated-carbon",
       "company": "cleanroom-ffu.com",
       "description": "Activated-carbon panel air filter for odour removal, catalogued in the activated-carbon category. The source confirms the activated-carbon media but publishes no face size, airflow, carbon weight or efficiency figure. Carbon is contaminant-specific, so the target compound drives the media spec, and the panel form suits HVAC odour stages. Our advice: name the target contaminant and verify the airflow and contact time, then request carbon weight and expected service life on the spec sheet. Verify the face size against the AHU frame before bulk ordering.",
@@ -6628,11 +6721,12 @@
         "moq_unit": "set",
         "data_status": "reference"
       },
-      "subcategory": "panel"
+      "subcategory": "panel",
+      "url_slug": "eaway-carbon-panel"
     },
     {
-      "sku": "EAWAY-PANEL-HEPA",
-      "name": "Panel HEPA Filter (Mini-pleat)",
+      "sku": "CFH-HP-010",
+      "name": "Panel HEPA Filter (Mini-pleat) (CFH-HP-010)",
       "category": "hepa-filters",
       "company": "cleanroom-ffu.com",
       "description": "Panel HEPA filter in mini-pleat design, catalogued in the HEPA/ULPA category with an H13/H14 class and micro-glass media. The source confirms the mini-pleat construction and class but publishes no face size, airflow or pressure-drop figure. Mini-pleat packs more media area into a compact frame, suiting space-constrained housings. Our advice: verify the panel dimensions and seal type against the housing, and lock the class to the cleanroom ISO target. Request a leakage-test certificate where required, since these details are not published here.",
@@ -6691,11 +6785,12 @@
         "moq_unit": "pcs",
         "data_status": "reference"
       },
-      "subcategory": "h13-h14"
+      "subcategory": "h13-h14",
+      "url_slug": "eaway-panel-hepa"
     },
     {
-      "sku": "EAWAY-GEL-HEPA",
-      "name": "Gel HEPA Filter",
+      "sku": "CFH-HP-011",
+      "name": "Gel HEPA Filter (CFH-HP-011)",
       "category": "hepa-filters",
       "company": "cleanroom-ffu.com",
       "description": "Gel-seal HEPA filter for pharmaceutical, medical and laboratory use, catalogued in the HEPA/ULPA category with an H13/H14 class. The source confirms the gel seal and micro-glass media but publishes no face size, airflow or pressure-drop figure. The gel seal is the defining feature, suited to knife-edge housings in critical environments. From a sourcing perspective, buyers should verify the seal type against the housing and whether a factory leakage-test certificate is required. Request dimensions before bulk ordering.",
@@ -6744,11 +6839,12 @@
         "moq_unit": "pcs",
         "data_status": "reference"
       },
-      "subcategory": "h13-h14"
+      "subcategory": "h13-h14",
+      "url_slug": "eaway-gel-hepa"
     },
     {
-      "sku": "EAWAY-SEPARATOR-HEPA",
-      "name": "Separator HEPA Filter for Clean Room",
+      "sku": "CFH-HP-012",
+      "name": "Separator HEPA Filter for Clean Room (CFH-HP-012)",
       "category": "hepa-filters",
       "company": "cleanroom-ffu.com",
       "description": "Separator HEPA filter for clean rooms, catalogued in the HEPA/ULPA category with an H13/H14 class and micro-glass media. The source confirms the separator construction and class but publishes no face size, airflow or pressure-drop figure. Separator construction uses pleat-spacing for structural stability, distinct from mini-pleat. Our advice: verify the dimensions and seal type against the housing, and lock the class to the cleanroom ISO target. Request a leakage-test certificate where required before bulk ordering.",
@@ -6807,11 +6903,12 @@
         "moq_unit": "pcs",
         "data_status": "reference"
       },
-      "subcategory": "h13-h14"
+      "subcategory": "h13-h14",
+      "url_slug": "eaway-separator-hepa"
     },
     {
-      "sku": "EAWAY-CASSETTE-HEPA",
-      "name": "HEPA Filter Cassette (6 or 12 inch)",
+      "sku": "CFH-HP-013",
+      "name": "HEPA Filter Cassette (6 or 12 inch) (CFH-HP-013)",
       "category": "hepa-filters",
       "company": "cleanroom-ffu.com",
       "description": "HEPA filter cassette in deep-pleat design at 6 or 12 inch thickness, catalogued in the HEPA/ULPA category with an H13/H14 class. The source confirms the cassette form, the deep-pleat construction and the 6/12-inch thickness option but publishes no face size, airflow or pressure-drop figure. Cassette filters suit replaceable terminal housings. From a sourcing perspective, buyers should verify the exact thickness and dimensions against the housing, and lock the class to the ISO target. Request a leakage-test certificate where required.",
@@ -6870,11 +6967,12 @@
         "moq_unit": "pcs",
         "data_status": "reference"
       },
-      "subcategory": "h13-h14"
+      "subcategory": "h13-h14",
+      "url_slug": "eaway-cassette-hepa"
     },
     {
-      "sku": "EAWAY-HT-HEPA",
-      "name": "High Temperature HEPA Filter (EAWAY)",
+      "sku": "CFH-HP-014",
+      "name": "High Temperature HEPA Filter (EAWAY) (CFH-HP-014)",
       "category": "hepa-filters",
       "company": "cleanroom-ffu.com",
       "description": "Heat-resistant HEPA filter rated H13/H14 for industrial duty. The catalogue confirms the high-temperature application, the H13/H14 class and micro-glass media but withholds the temperature figure, face size and pressure drop. High-temperature HEPA duty hinges on the continuous operating temperature, which drives the media and seal choice. Our advice is to ask for the spec sheet to verify the temperature rating, dimensions and a leakage-test certificate, and check the seal type before ordering.",
@@ -6933,11 +7031,12 @@
         "moq_unit": "pcs",
         "data_status": "reference"
       },
-      "subcategory": "h13-h14"
+      "subcategory": "h13-h14",
+      "url_slug": "eaway-ht-hepa"
     },
     {
-      "sku": "EAWAY-FLAT-F5",
-      "name": "Metal Frame Flat Pre Air Filter F5",
+      "sku": "CFH-HV-013",
+      "name": "Metal Frame Flat Pre Air Filter F5 (CFH-HV-013)",
       "category": "hvac-filters",
       "company": "cleanroom-ffu.com",
       "description": "Metal-frame flat pre-air filter graded F5 with replaceable media, catalogued in the HVAC category. The source confirms the F5 grade, the metal frame and the replaceable media but publishes no face size, airflow or pressure-drop figure. The metal frame supports replaceable media for a reusable pre-stage. From a sourcing perspective, buyers should verify the face size and request pressure-drop and dust-holding data for energy-cost comparison before ordering.",
@@ -6986,11 +7085,12 @@
         "moq_unit": "set",
         "data_status": "reference"
       },
-      "subcategory": "pre"
+      "subcategory": "pre",
+      "url_slug": "eaway-flat-f5"
     },
     {
-      "sku": "EAWAY-SUS-G4",
-      "name": "SUS Frame Washable Pleated Air Filter G4",
+      "sku": "CFH-HV-014",
+      "name": "SUS Frame Washable Pleated Air Filter G4 (CFH-HV-014)",
       "category": "hvac-filters",
       "company": "cleanroom-ffu.com",
       "description": "SUS (stainless-steel) frame washable pleated air filter graded G4, catalogued in the HVAC category. The source confirms the G4 grade, the stainless-steel frame and the washable pleated construction but publishes no face size, airflow or pressure-drop figure. The stainless frame suits washable, corrosion-resistant pre-filtration. Our advice: verify the face size and request pressure-drop and dust-holding data for energy-cost comparison before bulk ordering.",
@@ -7039,11 +7139,12 @@
         "moq_unit": "set",
         "data_status": "reference"
       },
-      "subcategory": "pre"
+      "subcategory": "pre",
+      "url_slug": "eaway-sus-g4"
     },
     {
-      "sku": "EAWAY-AIR-SHOWER",
-      "name": "Cleanroom Air Shower",
+      "sku": "CFH-CR-005",
+      "name": "Cleanroom Air Shower (CFH-CR-005)",
       "category": "cleanroom-equipment",
       "company": "cleanroom-ffu.com",
       "description": "Cleanroom air shower, catalogued in the cleanroom-equipment category. The source confirms the air-shower application but publishes no dimensions, nozzle count, airflow or efficiency figure. Air showers remove particulate from personnel at entry, so the pass-through dimensions and the door configuration are the key variables. From a sourcing perspective, buyers should verify the required dimensions, the number of people per cycle and the airflow. Request the spec sheet before ordering.",
@@ -7098,11 +7199,12 @@
         "moq_unit": "pcs",
         "data_status": "reference"
       },
-      "subcategory": "air_shower"
+      "subcategory": "air_shower",
+      "url_slug": "eaway-air-shower"
     },
     {
-      "sku": "EAWAY-PASS-BOX",
-      "name": "Clean Room Static & Dynamic Pass Box",
+      "sku": "CFH-CR-006",
+      "name": "Clean Room Static & Dynamic Pass Box (CFH-CR-006)",
       "category": "cleanroom-equipment",
       "company": "cleanroom-ffu.com",
       "description": "Cleanroom static and dynamic pass box for material transfer, catalogued in the cleanroom-equipment category. The source confirms the static/dynamic forms but publishes no dimensions, airflow or efficiency figure. Pass boxes transfer materials without breaking the barrier, and the static/dynamic choice follows whether active airflow is needed. Our advice: verify the required dimensions and whether static or dynamic operation is needed, then request the spec sheet before ordering.",
@@ -7157,11 +7259,12 @@
         "moq_unit": "pcs",
         "data_status": "reference"
       },
-      "subcategory": "pass_box"
+      "subcategory": "pass_box",
+      "url_slug": "eaway-pass-box"
     },
     {
-      "sku": "EAWAY-95DOP",
-      "name": "95% DOP Panel Filter",
+      "sku": "CFH-HP-015",
+      "name": "95% DOP Panel Filter (CFH-HP-015)",
       "category": "hepa-filters",
       "company": "cleanroom-ffu.com",
       "description": "95% DOP panel filter, catalogued in the HEPA/ULPA category. The source publishes a 95% DOP efficiency figure and micro-glass media but no face size, airflow or pressure-drop figure. The 95% DOP rating is a pre-HEPA efficiency level suited to less critical terminal duty. From a sourcing perspective, buyers should confirm whether the 95% DOP rating meets the cleanroom target or serves as a pre-filter stage, and verify the dimensions and seal type. Request a leakage-test certificate where required before ordering.",
@@ -7214,7 +7317,8 @@
         "moq_unit": "pcs",
         "data_status": "reference"
       },
-      "subcategory": "h10-h12"
+      "subcategory": "h10-h12",
+      "url_slug": "eaway-95dop"
     }
   ]
 }

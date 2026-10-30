@@ -1,0 +1,55 @@
+# Engine Parts Air Filter CFH-AF-004/1660619/475388 (Volvo)
+
+<!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
+
+- **SKU**: `CFH-AF-004`
+- **Category**: [Air Filters (Engine Intake)](air-filters.md)
+- **Evidence source**: manufacturer catalog record
+- **Data status**: catalog-confirmed
+
+- **Subcategory**: `heavy_duty`
+- **Efficiency class**: `ISO 5011 (>=99.9% primary)`
+
+## Description
+
+Volvo engine-parts air filter cross-referenced under OE numbers 1542743, 1660619 and 475388 for truck applications, listed in the heavy-duty intake subcategory. The source confirms the Volvo truck OE references; these fields are carried as reference values rather than a verified spec. Volvo trucks run sustained high-dust intake duty, so dust-holding capacity and restriction control are the figures that decide service interval. From a sourcing perspective, buyers should pin down the exact chassis and housing before ordering and treat the triple OE reference as a starting point. Request the spec sheet to verify dimensions and capacity against the OE drawing before a bulk order.
+
+## OE cross-reference
+
+| OE number | Brand | Equipment type | Status |
+|---|---|---|---|
+| `1542743` | `Volvo` | `truck` | catalog-confirmed |
+| `1660619` | `Volvo` | `truck` | catalog-confirmed |
+| `475388` | `Volvo` | `truck` | catalog-confirmed |
+
+## Technical parameters (spec)
+
+| Parameter | Value | Unit | Status |
+|---|---|---|---|
+| `dimension` | `Ø130 x 250 (heavy-duty round)` | `mm` | reference |
+| `efficiency_class` | `ISO 5011` | not published | reference |
+| `temperature_resistance` | `100` | `°C` | reference |
+
+## Material
+
+| Part | Material | Status |
+|---|---|---|
+| `media` | `cellulose / synthetic blend` | reference |
+| `end_cap` | `PU (polyurethane)` | reference |
+| `support` | `galvanized steel mesh` | reference |
+
+## Filter media
+
+- Type: `cellulose_synthetic_blend`
+- Efficiency class: `>=99.9% (ISO 5011)`
+- Grammage: not published
+
+## Application
+
+| Application | Medium | Status |
+|---|---|---|
+| `automotive` | `air` | reference |
+
+## MOQ
+
+`500 pcs` (reference)

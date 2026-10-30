@@ -1,0 +1,54 @@
+# Oil Filter CFH-OF-003
+
+<!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
+
+- **SKU**: `CFH-OF-003`
+- **Category**: [Oil Filters](oil-filters.md)
+- **Evidence source**: manufacturer catalog record
+- **Data status**: catalog-confirmed
+
+- **Efficiency class**: `>=99% @ 20 micron`
+
+## Description
+
+Renault oil filter under part 77-00-126-705. Beyond the Renault reference and the car application, the catalogue these fields are carried as reference values rather than a verified spec. Renault powerplants differ family by family, so fitment is confirmed against the engine rather than the number. Our advice is to request the specification sheet for thread and gasket geometry, and to verify the oil type and change interval before a bulk purchase.
+
+## OE cross-reference
+
+| OE number | Brand | Equipment type | Status |
+|---|---|---|---|
+| `77-00-126-705` | `Renault` | `passenger car` | catalog-confirmed |
+
+## Technical parameters (spec)
+
+| Parameter | Value | Unit | Status |
+|---|---|---|---|
+| `dimension` | `Ø76 x 100 (spin-on)` | `mm` | reference |
+| `removal_rating` | `20` | `um` | reference |
+| `bypass_valve` | `yes (engine-specific setting)` | not published | reference |
+| `temperature_resistance` | `120` | `°C` | reference |
+
+## Material
+
+| Part | Material | Status |
+|---|---|---|
+| `media` | `cellulose / synthetic blend` | reference |
+| `housing` | `steel canister` | reference |
+| `seal` | `NBR gasket` | reference |
+| `thread` | `spin-on metric thread` | reference |
+
+## Filter media
+
+- Type: `cellulose_synthetic_blend`
+- Efficiency class: `>=99% @ 20 um`
+- Grammage: not published
+
+## Application
+
+| Application | Medium | Status |
+|---|---|---|
+| `automotive` | `oil` | reference |
+
+## MOQ
+
+`1000 pcs` (reference)

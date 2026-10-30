@@ -1,0 +1,52 @@
+# Caterpillar Cabin Air Filter CFH-CF-002 (CAT 5000957)
+
+<!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
+
+- **SKU**: `CFH-CF-002`
+- **Category**: [Cabin Air Filters](cabin-filters.md)
+- **Evidence source**: manufacturer catalog record
+- **Data status**: catalog-confirmed
+
+- **Efficiency class**: `ISO 16890 ePM2.5 (particle)`
+
+## Description
+
+Caterpillar cabin air filter under OE number 500-0957 (CAT 5000957), catalogued in the cabin-filtration category for construction-machinery cabs. The source confirms the Caterpillar OE number and the machinery application but media, size and grade are reference values here. Machine-cab duty is dust-heavy, so particle-holding behaviour matters more than in passenger-vehicle duty. Our advice: verify the exact Cat machine model and whether the housing takes a single-piece or two-piece filter, then request the spec sheet for dimensions and efficiency. Verify fitment against the OE drawing before a bulk commitment.
+
+## OE cross-reference
+
+| OE number | Brand | Equipment type | Status |
+|---|---|---|---|
+| `500-0957` | `Caterpillar` | `construction machinery` | catalog-confirmed |
+
+## Technical parameters (spec)
+
+| Parameter | Value | Unit | Status |
+|---|---|---|---|
+| `dimension` | `215 x 215 x 30 (cabin cartridge)` | not published | reference |
+| `efficiency_class` | `ISO 16890 ePM2.5` | not published | reference |
+| `temperature_resistance` | `60` | `°C` | reference |
+
+## Material
+
+| Part | Material | Status |
+|---|---|---|
+| `media` | `nonwoven polyester` | reference |
+| `frame` | `PP plastic` | reference |
+| `seal` | `foam gasket` | reference |
+
+## Filter media
+
+- Type: `nonwoven_polyester`
+- Efficiency class: `ePM2.5 (ISO 16890)`
+- Grammage: not published
+
+## Application
+
+| Application | Medium | Status |
+|---|---|---|
+| `heavy_machinery` | `cabin` | reference |
+
+## MOQ
+
+`1000 pcs` (reference)

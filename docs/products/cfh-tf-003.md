@@ -1,0 +1,52 @@
+# Transmission Filter CFH-TF-003
+
+<!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
+
+- **SKU**: `CFH-TF-003`
+- **Category**: [Transmission Filters](transmission-filters.md)
+- **Evidence source**: manufacturer catalog record
+- **Data status**: catalog-confirmed
+
+- **Efficiency class**: `25-40 micron (typical)`
+
+## Description
+
+Transmission filter listed as 31728-3JX0C. Beyond the number and the transmission segment, the source these fields are carried as reference values rather than a verified spec. Wear-debris control protects the valve body and clutches, which makes model-level fitment the critical variable. Buyers should confirm the mounting form (pan or external) and pull media and micron data from the spec sheet before committing a line.
+
+## OE cross-reference
+
+| OE number | Brand | Equipment type | Status |
+|---|---|---|---|
+| `31728-3JX0C` | not published | `transmission` | catalog-confirmed |
+
+## Technical parameters (spec)
+
+| Parameter | Value | Unit | Status |
+|---|---|---|---|
+| `dimension` | `pan-mounted (model-specific)` | not published | reference |
+| `removal_rating` | `25-40` | `um` | reference |
+| `mounting` | `pan-mounted / external (model-specific)` | not published | reference |
+
+## Material
+
+| Part | Material | Status |
+|---|---|---|
+| `media` | `synthetic fiber` | reference |
+| `housing` | `steel / plastic` | reference |
+| `gasket` | `cork / rubber` | reference |
+
+## Filter media
+
+- Type: `synthetic_fiber`
+- Efficiency class: `25-40 um`
+- Grammage: not published
+
+## Application
+
+| Application | Medium | Status |
+|---|---|---|
+| `automotive` | `oil` | reference |
+
+## MOQ
+
+`500 pcs` (reference)

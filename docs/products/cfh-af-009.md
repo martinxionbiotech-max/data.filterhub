@@ -1,0 +1,55 @@
+# Powercore Truck Air Filter CFH-AF-009/PA32001/P635170
+
+<!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
+
+- **SKU**: `CFH-AF-009`
+- **Category**: [Air Filters (Engine Intake)](air-filters.md)
+- **Evidence source**: manufacturer catalog record
+- **Data status**: catalog-confirmed
+
+- **Subcategory**: `powercore`
+- **Efficiency class**: `ISO 5011 (>=99.9% primary)`
+
+## Description
+
+PowerCore truck air filter cross-referenced under OE numbers P623400, PA32001 and P635170, catalogued in the PowerCore intake subcategory. The source lists the three OE references but dimensions, media and efficiency are reference values only. PowerCore's compact pleated media suits space-limited truck housings, yet the triple reference is a discovery aid rather than a fitment guarantee. From a sourcing perspective, buyers should confirm the exact truck model and housing form factor first, then request the spec sheet for dimensions, media and ISO 5011 capacity. Verify the cross-reference against the OE drawing before a bulk order.
+
+## OE cross-reference
+
+| OE number | Brand | Equipment type | Status |
+|---|---|---|---|
+| `P623400` | not published | not published | catalog-confirmed |
+| `PA32001` | not published | not published | catalog-confirmed |
+| `P635170` | not published | not published | catalog-confirmed |
+
+## Technical parameters (spec)
+
+| Parameter | Value | Unit | Status |
+|---|---|---|---|
+| `dimension` | `305 x 305 x 90 (PowerCore)` | not published | reference |
+| `efficiency_class` | `ISO 5011` | not published | reference |
+| `temperature_resistance` | `100` | `°C` | reference |
+
+## Material
+
+| Part | Material | Status |
+|---|---|---|
+| `media` | `cellulose / synthetic blend` | reference |
+| `end_cap` | `PU (polyurethane)` | reference |
+| `support` | `galvanized steel mesh` | reference |
+
+## Filter media
+
+- Type: `cellulose_synthetic_blend`
+- Efficiency class: `>=99.9% (ISO 5011)`
+- Grammage: not published
+
+## Application
+
+| Application | Medium | Status |
+|---|---|---|
+| `automotive` | `air` | reference |
+
+## MOQ
+
+`500 pcs` (reference)

@@ -1,0 +1,55 @@
+# Powercore Compressed Air Filter CFH-AF-012/P318005/RE288552
+
+<!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
+
+- **SKU**: `CFH-AF-012`
+- **Category**: [Air Filters (Engine Intake)](air-filters.md)
+- **Evidence source**: manufacturer catalog record
+- **Data status**: catalog-confirmed
+
+- **Subcategory**: `air_compressor`
+- **Efficiency class**: `ISO 5011 (>=99.9% primary)`
+
+## Description
+
+PowerCore honeycomb compressed-air filter cross-referenced under OE numbers P643118, P318005 and RE288552, catalogued in the air-compressor intake subcategory. The source lists the three OE references and the PowerCore honeycomb construction but these fields are carried as reference values rather than a verified spec. Compressed-air intake is compact and housing-specific, so form-factor confirmation is the first gating step. Our advice: verify the exact compressor model and element dimensions, then request the spec sheet for media and efficiency. Treat the triple OE reference as a discovery point and verify against the drawing before committing volume.
+
+## OE cross-reference
+
+| OE number | Brand | Equipment type | Status |
+|---|---|---|---|
+| `P643118` | not published | not published | catalog-confirmed |
+| `P318005` | not published | not published | catalog-confirmed |
+| `RE288552` | not published | not published | catalog-confirmed |
+
+## Technical parameters (spec)
+
+| Parameter | Value | Unit | Status |
+|---|---|---|---|
+| `dimension` | `obround (PowerCore compressor)` | not published | reference |
+| `efficiency_class` | `ISO 5011` | not published | reference |
+| `temperature_resistance` | `100` | `°C` | reference |
+
+## Material
+
+| Part | Material | Status |
+|---|---|---|
+| `media` | `cellulose / synthetic blend` | reference |
+| `end_cap` | `PU (polyurethane)` | reference |
+| `support` | `galvanized steel mesh` | reference |
+
+## Filter media
+
+- Type: `cellulose_synthetic_blend`
+- Efficiency class: `>=99.9% (ISO 5011)`
+- Grammage: not published
+
+## Application
+
+| Application | Medium | Status |
+|---|---|---|
+| `air_compressor` | `air` | reference |
+
+## MOQ
+
+`500 pcs` (reference)

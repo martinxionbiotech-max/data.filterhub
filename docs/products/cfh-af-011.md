@@ -1,0 +1,54 @@
+# Air Filter CFH-AF-011/AF55308 (Tractor/Combine/ATV)
+
+<!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
+
+- **SKU**: `CFH-AF-011`
+- **Category**: [Air Filters (Engine Intake)](air-filters.md)
+- **Evidence source**: manufacturer catalog record
+- **Data status**: catalog-confirmed
+
+- **Subcategory**: `round`
+- **Efficiency class**: `ISO 5011 (>=99.9% primary)`
+
+## Description
+
+Round air filter cross-referenced under OE numbers AF55014 and AF55308 for tractors, combines and ATVs, replacing 222035, listed in the round intake subcategory. The source records the multi-equipment OE reference but dimension, media and grade are recorded as reference figures. Because the reference spans tractors, combines and ATVs, the same number family can map to different housings, so fitment confirmation is essential. From a sourcing perspective, buyers should specify the exact equipment model and verify the round-element dimensions, then request the spec sheet for media and ISO 5011 figures. Do not treat the OE reference as a verified fitment.
+
+## OE cross-reference
+
+| OE number | Brand | Equipment type | Status |
+|---|---|---|---|
+| `AF55014` | not published | `tractor / combine / ATV` | catalog-confirmed |
+| `AF55308` | not published | not published | catalog-confirmed |
+
+## Technical parameters (spec)
+
+| Parameter | Value | Unit | Status |
+|---|---|---|---|
+| `dimension` | `Ø120 x 180 (round)` | `mm` | reference |
+| `efficiency_class` | `ISO 5011` | not published | reference |
+| `temperature_resistance` | `100` | `°C` | reference |
+
+## Material
+
+| Part | Material | Status |
+|---|---|---|
+| `media` | `cellulose / synthetic blend` | reference |
+| `end_cap` | `PU (polyurethane)` | reference |
+| `support` | `galvanized steel mesh` | reference |
+
+## Filter media
+
+- Type: `cellulose_synthetic_blend`
+- Efficiency class: `>=99.9% (ISO 5011)`
+- Grammage: not published
+
+## Application
+
+| Application | Medium | Status |
+|---|---|---|
+| `agricultural` | `air` | reference |
+
+## MOQ
+
+`500 pcs` (reference)

@@ -1,0 +1,53 @@
+# Primary Obround Powercore Air Filter CFH-AF-008 (Mack/Volvo/Wirtgen)
+
+<!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
+
+- **SKU**: `CFH-AF-008`
+- **Category**: [Air Filters (Engine Intake)](air-filters.md)
+- **Evidence source**: manufacturer catalog record
+- **Data status**: catalog-confirmed
+
+- **Subcategory**: `powercore`
+- **Efficiency class**: `ISO 5011 (>=99.9% primary)`
+
+## Description
+
+Primary obround PowerCore air filter cross-referenced under OE number P608677, replacing Mack 57MD321M and covering Mack, Volvo and Wirtgen equipment in the PowerCore subcategory. The source records the OE reference and the equipment span but no source-confirmed spec is attached; the values are reference-grade. As a primary-stage obround element, its role is high dust capacity ahead of the safety element. Our advice: verify the exact machine and the obround dimensions before ordering, since the Mack/Volvo/Wirtgen span implies several housings. Request the spec sheet for media, dimensions and ISO 5011 figures and verify against the OE drawing.
+
+## OE cross-reference
+
+| OE number | Brand | Equipment type | Status |
+|---|---|---|---|
+| `P608677` | `Mack/Volvo/Wirtgen` | `truck / machinery` | catalog-confirmed |
+
+## Technical parameters (spec)
+
+| Parameter | Value | Unit | Status |
+|---|---|---|---|
+| `dimension` | `obround (PowerCore primary)` | not published | reference |
+| `efficiency_class` | `ISO 5011` | not published | reference |
+| `temperature_resistance` | `100` | `°C` | reference |
+
+## Material
+
+| Part | Material | Status |
+|---|---|---|
+| `media` | `cellulose / synthetic blend` | reference |
+| `end_cap` | `PU (polyurethane)` | reference |
+| `support` | `galvanized steel mesh` | reference |
+
+## Filter media
+
+- Type: `cellulose_synthetic_blend`
+- Efficiency class: `>=99.9% (ISO 5011)`
+- Grammage: not published
+
+## Application
+
+| Application | Medium | Status |
+|---|---|---|
+| `heavy_machinery` | `air` | reference |
+
+## MOQ
+
+`500 pcs` (reference)

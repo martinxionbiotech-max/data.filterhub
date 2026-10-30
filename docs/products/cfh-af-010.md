@@ -1,0 +1,53 @@
+# Tractor Honeycomb Air Filter CFH-AF-010
+
+<!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
+
+- **SKU**: `CFH-AF-010`
+- **Category**: [Air Filters (Engine Intake)](air-filters.md)
+- **Evidence source**: manufacturer catalog record
+- **Data status**: catalog-confirmed
+
+- **Subcategory**: `round`
+- **Efficiency class**: `ISO 5011 (>=99.9% primary)`
+
+## Description
+
+Tractor engine honeycomb air filter under OE number 2116040258, listed in the round intake subcategory for agricultural equipment. The source confirms the tractor application and the honeycomb element description but the parameters here are reference-grade, not source-confirmed. Agricultural duty runs heavy in field dust, so capacity and restriction control drive service life more than a nominal efficiency number. Our advice: verify the exact tractor model and the round-element dimensions before ordering, then request the spec sheet for media and ISO 5011 dust-capacity data. Treat the OE number as a cross-reference to be verified against the drawing.
+
+## OE cross-reference
+
+| OE number | Brand | Equipment type | Status |
+|---|---|---|---|
+| `2116040258` | not published | `tractor` | catalog-confirmed |
+
+## Technical parameters (spec)
+
+| Parameter | Value | Unit | Status |
+|---|---|---|---|
+| `dimension` | `Ø120 x 180 (round honeycomb)` | `mm` | reference |
+| `efficiency_class` | `ISO 5011` | not published | reference |
+| `temperature_resistance` | `100` | `°C` | reference |
+
+## Material
+
+| Part | Material | Status |
+|---|---|---|
+| `media` | `cellulose / synthetic blend` | reference |
+| `end_cap` | `PU (polyurethane)` | reference |
+| `support` | `galvanized steel mesh` | reference |
+
+## Filter media
+
+- Type: `cellulose_synthetic_blend`
+- Efficiency class: `>=99.9% (ISO 5011)`
+- Grammage: not published
+
+## Application
+
+| Application | Medium | Status |
+|---|---|---|
+| `agricultural` | `air` | reference |
+
+## MOQ
+
+`500 pcs` (reference)

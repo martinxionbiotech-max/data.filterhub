@@ -1,0 +1,54 @@
+# Powercore Air Filter CFH-AF-007/8982608340 (Isuzu Trucks)
+
+<!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
+
+- **SKU**: `CFH-AF-007`
+- **Category**: [Air Filters (Engine Intake)](air-filters.md)
+- **Evidence source**: manufacturer catalog record
+- **Data status**: catalog-confirmed
+
+- **Subcategory**: `powercore`
+- **Efficiency class**: `ISO 5011 (>=99.9% primary)`
+
+## Description
+
+PowerCore air filter cross-referenced under OE numbers 8-98260-8340 and 8982608340 for Isuzu trucks, listed in the PowerCore intake subcategory. The source confirms the Isuzu truck OE references but the parameters are reference-grade figures to verify on the spec sheet. PowerCore's compact pleated construction suits tight truck housings, yet the same reference can span several Isuzu chassis, so fitment must be verified. From a sourcing perspective, buyers should verify the exact model and housing form factor, then request the spec sheet for dimensions, media and ISO 5011 capacity. Treat the OE number as a cross-reference, not a verified match.
+
+## OE cross-reference
+
+| OE number | Brand | Equipment type | Status |
+|---|---|---|---|
+| `8-98260-8340` | `Isuzu` | `truck` | catalog-confirmed |
+| `8982608340` | `Isuzu` | `truck` | catalog-confirmed |
+
+## Technical parameters (spec)
+
+| Parameter | Value | Unit | Status |
+|---|---|---|---|
+| `dimension` | `305 x 305 x 90 (PowerCore)` | not published | reference |
+| `efficiency_class` | `ISO 5011` | not published | reference |
+| `temperature_resistance` | `100` | `°C` | reference |
+
+## Material
+
+| Part | Material | Status |
+|---|---|---|
+| `media` | `cellulose / synthetic blend` | reference |
+| `end_cap` | `PU (polyurethane)` | reference |
+| `support` | `galvanized steel mesh` | reference |
+
+## Filter media
+
+- Type: `cellulose_synthetic_blend`
+- Efficiency class: `>=99.9% (ISO 5011)`
+- Grammage: not published
+
+## Application
+
+| Application | Medium | Status |
+|---|---|---|
+| `automotive` | `air` | reference |
+
+## MOQ
+
+`500 pcs` (reference)

@@ -1,0 +1,52 @@
+# Transmission Filter CFH-TF-008 (Isuzu)
+
+<!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
+
+- **SKU**: `CFH-TF-008`
+- **Category**: [Transmission Filters](transmission-filters.md)
+- **Evidence source**: manufacturer catalog record
+- **Data status**: catalog-confirmed
+
+- **Efficiency class**: `25-40 micron (typical)`
+
+## Description
+
+Isuzu transmission filter under OE 8973310630. The source records the Isuzu reference and the transmission segment, dimensions, media and efficiency are reference values only. The filter protects the valve body and clutches from wear debris, so exact model fitment is the deciding step. Confirm the Isuzu transmission model and whether the element is pan-mounted or external; from a sourcing standpoint, ask for media and micron data before ordering.
+
+## OE cross-reference
+
+| OE number | Brand | Equipment type | Status |
+|---|---|---|---|
+| `8973310630` | `Isuzu` | `transmission` | catalog-confirmed |
+
+## Technical parameters (spec)
+
+| Parameter | Value | Unit | Status |
+|---|---|---|---|
+| `dimension` | `external (Isuzu)` | not published | reference |
+| `removal_rating` | `25-40` | `um` | reference |
+| `mounting` | `pan-mounted / external (model-specific)` | not published | reference |
+
+## Material
+
+| Part | Material | Status |
+|---|---|---|
+| `media` | `synthetic fiber` | reference |
+| `housing` | `steel / plastic` | reference |
+| `gasket` | `cork / rubber` | reference |
+
+## Filter media
+
+- Type: `synthetic_fiber`
+- Efficiency class: `25-40 um`
+- Grammage: not published
+
+## Application
+
+| Application | Medium | Status |
+|---|---|---|
+| `automotive` | `oil` | reference |
+
+## MOQ
+
+`500 pcs` (reference)
