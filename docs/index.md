@@ -1,8 +1,8 @@
 # China Filter Hub Data
 
-Qinghe Yinghui Filter product database (data subsite `data.chinafilterhub.com`, domain provisional).
+Structured filter product database — a product information and database hub for automotive, HVAC and cleanroom filters (data subsite `data.chinafilterhub.com`, domain provisional).
 
-Structured filter product database covering 104 SKUs across 13 main categories:
+Operating legal entity: Qinghe County Huiying Automotive Parts Co., Ltd. (unified social credit code 91130534MA0958NT84) — the same entity behind carfilterspro.com.
 
 - [SKU Index](products/index.md) — full SKU index (104 records, 13 main categories)
 - [Filter Media](reference/filter-media.md) — filter-media type comparison

@@ -262,7 +262,7 @@ def write_mkdocs(payload, products, groups):
 
     mk = [
         "site_name: China Filter Hub Data",
-        "site_description: Qinghe Yinghui Filter product database — SKU / OE / parameters / filter-media comparison / test standards",
+        "site_description: China Filter Hub product database — 104 SKUs / OE cross-references / technical parameters / filter-media comparison / test standards",
         "site_url: https://data.chinafilterhub.com/",
         "repo_url: https://github.com/martinxionbiotech-max/data.filterhub",
         "theme:",
