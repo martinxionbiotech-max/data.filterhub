@@ -6,19 +6,19 @@
 ## Products
 - [SKU index](https://data.chinafilterhub.com/products/)
 
-- [Air Filters (Engine Intake)](https://data.chinafilterhub.com/products/air-filter/)
-- [Cabin Air Filters](https://data.chinafilterhub.com/products/cabin-filter/)
-- [Oil Filters](https://data.chinafilterhub.com/products/oil-filter/)
-- [Fuel Filters](https://data.chinafilterhub.com/products/fuel-filter/)
-- [Hydraulic Filters](https://data.chinafilterhub.com/products/hydraulic-filter/)
-- [Transmission Filters](https://data.chinafilterhub.com/products/transmission-filter/)
-- [HVAC Filters](https://data.chinafilterhub.com/products/hvac-filter/)
-- [HEPA / ULPA Filters](https://data.chinafilterhub.com/products/hepa-filter/)
-- [Activated Carbon Filters](https://data.chinafilterhub.com/products/activated-carbon-filter/)
-- [Pocket / Bag Filters](https://data.chinafilterhub.com/products/pocket-filter/)
-- [Filter Media](https://data.chinafilterhub.com/products/filter-media/)
-- [Liquid Filter Cartridges](https://data.chinafilterhub.com/products/liquid-filter/)
-- [Cleanroom Equipment](https://data.chinafilterhub.com/products/cleanroom-equipment/)
+- [Air Filters (Engine Intake) (空气滤清器)](https://data.chinafilterhub.com/products/air-filters/)
+- [Cabin Air Filters (空调滤清器)](https://data.chinafilterhub.com/products/cabin-filters/)
+- [Oil Filters (机油滤清器)](https://data.chinafilterhub.com/products/oil-filters/)
+- [Fuel Filters (燃油滤清器)](https://data.chinafilterhub.com/products/fuel-filters/)
+- [Hydraulic Filters (液压滤清器)](https://data.chinafilterhub.com/products/hydraulic-filters/)
+- [Transmission Filters (变速箱滤清器)](https://data.chinafilterhub.com/products/transmission-filters/)
+- [HVAC Filters (HVAC 过滤器)](https://data.chinafilterhub.com/products/hvac-filters/)
+- [HEPA / ULPA Filters (HEPA/ULPA 过滤器)](https://data.chinafilterhub.com/products/hepa-filters/)
+- [Activated Carbon Filters (活性炭过滤器)](https://data.chinafilterhub.com/products/activated-carbon/)
+- [Pocket / Bag Filters (袋式过滤器)](https://data.chinafilterhub.com/products/pocket-filters/)
+- [Filter Media (滤材介质)](https://data.chinafilterhub.com/products/filter-media/)
+- [Liquid Filter Cartridges (液体过滤滤芯)](https://data.chinafilterhub.com/products/liquid-cartridges/)
+- [Cleanroom Equipment (洁净室设备)](https://data.chinafilterhub.com/products/cleanroom-equipment/)
 
 ## SKUs
 

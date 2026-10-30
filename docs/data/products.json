@@ -5222,7 +5222,7 @@
     },
     {
       "sku": "KLC-HT-HEPA",
-      "name": "High Temperature HEPA Filter",
+      "name": "High Temperature HEPA Filter (KLC)",
       "category": "hepa-filters",
       "company": "klcintl.com",
       "description": "High-temperature HEPA filter with micro-glass media, from the KLC range. The source confirms the high-temperature application and micro-glass construction but publishes no temperature rating, class, size or pressure-drop figure. The exact operating temperature is what decides the media and seal materials, so verify it first, then lock the efficiency class to the process need. From a sourcing perspective, request the spec sheet for dimensions, class and a leakage-test certificate, and verify the seal type against the housing.",
@@ -6874,7 +6874,7 @@
     },
     {
       "sku": "EAWAY-HT-HEPA",
-      "name": "High Temperature HEPA Filter",
+      "name": "High Temperature HEPA Filter (EAWAY)",
       "category": "hepa-filters",
       "company": "cleanroom-ffu.com",
       "description": "Heat-resistant HEPA filter rated H13/H14 for industrial duty. The catalogue confirms the high-temperature application, the H13/H14 class and micro-glass media but withholds the temperature figure, face size and pressure drop. High-temperature HEPA duty hinges on the continuous operating temperature, which drives the media and seal choice. Our advice is to ask for the spec sheet to verify the temperature rating, dimensions and a leakage-test certificate, and check the seal type before ordering.",

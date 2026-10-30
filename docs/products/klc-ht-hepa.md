@@ -1,4 +1,4 @@
-# High Temperature HEPA Filter
+# High Temperature HEPA Filter (KLC)
 
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
