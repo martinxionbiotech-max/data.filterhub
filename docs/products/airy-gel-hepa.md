@@ -13,7 +13,7 @@
 
 ## 描述
 
-Gel-seal mini-pleat HEPA filter, H14 efficiency at 0.3 μm.
+Gel-seal mini-pleat HEPA filter rated H14, catalogued in the HEPA/ULPA category. The source publishes face sizes of 610×610×90/93, 915×610×90 and 1220×610×90 mm, airflow figures up to 2400 m³/h, initial/final pressure drops and an H14 efficiency of 99.995% ≤ E < 99.9995%, with a 200-set MOQ. The gel seal suits knife-edge housings, so seal type is the key installation variable. From a sourcing perspective, buyers should confirm the seal type against the housing and whether a factory leakage-test certificate is required. Verify dimensions before bulk ordering.
 
 ## OE 交叉参考
 

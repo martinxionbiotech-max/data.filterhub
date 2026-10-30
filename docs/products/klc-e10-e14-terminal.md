@@ -13,7 +13,7 @@
 
 ## 描述
 
-Disposable hooded terminal filter, E10 through H14.
+Disposable hooded terminal filter spanning E10/E11/E12/H13/H14, catalogued in the HEPA/ULPA category. The source publishes the class range but no face size, airflow or pressure-drop figure. Hooded terminal filters mount at the cleanroom ceiling and the class must be matched to the ISO 14644 target rather than selected for its own sake. From a sourcing perspective, buyers should lock the efficiency class and confirm the hood dimensions and seal type. Request a leakage-test certificate where required, since per-model values are not published here.
 
 ## OE 交叉参考
 

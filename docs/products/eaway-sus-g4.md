@@ -13,7 +13,7 @@
 
 ## 描述
 
-SUS frame washable pleated air filter G4.
+SUS (stainless-steel) frame washable pleated air filter graded G4, catalogued in the HVAC category. The source confirms the G4 grade, the stainless-steel frame and the washable pleated construction but publishes no face size, airflow or pressure-drop figure. The stainless frame suits washable, corrosion-resistant pre-filtration. Our advice: confirm the face size and request pressure-drop and dust-holding data for energy-cost comparison before bulk ordering.
 
 ## OE 交叉参考
 

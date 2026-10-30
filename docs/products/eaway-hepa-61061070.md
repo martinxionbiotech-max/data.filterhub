@@ -13,7 +13,7 @@
 
 ## 描述
 
-Cleanroom HEPA filter 610×610×70mm (24×24×2.75 inch).
+Cleanroom HEPA filter at 610×610×70 mm (24×24×2.75 inch), catalogued in the HEPA/ULPA category with an H13/H14 class and an aluminium frame. The source publishes the dimensions and quantity pricing (USD 40/37/33 at 5/10/100 pcs), with a 5-pcs reference MOQ. The 70 mm depth is a standard ceiling panel. Our advice: lock the efficiency class to the cleanroom ISO target and confirm the seal type against the housing. Request a leakage-test certificate where required before bulk ordering.
 
 ## OE 交叉参考
 

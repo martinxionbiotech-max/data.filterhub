@@ -13,7 +13,7 @@
 
 ## 描述
 
-Washable G1-G4 synthetic fiber panel filter.
+Washable G1/G2/G3/G4 synthetic-fiber panel filter, catalogued in the HVAC category. The source confirms the G1-G4 grade range and the washable synthetic construction but publishes no face size, airflow or pressure-drop figure. The washable panel form suits reusable pre-filtration where the downstream stage is protected. From a sourcing perspective, buyers should confirm the exact grade and face size, and request pressure-drop and dust-holding data for energy-cost comparison.
 
 ## OE 交叉参考
 

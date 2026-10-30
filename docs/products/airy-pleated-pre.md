@@ -12,7 +12,7 @@
 
 ## 描述
 
-Pleated pre-filter for HVAC systems.
+Pleated pre-filter for HVAC systems, catalogued in the HVAC category with synthetic-fiber media. The source confirms the synthetic media and pleated construction but publishes no grade, face size, airflow or pressure-drop figure. The pleated form adds media area for lower pressure drop in pre-filtration. From a sourcing perspective, buyers should confirm the grade and face size, and request pressure-drop and dust-holding data for energy-cost comparison before ordering.
 
 ## OE 交叉参考
 

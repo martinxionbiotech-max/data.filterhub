@@ -13,7 +13,7 @@
 
 ## 描述
 
-Flame-retardant pre-filter media for spray booths.
+Flame-retardant pre-filter media for spray booths, catalogued in the filter-media category with a G3/G4 grade. The source publishes a 120 °C temperature rating, 85/95% efficiency figures and dust-holding of 500/600 g/m², with a low 20-roll MOQ. Flame-retardant media is the correct choice for spray-booth overspray where a fire-rating is mandated. From a sourcing perspective, buyers should confirm the fire-rating requirement and specify the grade. Request an efficiency curve and confirm roll width and grammage before committing volume.
 
 ## OE 交叉参考
 

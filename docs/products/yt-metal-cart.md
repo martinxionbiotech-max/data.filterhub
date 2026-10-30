@@ -13,7 +13,7 @@
 
 ## 描述
 
-Metal filter cartridge, SS304/SS316L/Ti, sintered or mesh.
+Metal filter cartridge in SS304, SS316L or titanium, offered in sintered or woven-mesh form, catalogued in the liquid-filter category. The source publishes removal ratings of 1-100 μm, lengths of 5-40 inch and O-ring materials from silicon to Viton, EPDM, NBR and PEFE. Metal media suits high-temperature and chemically aggressive process liquids. From a sourcing perspective, buyers should specify the fluid, temperature and chemical compatibility first, then confirm the micron rating and flow rate. Specify sintered versus woven-mesh construction and the end-fitting type before ordering.
 
 ## OE 交叉参考
 

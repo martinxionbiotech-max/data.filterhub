@@ -12,7 +12,7 @@
 
 ## 描述
 
-Cardboard paper frame pre-filter for HVAC.
+Cardboard-paper-frame pre-filter for HVAC, with synthetic media. The catalogue confirms the cardboard/paper frame and synthetic media but withholds the grade, face size, airflow and pressure-drop figure. The cardboard frame is a disposable, low-cost pre-stage option where the downstream media is protected. From a sourcing view, confirm the grade and face size, and request pressure-drop and dust-holding data to compare energy cost.
 
 ## OE 交叉参考
 

@@ -13,7 +13,7 @@
 
 ## 描述
 
-High heat-resistance separator filter, 260-350 °C.
+High-temperature separator filter rated 260-350 °C, catalogued in the HVAC category with a metal frame and synthetic media. The source publishes the 260-350 °C temperature range and the metal frame but no grade, face size, airflow or pressure-drop figure. The separator construction and high heat resistance suit industrial high-temperature ventilation. From a sourcing perspective, buyers should confirm the exact operating temperature and the face size, and request pressure-drop data before ordering.
 
 ## OE 交叉参考
 

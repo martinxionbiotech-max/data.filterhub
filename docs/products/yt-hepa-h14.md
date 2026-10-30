@@ -13,7 +13,7 @@
 
 ## 描述
 
-HEPA filter H14 for HVAC / cleanroom, ISO 16890 & EN 1822.
+HEPA filter rated H14, catalogued in the HEPA/ULPA category for HVAC and cleanroom duty under ISO 16890 and EN 1822. The source confirms the H14 class, a galvanised steel or aluminium frame and micro-glass media, but publishes no face size, airflow or pressure-drop figure. H14 is the standard working point for most cleanrooms. Our advice: confirm the seal type against the housing and whether a factory leakage-test certificate is required. Request dimensions and pressure-drop data on the spec sheet before bulk ordering.
 
 ## OE 交叉参考
 

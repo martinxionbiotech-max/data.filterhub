@@ -13,7 +13,7 @@
 
 ## 描述
 
-Activated carbon pleated filter for odour removal.
+Activated-carbon pleated filter for odour removal, catalogued in the activated-carbon category. The source publishes six face sizes from 295×595×10 mm to 595×595×21 mm, airflow figures of 2000-3600 m³/h, pressure drops of 10-15 Pa and a 60-65% arrestance figure, with a 200-set MOQ. The pleated form adds media surface area for lower pressure drop, but carbon remains contaminant-specific. From a sourcing perspective, buyers should name the target contaminant and confirm airflow and contact time. Request carbon weight and expected service life, which are not published here, before bulk ordering.
 
 ## OE 交叉参考
 

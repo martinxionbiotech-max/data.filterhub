@@ -12,7 +12,7 @@
 
 ## 描述
 
-Chemical air filter with activated carbon bag/panel for airborne molecular contamination.
+Chemical air filter using an activated-carbon bag or panel for airborne molecular contamination control, catalogued in the activated-carbon category. The source confirms the activated-carbon media and the chemical/AMC application but publishes no face size, airflow, carbon weight or efficiency figure. AMC control is highly contaminant-specific, so the target compound is the deciding input. Our advice: name the target contaminant and confirm the required airflow and contact time. Request carbon weight and expected service life on the spec sheet, since these are not published and must be confirmed before ordering.
 
 ## OE 交叉参考
 

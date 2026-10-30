@@ -12,7 +12,7 @@
 
 ## 描述
 
-FB panel filter for HVAC pre-filtration.
+FB panel filter for HVAC pre-filtration, catalogued in the HVAC category with a cardboard or metal frame and synthetic-fiber media. The source confirms the frame options and media but publishes no grade, face size, airflow or pressure-drop figure. Panel pre-filters capture coarse dust to protect downstream stages, and the frame choice follows the duty (cardboard for disposable, metal for washable). From a sourcing perspective, buyers should confirm the grade and face size, and request pressure-drop and dust-holding data for energy-cost comparison.
 
 ## OE 交叉参考
 

@@ -13,7 +13,7 @@
 
 ## 描述
 
-Fan filter unit for Class 100 cleanroom; HEPA/ULPA, AC/EC motor.
+Fan filter unit (FFU) at 48×48 inch, catalogued in the cleanroom-equipment category for Class 100 duty with H10-H14/U15 efficiency and AC/EC motor. The source publishes the 48×48-inch size (320 mm thickness), an airflow of 4000-5000 CMH, Class 100 cleanliness, H10-H14/U15 efficiency and an 80 °C operating limit, with a galvanised-steel or stainless housing. Our advice: confirm the cleanroom ISO class and coverage, and specify AC or EC motor and voltage. This is a point-source unit; size the fleet to the room, not the room to the unit.
 
 ## OE 交叉参考
 

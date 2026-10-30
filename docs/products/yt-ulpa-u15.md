@@ -13,7 +13,7 @@
 
 ## 描述
 
-Ultra-low penetration ULPA filter U15-U17 for ventilation.
+Ultra-low-penetration ULPA filter rated U15-U17 for ventilation, catalogued in the HEPA/ULPA category. The source confirms the U15-U17 class and micro-glass media but publishes no face size, airflow or pressure-drop figure. ULPA only earns its cost where the process genuinely requires the higher class and where an adequate pre-filter chain protects it. From a sourcing perspective, buyers should confirm the required class and the upstream pre-filtration, then request dimensions and a leakage-test certificate. Verify the seal type before ordering.
 
 ## OE 交叉参考
 

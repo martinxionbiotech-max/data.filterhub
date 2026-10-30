@@ -13,7 +13,7 @@
 
 ## 描述
 
-PTFE ULPA/HEPA/sub-HEPA mini-pleat filter for HVAC air filtration.
+PTFE ULPA/HEPA/sub-HEPA mini-pleat filter, catalogued in the HEPA/ULPA category with a ULPA/HEPA/sub-HEPA class span and U15-U17 media rating. The source confirms the PTFE membrane construction but publishes no face size, airflow or pressure-drop figure. PTFE media adds chemical resistance and suits aggressive cleanroom chemistries. From a sourcing perspective, buyers should lock the efficiency class to the process need and confirm the seal type and dimensions. Request a leakage-test certificate where required, since per-model values are not published here.
 
 ## OE 交叉参考
 

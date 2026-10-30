@@ -13,7 +13,7 @@
 
 ## 描述
 
-Activated carbon filter media roll for odour and chemical-vapour adsorption.
+Activated-carbon filter media supplied as roll stock for odour and chemical-vapour adsorption, catalogued in the filter-media category. The source publishes dust-holding of 300/350/580 g/m², pressure drops of 25-35 Pa, a 90-95% adsorption figure and roll sizes of 1.12 m-2.0 m width in 50 m lengths, with a low 20-roll MOQ. Carbon is contaminant-specific, so the target compound drives grade selection. From a sourcing perspective, buyers should specify the target efficiency grade and application, and confirm roll width and grammage. Request an efficiency curve for the target contaminant before committing volume.
 
 ## OE 交叉参考
 

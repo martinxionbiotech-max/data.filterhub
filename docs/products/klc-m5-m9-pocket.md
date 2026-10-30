@@ -12,7 +12,7 @@
 
 ## 描述
 
-Long-life-span synthetic fiber pocket filter, M5-M9.
+Long-life synthetic-fiber pocket filter graded M5/M6/F7/F8/F9, catalogued in the pocket-filter category. The source confirms the synthetic media and the M5-M9 grade range but publishes no face size, airflow or pressure-drop figure. The M5-M9 span covers medium through fine AHU stages, so the grade must be matched to the protection target. From a sourcing perspective, buyers should confirm the grade and the face dimensions and pocket count against the frame. Request initial pressure-drop and dust-holding data before bulk ordering.
 
 ## OE 交叉参考
 

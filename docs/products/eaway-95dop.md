@@ -13,7 +13,7 @@
 
 ## 描述
 
-95% DOP panel filter.
+95% DOP panel filter, catalogued in the HEPA/ULPA category. The source publishes a 95% DOP efficiency figure and micro-glass media but no face size, airflow or pressure-drop figure. The 95% DOP rating is a pre-HEPA efficiency level suited to less critical terminal duty. From a sourcing perspective, buyers should confirm whether the 95% DOP rating meets the cleanroom target or serves as a pre-filter stage, and verify the dimensions and seal type. Request a leakage-test certificate where required before ordering.
 
 ## OE 交叉参考
 

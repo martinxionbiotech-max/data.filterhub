@@ -13,7 +13,7 @@
 
 ## 描述
 
-Liquid filtration cartridge with PP/PVDF/PTFE membrane.
+Liquid filtration membrane cartridge with PP, PVDF or PTFE membrane, catalogued in the liquid-filter category. The source publishes lengths of 5-70 inch, membrane options (PP/PVDF/PTFE/NL/GF/PET), core materials (PP/PET/PTFE/PVDF), end-caps (215/222/Flat 222/High 222/226/DOE) and O-ring materials (silicon/EPDM/Viton/FEP). Membrane choice follows the fluid chemistry and temperature before micron rating is even considered. Our advice: name the fluid, temperature and chemical compatibility, then confirm the micron rating, flow rate and end-cap style before bulk ordering.
 
 ## OE 交叉参考
 

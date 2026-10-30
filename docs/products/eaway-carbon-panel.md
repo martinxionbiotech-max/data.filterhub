@@ -12,7 +12,7 @@
 
 ## 描述
 
-Activated carbon panel air filter.
+Activated-carbon panel air filter for odour removal, catalogued in the activated-carbon category. The source confirms the activated-carbon media but publishes no face size, airflow, carbon weight or efficiency figure. Carbon is contaminant-specific, so the target compound drives the media spec, and the panel form suits HVAC odour stages. Our advice: name the target contaminant and confirm the airflow and contact time, then request carbon weight and expected service life on the spec sheet. Verify the face size against the AHU frame before bulk ordering.
 
 ## OE 交叉参考
 

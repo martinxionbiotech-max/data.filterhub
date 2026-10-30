@@ -13,7 +13,7 @@
 
 ## 描述
 
-Coarse ventilation filter, G1-G4 (ISO 16890).
+Coarse ventilation filter graded G1-G4 (ISO 16890), catalogued in the HVAC category with synthetic media. The source confirms the G1-G4 grade range and the ISO 16890 reference but publishes no face size, airflow or pressure-drop figure. The coarse stage captures large particles and protects downstream media. Our advice: confirm the exact grade and face size, and request pressure-drop and dust-holding data for energy-cost comparison before bulk ordering.
 
 ## OE 交叉参考
 

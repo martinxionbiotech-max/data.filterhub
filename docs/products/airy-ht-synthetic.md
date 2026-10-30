@@ -13,7 +13,7 @@
 
 ## 描述
 
-High-temperature synthetic filter media.
+High-temperature synthetic filter media, catalogued in the filter-media category with a G4 grade. The source publishes 90/95% efficiency figures, an airflow of 5400 m³/h and dust-holding of 200/450 g/m², with a low 20-roll MOQ. Synthetic fibre adds strength and washability for general HVAC duty, distinct from the fiberglass high-temperature option. Our advice: specify the target grade and application, and confirm roll width and grammage. Request an efficiency curve for the target particle size before bulk ordering.
 
 ## OE 交叉参考
 

@@ -13,7 +13,7 @@
 
 ## 描述
 
-Fine ventilation filter, F7/F8/F9.
+Fine ventilation filter graded F7/F8/F9, catalogued in the HVAC category with synthetic media. The source confirms the F7-F9 grade range but publishes no face size, airflow or pressure-drop figure. The fine stage handles fine particulate for higher-cleanliness HVAC duty. Our advice: confirm the exact grade and face size, and request pressure-drop and dust-holding data for energy-cost comparison before bulk ordering.
 
 ## OE 交叉参考
 
