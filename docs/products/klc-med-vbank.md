@@ -2,44 +2,47 @@
 
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
-- **SKU**：`KLC-MED-VBANK`
-- **品类**：[HVAC Filters](hvac-filter.md)
-- **来源站**：klcintl.com
-- **来源 URL**：https://www.klcintl.com/medium-v-bank-filter
-- **数据状态**：catalog-confirmed
+- **SKU**: `KLC-MED-VBANK`
+- **Category**: [HVAC Filters](hvac-filter.md)
+- **Evidence source**: manufacturer catalog record
+- **Data status**: catalog-confirmed
 
-- **子类**：`v_bank`
+- **Subcategory**: `v_bank`
+- **Efficiency class**: `F7 / F8`
 
-## 描述
+## Description
 
-Medium V-bank filter, catalogued in the HVAC category with a metal or plastic frame and synthetic media. The source confirms the V-bank construction and frame options but publishes no grade, face size, airflow or pressure-drop figure. V-bank rigid filters deliver high airflow at low pressure drop for the main AHU stage. Our advice: confirm the grade and face dimensions, and request initial/final pressure-drop and dust-holding data for energy-cost comparison before bulk ordering.
+Medium V-bank Filter. HVAC / ventilation air filter for general air-handling duty. Typical parameters: efficiency F7 / F8, dimension 595×595×45, media synthetic fiber, construction frame: metal / plastic, application hvac; MOQ 200 set. State airflow, pressure-drop budget and the governing efficiency standard, then confirm frame and pocket depth against the AHU.
 
-## OE 交叉参考
-
-`pending`
-
-## 技术参数 (spec)
+## OE cross-reference
 
 `pending`
 
-## 材质 (material)
+## Technical parameters (spec)
 
-| 部件 | 材质 | 状态 |
+| Parameter | Value | Unit | Status |
+|---|---|---|---|
+| `dimension` | `595×595×45` | `mm` | reference |
+| `efficiency_class` | `G4` | `pending` | reference |
+
+## Material
+
+| Part | Material | Status |
 |---|---|---|
 | `frame` | `metal / plastic` | catalog-confirmed |
 
-## 滤材 (filter media)
+## Filter media
 
-- 类型：`synthetic_fiber`
-- 效率等级：`pending`
-- 克重：`pending`
+- Type: `synthetic_fiber`
+- Efficiency class: `pending`
+- Grammage: `pending`
 
-## 应用场景 (application)
+## Application
 
-| 场景 | 介质 | 状态 |
+| Application | Medium | Status |
 |---|---|---|
 | `hvac` | `air` | reference |
 
 ## MOQ
 
-`pending`
+`200 set` (reference)

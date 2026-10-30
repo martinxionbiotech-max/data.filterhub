@@ -2,45 +2,46 @@
 
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
-- **SKU**：`AIRY-HT-FIBERGLASS`
-- **品类**：[Filter Media](filter-media.md)
-- **来源站**：airyfilter.com
-- **来源 URL**：https://airyfilter.com/product/high-temperature-fiberglass-filter-media
-- **数据状态**：catalog-confirmed
+- **SKU**: `AIRY-HT-FIBERGLASS`
+- **Category**: [Filter Media](filter-media.md)
+- **Evidence source**: manufacturer catalog record
+- **Data status**: catalog-confirmed
 
-- **子类**：`micro_glass`
-- **效率等级**：`G3 / G4`
+- **Subcategory**: `micro_glass`
+- **Efficiency class**: `G3 / G4`
 
-## 描述
+## Description
 
-High-temperature fiberglass filter media rated for continuous 300 °C (350 °C peak), catalogued in the filter-media category with a G3/G4 grade. The source publishes 85/95% efficiency figures, airflow of 5800/5400 m³/h and dust-holding of 500/600 g/m², with a low 20-roll MOQ. Fiberglass suits high-temperature industrial exhaust and process duty where synthetic media would fail. From a sourcing perspective, buyers should confirm the exact continuous temperature requirement and specify the grade. Request an efficiency curve and confirm roll width and grammage before committing volume.
+High Temperature Fiberglass Filter Media (AR-GW). Filter media roll for filter manufacture and integrators. Typical parameters: efficiency G3 / G4, media micro glass fiber, construction media: synthetic fiber, application industrial; MOQ 20 roll. State roll width, grammage and any fire-rating requirement, and request an efficiency curve for the target particle size.
 
-## OE 交叉参考
+## OE cross-reference
 
 `pending`
 
-## 技术参数 (spec)
+## Technical parameters (spec)
 
-| 参数 | 值 | 单位 | 状态 |
+| Parameter | Value | Unit | Status |
 |---|---|---|---|
 | `temperature_resistance` | `300 (continuous) / 350 (peak)` | `°C` | verified |
 | `efficiency_percentage` | `85 / 95` | `%` | verified |
 | `airflow` | `5800 / 5400` | `m³/h` | verified |
 | `dust_holding` | `500 / 600` | `g/m²` | verified |
 
-## 材质 (material)
+## Material
 
-`pending`
+| Part | Material | Status |
+|---|---|---|
+| `media` | `synthetic fiber` | reference |
 
-## 滤材 (filter media)
+## Filter media
 
-- 类型：`micro_glass_fiber`
-- 效率等级：`G3-G4`
-- 克重：`pending`
+- Type: `micro_glass_fiber`
+- Efficiency class: `G3-G4`
+- Grammage: `pending`
 
-## 应用场景 (application)
+## Application
 
-| 场景 | 介质 | 状态 |
+| Application | Medium | Status |
 |---|---|---|
 | `industrial` | `air` | reference |
 

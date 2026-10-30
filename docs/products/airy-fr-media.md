@@ -2,44 +2,45 @@
 
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
-- **SKU**：`AIRY-FR-MEDIA`
-- **品类**：[Filter Media](filter-media.md)
-- **来源站**：airyfilter.com
-- **来源 URL**：https://airyfilter.com/product/flame-retardant-pre-filter-media
-- **数据状态**：catalog-confirmed
+- **SKU**: `AIRY-FR-MEDIA`
+- **Category**: [Filter Media](filter-media.md)
+- **Evidence source**: manufacturer catalog record
+- **Data status**: catalog-confirmed
 
-- **子类**：`synthetic_fiber`
-- **效率等级**：`G3 / G4`
+- **Subcategory**: `synthetic_fiber`
+- **Efficiency class**: `G3 / G4`
 
-## 描述
+## Description
 
-Flame-retardant pre-filter media for spray booths, catalogued in the filter-media category with a G3/G4 grade. The source publishes a 120 °C temperature rating, 85/95% efficiency figures and dust-holding of 500/600 g/m², with a low 20-roll MOQ. Flame-retardant media is the correct choice for spray-booth overspray where a fire-rating is mandated. From a sourcing perspective, buyers should confirm the fire-rating requirement and specify the grade. Request an efficiency curve and confirm roll width and grammage before committing volume.
+Flame Retardant Pre-Filter Media (ARZ). Filter media roll for filter manufacture and integrators. Typical parameters: efficiency G3 / G4, media synthetic fiber, construction media: synthetic fiber, application paint_booth; MOQ 20 roll. State roll width, grammage and any fire-rating requirement, and request an efficiency curve for the target particle size.
 
-## OE 交叉参考
+## OE cross-reference
 
 `pending`
 
-## 技术参数 (spec)
+## Technical parameters (spec)
 
-| 参数 | 值 | 单位 | 状态 |
+| Parameter | Value | Unit | Status |
 |---|---|---|---|
 | `temperature_resistance` | `120` | `°C` | verified |
 | `efficiency_percentage` | `85 / 95` | `%` | verified |
 | `dust_holding` | `500 / 600` | `g/m²` | verified |
 
-## 材质 (material)
+## Material
 
-`pending`
+| Part | Material | Status |
+|---|---|---|
+| `media` | `synthetic fiber` | reference |
 
-## 滤材 (filter media)
+## Filter media
 
-- 类型：`synthetic_fiber`
-- 效率等级：`G3-G4`
-- 克重：`pending`
+- Type: `synthetic_fiber`
+- Efficiency class: `G3-G4`
+- Grammage: `pending`
 
-## 应用场景 (application)
+## Application
 
-| 场景 | 介质 | 状态 |
+| Application | Medium | Status |
 |---|---|---|
 | `paint_booth` | `air` | reference |
 

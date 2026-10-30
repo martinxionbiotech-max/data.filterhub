@@ -2,41 +2,49 @@
 
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
-- **SKU**：`KLC-E10-E14-TERMINAL`
-- **品类**：[HEPA / ULPA Filters](hepa-filter.md)
-- **来源站**：klcintl.com
-- **来源 URL**：https://www.klcintl.com/e10-e11-e12-h13-h14-disposable-hooded-terminal-filter
-- **数据状态**：catalog-confirmed
+- **SKU**: `KLC-E10-E14-TERMINAL`
+- **Category**: [HEPA / ULPA Filters](hepa-filter.md)
+- **Evidence source**: manufacturer catalog record
+- **Data status**: catalog-confirmed
 
-- **子类**：`h10-h12`
-- **效率等级**：`E10/E11/E12/H13/H14`
+- **Subcategory**: `h10-h12`
+- **Efficiency class**: `E10/E11/E12/H13/H14`
 
-## 描述
+## Description
 
-Disposable hooded terminal filter spanning E10/E11/E12/H13/H14, catalogued in the HEPA/ULPA category. The source publishes the class range but no face size, airflow or pressure-drop figure. Hooded terminal filters mount at the cleanroom ceiling and the class must be matched to the ISO 14644 target rather than selected for its own sake. From a sourcing perspective, buyers should lock the efficiency class and confirm the hood dimensions and seal type. Request a leakage-test certificate where required, since per-model values are not published here.
+E10/E11/E12/H13/H14 Disposable Hooded Terminal Filter. High-efficiency HEPA / ULPA filter for clean-air and cleanroom duty. Typical parameters: efficiency E10/E11/E12/H13/H14, dimension 610×610×292, media micro glass fiber, construction media: micro glass fiber, frame: aluminium / galvanized steel, seal: gel / gasket, application cleanroom; MOQ 5 pcs. Match the class to the cleanroom ISO 14644 target, verify the seal type against the housing, and request a factory leakage-test certificate.
 
-## OE 交叉参考
-
-`pending`
-
-## 技术参数 (spec)
+## OE cross-reference
 
 `pending`
 
-## 材质 (material)
+## Technical parameters (spec)
 
-`pending`
+| Parameter | Value | Unit | Status |
+|---|---|---|---|
+| `dimension` | `610×610×292` | `mm` | reference |
+| `efficiency_class` | `H13/H14` | `pending` | reference |
 
-## 滤材 (filter media)
+## Material
 
-`pending`
+| Part | Material | Status |
+|---|---|---|
+| `media` | `micro glass fiber` | reference |
+| `frame` | `aluminium / galvanized steel` | reference |
+| `seal` | `gel / gasket` | reference |
 
-## 应用场景 (application)
+## Filter media
 
-| 场景 | 介质 | 状态 |
+- Type: `micro_glass_fiber`
+- Efficiency class: `H13/H14`
+- Grammage: `pending`
+
+## Application
+
+| Application | Medium | Status |
 |---|---|---|
 | `cleanroom` | `air` | reference |
 
 ## MOQ
 
-`pending`
+`5 pcs` (reference)

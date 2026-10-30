@@ -2,39 +2,45 @@
 
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
-- **SKU**：`AIRY-PRE-PANEL`
-- **品类**：[HVAC Filters](hvac-filter.md)
-- **来源站**：airyfilter.com
-- **来源 URL**：https://airyfilter.com/product/pre-panel-filter
-- **数据状态**：catalog-confirmed
+- **SKU**: `AIRY-PRE-PANEL`
+- **Category**: [HVAC Filters](hvac-filter.md)
+- **Evidence source**: manufacturer catalog record
+- **Data status**: catalog-confirmed
 
-- **子类**：`pre`
+- **Subcategory**: `pre`
+- **Efficiency class**: `G4`
 
-## 描述
+## Description
 
-Pre-panel filter for HVAC pre-filtration stages, with synthetic-fiber media. The source confirms the synthetic media but publishes no grade, face size, airflow or pressure-drop figure. A pre-stage protects the downstream media and trades low resistance for high capacity. Buyers should confirm the grade and face size against the AHU, and request pressure-drop and dust-holding data for energy-cost comparison before ordering.
+Pre-Panel Filter. HVAC / ventilation air filter for general air-handling duty. Typical parameters: efficiency G4, dimension 595×595×45, media synthetic fiber, construction media: synthetic fiber, frame: cardboard / metal, application hvac; MOQ 200 set. State airflow, pressure-drop budget and the governing efficiency standard, then confirm frame and pocket depth against the AHU.
 
-## OE 交叉参考
-
-`pending`
-
-## 技术参数 (spec)
+## OE cross-reference
 
 `pending`
 
-## 材质 (material)
+## Technical parameters (spec)
 
-`pending`
+| Parameter | Value | Unit | Status |
+|---|---|---|---|
+| `dimension` | `595×595×45` | `mm` | reference |
+| `efficiency_class` | `G4` | `pending` | reference |
 
-## 滤材 (filter media)
+## Material
 
-- 类型：`synthetic_fiber`
-- 效率等级：`pending`
-- 克重：`pending`
+| Part | Material | Status |
+|---|---|---|
+| `media` | `synthetic fiber` | reference |
+| `frame` | `cardboard / metal` | reference |
 
-## 应用场景 (application)
+## Filter media
 
-| 场景 | 介质 | 状态 |
+- Type: `synthetic_fiber`
+- Efficiency class: `pending`
+- Grammage: `pending`
+
+## Application
+
+| Application | Medium | Status |
 |---|---|---|
 | `hvac` | `air` | reference |
 

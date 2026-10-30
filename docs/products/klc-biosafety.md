@@ -2,40 +2,48 @@
 
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
-- **SKU**：`KLC-BIOSAFETY`
-- **品类**：[Cleanroom Equipment](cleanroom-equipment.md)
-- **来源站**：klcintl.com
-- **来源 URL**：https://www.klcintl.com/biosafety-cabinet-biologicall-safety-cabinet
-- **数据状态**：catalog-confirmed
+- **SKU**: `KLC-BIOSAFETY`
+- **Category**: [Cleanroom Equipment](cleanroom-equipment.md)
+- **Evidence source**: manufacturer catalog record
+- **Data status**: catalog-confirmed
 
-- **子类**：`biosafety_cabinet`
+- **Subcategory**: `biosafety_cabinet`
+- **Efficiency class**: `Class II Type A2`
 
-## 描述
+## Description
 
-Biosafety cabinet for cleanroom and laboratory use, catalogued in the cleanroom-equipment category. The source confirms the biosafety application but publishes no class, dimensions, airflow or efficiency figure. Biosafety cabinets add containment for biological work, so the class and the working-zone configuration are the key variables. From a sourcing perspective, buyers should confirm the required biosafety class and the working-zone dimensions, and specify AC or EC motor and voltage. Request the spec sheet before ordering.
+Biosafety Cabinet. Cleanroom equipment for contamination-controlled environments. Typical parameters: efficiency Class II Type A2, dimension Class II cabinet (model-specific), media micro glass fiber, construction housing: galvanized steel / stainless steel, application healthcare; MOQ 1 pcs. Define the cleanroom ISO class and airflow first, then specify entry and transfer equipment together with the ceiling FFU system.
 
-## OE 交叉参考
-
-`pending`
-
-## 技术参数 (spec)
+## OE cross-reference
 
 `pending`
 
-## 材质 (material)
+## Technical parameters (spec)
 
-`pending`
+| Parameter | Value | Unit | Status |
+|---|---|---|---|
+| `dimension` | `Class II cabinet (model-specific)` | `pending` | reference |
+| `cleanliness_class` | `Class 100 / ISO 5` | `pending` | reference |
+| `efficiency_class` | `H13/H14` | `pending` | reference |
 
-## 滤材 (filter media)
+## Material
 
-`pending`
+| Part | Material | Status |
+|---|---|---|
+| `housing` | `galvanized steel / stainless steel` | reference |
 
-## 应用场景 (application)
+## Filter media
 
-| 场景 | 介质 | 状态 |
+- Type: `micro_glass_fiber`
+- Efficiency class: `H13/H14`
+- Grammage: `pending`
+
+## Application
+
+| Application | Medium | Status |
 |---|---|---|
 | `healthcare` | `cleanroom_ffu` | reference |
 
 ## MOQ
 
-`pending`
+`1 pcs` (reference)

@@ -2,43 +2,48 @@
 
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
-- **SKU**：`KLC-G3-HT-PRIMARY`
-- **品类**：[HVAC Filters](hvac-filter.md)
-- **来源站**：klcintl.com
-- **来源 URL**：https://www.klcintl.com/g3-high-heat-resistance-pleated-primary-filter
-- **数据状态**：catalog-confirmed
+- **SKU**: `KLC-G3-HT-PRIMARY`
+- **Category**: [HVAC Filters](hvac-filter.md)
+- **Evidence source**: manufacturer catalog record
+- **Data status**: catalog-confirmed
 
-- **子类**：`pre`
-- **效率等级**：`G3`
+- **Subcategory**: `pre`
+- **Efficiency class**: `G3`
 
-## 描述
+## Description
 
-G3 high-heat-resistance pleated primary filter, catalogued in the HVAC category with synthetic media. The source confirms the G3 grade, the pleated construction and the high-heat-resistance description but publishes no temperature figure, face size, airflow or pressure-drop figure. As a G3 primary stage, it captures coarse dust and protects downstream media. Our advice: confirm the exact temperature requirement and the face size, and request pressure-drop data before bulk ordering.
+G3 High Heat-Resistance Pleated Primary Filter. HVAC / ventilation air filter for general air-handling duty. Typical parameters: efficiency G3, dimension 595×595×45, media synthetic fiber, construction media: synthetic fiber, frame: cardboard / metal, application industrial; MOQ 200 set. State airflow, pressure-drop budget and the governing efficiency standard, then confirm frame and pocket depth against the AHU.
 
-## OE 交叉参考
-
-`pending`
-
-## 技术参数 (spec)
+## OE cross-reference
 
 `pending`
 
-## 材质 (material)
+## Technical parameters (spec)
 
-`pending`
+| Parameter | Value | Unit | Status |
+|---|---|---|---|
+| `dimension` | `595×595×45` | `mm` | reference |
+| `efficiency_class` | `G4` | `pending` | reference |
 
-## 滤材 (filter media)
+## Material
 
-- 类型：`synthetic_fiber`
-- 效率等级：`G3`
-- 克重：`pending`
+| Part | Material | Status |
+|---|---|---|
+| `media` | `synthetic fiber` | reference |
+| `frame` | `cardboard / metal` | reference |
 
-## 应用场景 (application)
+## Filter media
 
-| 场景 | 介质 | 状态 |
+- Type: `synthetic_fiber`
+- Efficiency class: `G3`
+- Grammage: `pending`
+
+## Application
+
+| Application | Medium | Status |
 |---|---|---|
 | `industrial` | `air` | reference |
 
 ## MOQ
 
-`pending`
+`200 set` (reference)

@@ -2,46 +2,46 @@
 
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
-- **SKU**：`EAWAY-CARBON-VBANK`
-- **品类**：[Activated Carbon Filters](activated-carbon-filter.md)
-- **来源站**：cleanroom-ffu.com
-- **来源 URL**：https://www.cleanroom-ffu.com/carbon-v-bank/
-- **数据状态**：catalog-confirmed
+- **SKU**: `EAWAY-CARBON-VBANK`
+- **Category**: [Activated Carbon Filters](activated-carbon-filter.md)
+- **Evidence source**: manufacturer catalog record
+- **Data status**: catalog-confirmed
 
-- **子类**：`v_bank`
+- **Subcategory**: `v_bank`
+- **Efficiency class**: `G4 / F5`
 
-## 描述
+## Description
 
-Activated-carbon V-bank filter for odour removal, catalogued in the activated-carbon category at 592×592×292 mm and 592×287×292 mm. The source publishes the two V-bank face sizes but no airflow, carbon weight or efficiency figure. The V-bank form packs high media area for low-pressure-drop odour removal in AHU systems. From a sourcing perspective, buyers should name the target contaminant and confirm airflow and contact time. Request carbon weight and expected service life on the spec sheet, which are not published here, before bulk ordering.
+Carbon V-bank Filter 592×592×292mm. Activated-carbon filter for odour and chemical-vapour removal. Typical parameters: efficiency G4 / F5, dimension 592×592×292 / 592×287×292, media activated carbon, construction media: activated_carbon, application hvac; MOQ 200 set. Name the target contaminant and confirm airflow and contact time; request carbon weight and expected service life.
 
-## OE 交叉参考
+## OE cross-reference
 
 `pending`
 
-## 技术参数 (spec)
+## Technical parameters (spec)
 
-| 参数 | 值 | 单位 | 状态 |
+| Parameter | Value | Unit | Status |
 |---|---|---|---|
 | `dimension` | `592×592×292 / 592×287×292` | `mm` | verified |
 
-## 材质 (material)
+## Material
 
-| 部件 | 材质 | 状态 |
+| Part | Material | Status |
 |---|---|---|
 | `media` | `activated_carbon` | catalog-confirmed |
 
-## 滤材 (filter media)
+## Filter media
 
-- 类型：`activated_carbon`
-- 效率等级：`pending`
-- 克重：`pending`
+- Type: `activated_carbon`
+- Efficiency class: `pending`
+- Grammage: `pending`
 
-## 应用场景 (application)
+## Application
 
-| 场景 | 介质 | 状态 |
+| Application | Medium | Status |
 |---|---|---|
 | `hvac` | `air` | reference |
 
 ## MOQ
 
-`pending`
+`200 set` (reference)

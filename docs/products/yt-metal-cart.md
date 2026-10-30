@@ -2,49 +2,48 @@
 
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
-- **SKU**：`YT-METAL-CART`
-- **品类**：[Liquid Filter Cartridges](liquid-filter.md)
-- **来源站**：yitong-filter.com
-- **来源 URL**：https://www.yitong-filter.com/
-- **数据状态**：catalog-confirmed
+- **SKU**: `YT-METAL-CART`
+- **Category**: [Liquid Filter Cartridges](liquid-filter.md)
+- **Evidence source**: manufacturer catalog record
+- **Data status**: catalog-confirmed
 
-- **子类**：`metal`
-- **效率等级**：`1-100 μm`
+- **Subcategory**: `metal`
+- **Efficiency class**: `1-100 μm`
 
-## 描述
+## Description
 
-Metal filter cartridge in SS304, SS316L or titanium, offered in sintered or woven-mesh form, catalogued in the liquid-filter category. The source publishes removal ratings of 1-100 μm, lengths of 5-40 inch and O-ring materials from silicon to Viton, EPDM, NBR and PEFE. Metal media suits high-temperature and chemically aggressive process liquids. From a sourcing perspective, buyers should specify the fluid, temperature and chemical compatibility first, then confirm the micron rating and flow rate. Specify sintered versus woven-mesh construction and the end-fitting type before ordering.
+Metal Filter Cartridge (SS304/SS316L/Ti). Liquid filter cartridge for process-fluid filtration. Typical parameters: efficiency 1-100 μm, dimension 5/10/20/30/40, media sintered mesh, construction core: SS304/SS316L/Ti, o_ring: Silicon/Viton/EPDM/NBR/PEFE, application oil_gas; MOQ 10 pcs. State the fluid, temperature, flow rate and target micron rating, and confirm chemical compatibility of media and seals.
 
-## OE 交叉参考
+## OE cross-reference
 
 `pending`
 
-## 技术参数 (spec)
+## Technical parameters (spec)
 
-| 参数 | 值 | 单位 | 状态 |
+| Parameter | Value | Unit | Status |
 |---|---|---|---|
 | `removal_rating` | `1/3/5/10/20/30/50/100` | `μm` | verified |
 | `dimension` | `5/10/20/30/40` | `inch` | verified |
 
-## 材质 (material)
+## Material
 
-| 部件 | 材质 | 状态 |
+| Part | Material | Status |
 |---|---|---|
 | `core` | `SS304/SS316L/Ti` | catalog-confirmed |
 | `o_ring` | `Silicon/Viton/EPDM/NBR/PEFE` | catalog-confirmed |
 
-## 滤材 (filter media)
+## Filter media
 
-- 类型：`sintered_mesh`
-- 效率等级：`pending`
-- 克重：`pending`
+- Type: `sintered_mesh`
+- Efficiency class: `pending`
+- Grammage: `pending`
 
-## 应用场景 (application)
+## Application
 
-| 场景 | 介质 | 状态 |
+| Application | Medium | Status |
 |---|---|---|
 | `oil_gas` | `oil` | reference |
 
 ## MOQ
 
-`pending`
+`10 pcs` (reference)

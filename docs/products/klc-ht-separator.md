@@ -2,47 +2,46 @@
 
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
-- **SKU**：`KLC-HT-SEPARATOR`
-- **品类**：[HVAC Filters](hvac-filter.md)
-- **来源站**：klcintl.com
-- **来源 URL**：https://www.klcintl.com/260-350-high-temperature-separator-filter
-- **数据状态**：catalog-confirmed
+- **SKU**: `KLC-HT-SEPARATOR`
+- **Category**: [HVAC Filters](hvac-filter.md)
+- **Evidence source**: manufacturer catalog record
+- **Data status**: catalog-confirmed
 
-- **子类**：`v_bank`
-- **效率等级**：`—`
+- **Subcategory**: `v_bank`
+- **Efficiency class**: `—`
 
-## 描述
+## Description
 
-High-temperature separator filter rated 260-350 °C, catalogued in the HVAC category with a metal frame and synthetic media. The source publishes the 260-350 °C temperature range and the metal frame but no grade, face size, airflow or pressure-drop figure. The separator construction and high heat resistance suit industrial high-temperature ventilation. From a sourcing perspective, buyers should confirm the exact operating temperature and the face size, and request pressure-drop data before ordering.
+260/350°C High Temperature Separator Filter. HVAC / ventilation air filter for general air-handling duty. Typical parameters: efficiency —, media synthetic fiber, construction frame: metal, application industrial; MOQ 200 set. State airflow, pressure-drop budget and the governing efficiency standard, then confirm frame and pocket depth against the AHU.
 
-## OE 交叉参考
+## OE cross-reference
 
 `pending`
 
-## 技术参数 (spec)
+## Technical parameters (spec)
 
-| 参数 | 值 | 单位 | 状态 |
+| Parameter | Value | Unit | Status |
 |---|---|---|---|
 | `temperature_resistance` | `260-350` | `°C` | verified |
 
-## 材质 (material)
+## Material
 
-| 部件 | 材质 | 状态 |
+| Part | Material | Status |
 |---|---|---|
 | `frame` | `metal` | catalog-confirmed |
 
-## 滤材 (filter media)
+## Filter media
 
-- 类型：`synthetic_fiber`
-- 效率等级：`pending`
-- 克重：`pending`
+- Type: `synthetic_fiber`
+- Efficiency class: `pending`
+- Grammage: `pending`
 
-## 应用场景 (application)
+## Application
 
-| 场景 | 介质 | 状态 |
+| Application | Medium | Status |
 |---|---|---|
 | `industrial` | `air` | reference |
 
 ## MOQ
 
-`pending`
+`200 set` (reference)

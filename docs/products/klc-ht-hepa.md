@@ -2,42 +2,49 @@
 
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
-- **SKU**：`KLC-HT-HEPA`
-- **品类**：[HEPA / ULPA Filters](hepa-filter.md)
-- **来源站**：klcintl.com
-- **来源 URL**：https://www.klcintl.com/high-temperature-hepa-filter
-- **数据状态**：catalog-confirmed
+- **SKU**: `KLC-HT-HEPA`
+- **Category**: [HEPA / ULPA Filters](hepa-filter.md)
+- **Evidence source**: manufacturer catalog record
+- **Data status**: catalog-confirmed
 
-- **子类**：`h13-h14`
+- **Subcategory**: `h13-h14`
+- **Efficiency class**: `H13/H14`
 
-## 描述
+## Description
 
-High-temperature HEPA filter with micro-glass media, from the KLC range. The source confirms the high-temperature application and micro-glass construction but publishes no temperature rating, class, size or pressure-drop figure. The exact operating temperature is what decides the media and seal materials, so confirm it first, then lock the efficiency class to the process need. From a sourcing perspective, request the spec sheet for dimensions, class and a leakage-test certificate, and verify the seal type against the housing.
+High Temperature HEPA Filter. High-efficiency HEPA / ULPA filter for clean-air and cleanroom duty. Typical parameters: efficiency H13/H14, dimension 610×610×292, media micro glass fiber, construction media: micro glass fiber, frame: aluminium / galvanized steel, seal: gel / gasket, application industrial; MOQ 5 pcs. Match the class to the cleanroom ISO 14644 target, verify the seal type against the housing, and request a factory leakage-test certificate.
 
-## OE 交叉参考
-
-`pending`
-
-## 技术参数 (spec)
+## OE cross-reference
 
 `pending`
 
-## 材质 (material)
+## Technical parameters (spec)
 
-`pending`
+| Parameter | Value | Unit | Status |
+|---|---|---|---|
+| `dimension` | `610×610×292` | `mm` | reference |
+| `efficiency_class` | `H13/H14` | `pending` | reference |
 
-## 滤材 (filter media)
+## Material
 
-- 类型：`micro_glass_fiber`
-- 效率等级：`pending`
-- 克重：`pending`
+| Part | Material | Status |
+|---|---|---|
+| `media` | `micro glass fiber` | reference |
+| `frame` | `aluminium / galvanized steel` | reference |
+| `seal` | `gel / gasket` | reference |
 
-## 应用场景 (application)
+## Filter media
 
-| 场景 | 介质 | 状态 |
+- Type: `micro_glass_fiber`
+- Efficiency class: `pending`
+- Grammage: `pending`
+
+## Application
+
+| Application | Medium | Status |
 |---|---|---|
 | `industrial` | `air` | reference |
 
 ## MOQ
 
-`pending`
+`5 pcs` (reference)

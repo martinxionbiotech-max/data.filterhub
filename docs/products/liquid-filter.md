@@ -2,9 +2,9 @@
 
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
-品类 code：`liquid_filter` · SKU 数：2 · 状态：`catalog-confirmed`
+Category code: `liquid_filter` · SKUs: 2 · Status: `catalog-confirmed`
 
-| SKU | 描述 | 效率等级 | 数据状态 |
+| SKU | Description | Efficiency | Data status |
 |---|---|---|---|
-| [`YT-METAL-CART`](yt-metal-cart.md) | Metal filter cartridge in SS304, SS316L or titanium, offered in sintered or woven-mesh form, catalogued in the liquid-filter category. The source publishes removal ratings of 1-100 μm, lengths of 5-40 inch and O-ring materials from silicon to Viton, EPDM, NBR and PEFE. Metal media suits high-temperature and chemically aggressive process liquids. From a sourcing perspective, buyers should specify the fluid, temperature and chemical compatibility first, then confirm the micron rating and flow rate. Specify sintered versus woven-mesh construction and the end-fitting type before ordering. | `1-100 μm` | catalog-confirmed |
-| [`YT-LIQ-MEMBRANE`](yt-liq-membrane.md) | Liquid filtration membrane cartridge with PP, PVDF or PTFE membrane, catalogued in the liquid-filter category. The source publishes lengths of 5-70 inch, membrane options (PP/PVDF/PTFE/NL/GF/PET), core materials (PP/PET/PTFE/PVDF), end-caps (215/222/Flat 222/High 222/226/DOE) and O-ring materials (silicon/EPDM/Viton/FEP). Membrane choice follows the fluid chemistry and temperature before micron rating is even considered. Our advice: name the fluid, temperature and chemical compatibility, then confirm the micron rating, flow rate and end-cap style before bulk ordering. | `—` | catalog-confirmed |
+| [`YT-METAL-CART`](yt-metal-cart.md) | Metal Filter Cartridge (SS304/SS316L/Ti). Liquid filter cartridge for process-fluid filtration. Typical parameters: efficiency 1-100 μm, dimension 5/10/20/30/40, media sintered mesh, construction core: SS304/SS316L/Ti, o_ring: Silicon/Viton/EPDM/NBR/PEFE, application oil_gas; MOQ 10 pcs. State the fluid, temperature, flow rate and target micron rating, and confirm chemical compatibility of media and seals. | `1-100 μm` | catalog-confirmed |
+| [`YT-LIQ-MEMBRANE`](yt-liq-membrane.md) | Liquid Filtration Membrane Cartridge (PP/PVDF/PTFE). Liquid filter cartridge for process-fluid filtration. Typical parameters: efficiency —, dimension 5/10/20/30/40/70, media membrane, construction membrane: PP/PVDF/PTFE/NL/GF/PET, core: PP/PET/PTFE/PVDF, end_cap: 215/222/Flat 222/High 222/226/DOE, o_ring: Silicon/EPDM/Viton/FEP, application water; MOQ 10 pcs. State the fluid, temperature, flow rate and target micron rating, and confirm chemical compatibility of media and seals. | `—` | catalog-confirmed |

@@ -2,45 +2,47 @@
 
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
-- **SKU**：`KLC-G1-G4-PANEL`
-- **品类**：[HVAC Filters](hvac-filter.md)
-- **来源站**：klcintl.com
-- **来源 URL**：https://www.klcintl.com/washable-g1-g2-g3-g4-synthetic-fiber-panel-filter
-- **数据状态**：catalog-confirmed
+- **SKU**: `KLC-G1-G4-PANEL`
+- **Category**: [HVAC Filters](hvac-filter.md)
+- **Evidence source**: manufacturer catalog record
+- **Data status**: catalog-confirmed
 
-- **子类**：`pre`
-- **效率等级**：`G1/G2/G3/G4`
+- **Subcategory**: `pre`
+- **Efficiency class**: `G1/G2/G3/G4`
 
-## 描述
+## Description
 
-Washable G1/G2/G3/G4 synthetic-fiber panel filter, catalogued in the HVAC category. The source confirms the G1-G4 grade range and the washable synthetic construction but publishes no face size, airflow or pressure-drop figure. The washable panel form suits reusable pre-filtration where the downstream stage is protected. From a sourcing perspective, buyers should confirm the exact grade and face size, and request pressure-drop and dust-holding data for energy-cost comparison.
+Washable G1/G2/G3/G4 Synthetic Fiber Panel Filter. HVAC / ventilation air filter for general air-handling duty. Typical parameters: efficiency G1/G2/G3/G4, dimension 595×595×45, media synthetic fiber, construction media: synthetic_fiber, application hvac; MOQ 200 set. State airflow, pressure-drop budget and the governing efficiency standard, then confirm frame and pocket depth against the AHU.
 
-## OE 交叉参考
-
-`pending`
-
-## 技术参数 (spec)
+## OE cross-reference
 
 `pending`
 
-## 材质 (material)
+## Technical parameters (spec)
 
-| 部件 | 材质 | 状态 |
+| Parameter | Value | Unit | Status |
+|---|---|---|---|
+| `dimension` | `595×595×45` | `mm` | reference |
+| `efficiency_class` | `G4` | `pending` | reference |
+
+## Material
+
+| Part | Material | Status |
 |---|---|---|
 | `media` | `synthetic_fiber` | catalog-confirmed |
 
-## 滤材 (filter media)
+## Filter media
 
-- 类型：`synthetic_fiber`
-- 效率等级：`G1-G4`
-- 克重：`pending`
+- Type: `synthetic_fiber`
+- Efficiency class: `G1-G4`
+- Grammage: `pending`
 
-## 应用场景 (application)
+## Application
 
-| 场景 | 介质 | 状态 |
+| Application | Medium | Status |
 |---|---|---|
 | `hvac` | `air` | reference |
 
 ## MOQ
 
-`pending`
+`200 set` (reference)

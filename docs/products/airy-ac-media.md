@@ -2,47 +2,46 @@
 
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
-- **SKU**：`AIRY-AC-MEDIA`
-- **品类**：[Filter Media](filter-media.md)
-- **来源站**：airyfilter.com
-- **来源 URL**：https://airyfilter.com/product/activated-carbon-filter-media
-- **数据状态**：catalog-confirmed
+- **SKU**: `AIRY-AC-MEDIA`
+- **Category**: [Filter Media](filter-media.md)
+- **Evidence source**: manufacturer catalog record
+- **Data status**: catalog-confirmed
 
-- **子类**：`activated_carbon`
-- **效率等级**：`90-95% adsorption`
+- **Subcategory**: `activated_carbon`
+- **Efficiency class**: `90-95% adsorption`
 
-## 描述
+## Description
 
-Activated-carbon filter media supplied as roll stock for odour and chemical-vapour adsorption, catalogued in the filter-media category. The source publishes dust-holding of 300/350/580 g/m², pressure drops of 25-35 Pa, a 90-95% adsorption figure and roll sizes of 1.12 m-2.0 m width in 50 m lengths, with a low 20-roll MOQ. Carbon is contaminant-specific, so the target compound drives grade selection. From a sourcing perspective, buyers should specify the target efficiency grade and application, and confirm roll width and grammage. Request an efficiency curve for the target contaminant before committing volume.
+Activated Carbon Filter Media (AR-TM). Filter media roll for filter manufacture and integrators. Typical parameters: efficiency 90-95% adsorption, dimension 1.12m×50m / 1.25m×50m / 1.5m×50m / 2.0m×50m, media activated carbon, construction media: activated_carbon, application hvac, industrial; MOQ 20 roll. State roll width, grammage and any fire-rating requirement, and request an efficiency curve for the target particle size.
 
-## OE 交叉参考
+## OE cross-reference
 
 `pending`
 
-## 技术参数 (spec)
+## Technical parameters (spec)
 
-| 参数 | 值 | 单位 | 状态 |
+| Parameter | Value | Unit | Status |
 |---|---|---|---|
 | `dust_holding` | `300 / 350 / 580` | `g/m²` | verified |
 | `pressure_drop` | `25 / 28 / 35` | `Pa` | verified |
 | `efficiency_percentage` | `90 / 95 / 95` | `%` | verified |
 | `dimension` | `1.12m×50m / 1.25m×50m / 1.5m×50m / 2.0m×50m` | `pending` | verified |
 
-## 材质 (material)
+## Material
 
-| 部件 | 材质 | 状态 |
+| Part | Material | Status |
 |---|---|---|
 | `media` | `activated_carbon` | catalog-confirmed |
 
-## 滤材 (filter media)
+## Filter media
 
-- 类型：`activated_carbon`
-- 效率等级：`90-95%`
-- 克重：`pending`
+- Type: `activated_carbon`
+- Efficiency class: `90-95%`
+- Grammage: `pending`
 
-## 应用场景 (application)
+## Application
 
-| 场景 | 介质 | 状态 |
+| Application | Medium | Status |
 |---|---|---|
 | `hvac` | `air` | reference |
 | `industrial` | `air` | reference |

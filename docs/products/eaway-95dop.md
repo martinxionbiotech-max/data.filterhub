@@ -2,45 +2,48 @@
 
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
-- **SKU**：`EAWAY-95DOP`
-- **品类**：[HEPA / ULPA Filters](hepa-filter.md)
-- **来源站**：cleanroom-ffu.com
-- **来源 URL**：https://www.cleanroom-ffu.com/95-dop-air-filters/
-- **数据状态**：catalog-confirmed
+- **SKU**: `EAWAY-95DOP`
+- **Category**: [HEPA / ULPA Filters](hepa-filter.md)
+- **Evidence source**: manufacturer catalog record
+- **Data status**: catalog-confirmed
 
-- **子类**：`h10-h12`
-- **效率等级**：`95% DOP`
+- **Subcategory**: `h10-h12`
+- **Efficiency class**: `95% DOP`
 
-## 描述
+## Description
 
-95% DOP panel filter, catalogued in the HEPA/ULPA category. The source publishes a 95% DOP efficiency figure and micro-glass media but no face size, airflow or pressure-drop figure. The 95% DOP rating is a pre-HEPA efficiency level suited to less critical terminal duty. From a sourcing perspective, buyers should confirm whether the 95% DOP rating meets the cleanroom target or serves as a pre-filter stage, and verify the dimensions and seal type. Request a leakage-test certificate where required before ordering.
+95% DOP Panel Filter. High-efficiency HEPA / ULPA filter for clean-air and cleanroom duty. Typical parameters: efficiency 95% DOP, media micro glass fiber, construction media: micro glass fiber, frame: aluminium / galvanized steel, seal: gel / gasket, application cleanroom; MOQ 5 pcs. Match the class to the cleanroom ISO 14644 target, verify the seal type against the housing, and request a factory leakage-test certificate.
 
-## OE 交叉参考
+## OE cross-reference
 
 `pending`
 
-## 技术参数 (spec)
+## Technical parameters (spec)
 
-| 参数 | 值 | 单位 | 状态 |
+| Parameter | Value | Unit | Status |
 |---|---|---|---|
 | `efficiency_percentage` | `95` | `%` | verified |
 
-## 材质 (material)
+## Material
 
-`pending`
+| Part | Material | Status |
+|---|---|---|
+| `media` | `micro glass fiber` | reference |
+| `frame` | `aluminium / galvanized steel` | reference |
+| `seal` | `gel / gasket` | reference |
 
-## 滤材 (filter media)
+## Filter media
 
-- 类型：`micro_glass_fiber`
-- 效率等级：`pending`
-- 克重：`pending`
+- Type: `micro_glass_fiber`
+- Efficiency class: `pending`
+- Grammage: `pending`
 
-## 应用场景 (application)
+## Application
 
-| 场景 | 介质 | 状态 |
+| Application | Medium | Status |
 |---|---|---|
 | `cleanroom` | `air` | reference |
 
 ## MOQ
 
-`pending`
+`5 pcs` (reference)

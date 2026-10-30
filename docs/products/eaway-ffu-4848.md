@@ -2,26 +2,25 @@
 
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
-- **SKU**：`EAWAY-FFU-4848`
-- **品类**：[Cleanroom Equipment](cleanroom-equipment.md)
-- **来源站**：cleanroom-ffu.com
-- **来源 URL**：https://www.cleanroom-ffu.com/fan-filter-unit/
-- **数据状态**：catalog-confirmed
+- **SKU**: `EAWAY-FFU-4848`
+- **Category**: [Cleanroom Equipment](cleanroom-equipment.md)
+- **Evidence source**: manufacturer catalog record
+- **Data status**: catalog-confirmed
 
-- **子类**：`ffu`
-- **效率等级**：`H10-H14/U15`
+- **Subcategory**: `ffu`
+- **Efficiency class**: `H10-H14/U15`
 
-## 描述
+## Description
 
-Fan filter unit (FFU) at 48×48 inch, catalogued in the cleanroom-equipment category for Class 100 duty with H10-H14/U15 efficiency and AC/EC motor. The source publishes the 48×48-inch size (320 mm thickness), an airflow of 4000-5000 CMH, Class 100 cleanliness, H10-H14/U15 efficiency and an 80 °C operating limit, with a galvanised-steel or stainless housing. Our advice: confirm the cleanroom ISO class and coverage, and specify AC or EC motor and voltage. This is a point-source unit; size the fleet to the room, not the room to the unit.
+Fan Filter Unit (FFU) 48"x48". Cleanroom equipment for contamination-controlled environments. Typical parameters: efficiency H10-H14/U15, dimension 48×48 (thickness 320), media micro glass fiber, construction housing: galvanized_steel / stainless_steel, application cleanroom; MOQ 1 pcs. Define the cleanroom ISO class and airflow first, then specify entry and transfer equipment together with the ceiling FFU system.
 
-## OE 交叉参考
+## OE cross-reference
 
 `pending`
 
-## 技术参数 (spec)
+## Technical parameters (spec)
 
-| 参数 | 值 | 单位 | 状态 |
+| Parameter | Value | Unit | Status |
 |---|---|---|---|
 | `dimension` | `48×48 (thickness 320)` | `inch/mm` | verified |
 | `airflow` | `4000-5000` | `CMH` | verified |
@@ -29,24 +28,24 @@ Fan filter unit (FFU) at 48×48 inch, catalogued in the cleanroom-equipment cate
 | `efficiency_class` | `H10-H14/U15` | `pending` | verified |
 | `temperature_resistance` | `80` | `°C` | verified |
 
-## 材质 (material)
+## Material
 
-| 部件 | 材质 | 状态 |
+| Part | Material | Status |
 |---|---|---|
 | `housing` | `galvanized_steel / stainless_steel` | catalog-confirmed |
 
-## 滤材 (filter media)
+## Filter media
 
-- 类型：`micro_glass_fiber`
-- 效率等级：`H13/H14/U15`
-- 克重：`pending`
+- Type: `micro_glass_fiber`
+- Efficiency class: `H13/H14/U15`
+- Grammage: `pending`
 
-## 应用场景 (application)
+## Application
 
-| 场景 | 介质 | 状态 |
+| Application | Medium | Status |
 |---|---|---|
 | `cleanroom` | `cleanroom_ffu` | reference |
 
 ## MOQ
 
-`pending`
+`1 pcs` (reference)

@@ -2,47 +2,46 @@
 
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
-- **SKU**：`AIRY-AC-PANEL`
-- **品类**：[Activated Carbon Filters](activated-carbon-filter.md)
-- **来源站**：airyfilter.com
-- **来源 URL**：https://airyfilter.com/product/activated-carbon-panel-filter
-- **数据状态**：catalog-confirmed
+- **SKU**: `AIRY-AC-PANEL`
+- **Category**: [Activated Carbon Filters](activated-carbon-filter.md)
+- **Evidence source**: manufacturer catalog record
+- **Data status**: catalog-confirmed
 
-- **子类**：`panel`
-- **效率等级**：`60-65% arrestance`
+- **Subcategory**: `panel`
+- **Efficiency class**: `60-65% arrestance`
 
-## 描述
+## Description
 
-Activated-carbon panel filter for odour and chemical-vapour neutralisation, catalogued in the activated-carbon category. The source publishes six face sizes from 295×595×10 mm to 595×595×21 mm, airflow figures of 2000-3600 m³/h, pressure drops of 10-15 Pa and a 60-65% arrestance figure, with a 200-set MOQ. Carbon is contaminant-specific, so the target compound drives the media spec. From a sourcing perspective, buyers should name the target contaminant (odour, VOC or a specific vapour) and confirm the airflow and contact time. Request carbon weight and expected service life, which are not published here, before bulk ordering.
+Activated Carbon Panel Filter. Activated-carbon filter for odour and chemical-vapour removal. Typical parameters: efficiency 60-65% arrestance, dimension 595×595×10 / 495×595×10 / 295×595×10 / 595×595×21 / 495×595×21 / 295×595×21, media activated carbon, construction media: activated_carbon, application hvac; MOQ 200 set. Name the target contaminant and confirm airflow and contact time; request carbon weight and expected service life.
 
-## OE 交叉参考
+## OE cross-reference
 
 `pending`
 
-## 技术参数 (spec)
+## Technical parameters (spec)
 
-| 参数 | 值 | 单位 | 状态 |
+| Parameter | Value | Unit | Status |
 |---|---|---|---|
 | `dimension` | `595×595×10 / 495×595×10 / 295×595×10 / 595×595×21 / 495×595×21 / 295×595×21` | `mm` | verified |
 | `airflow` | `3400 / 3200 / 2000 / 3600 / 3400 / 2200` | `m³/h` | verified |
 | `pressure_drop` | `10 / 10 / 10 / 15 / 15 / 15` | `Pa` | verified |
 | `efficiency_percentage` | `60 / 60 / 60 / 65 / 65 / 65` | `%` | verified |
 
-## 材质 (material)
+## Material
 
-| 部件 | 材质 | 状态 |
+| Part | Material | Status |
 |---|---|---|
 | `media` | `activated_carbon` | catalog-confirmed |
 
-## 滤材 (filter media)
+## Filter media
 
-- 类型：`activated_carbon`
-- 效率等级：`pending`
-- 克重：`pending`
+- Type: `activated_carbon`
+- Efficiency class: `pending`
+- Grammage: `pending`
 
-## 应用场景 (application)
+## Application
 
-| 场景 | 介质 | 状态 |
+| Application | Medium | Status |
 |---|---|---|
 | `hvac` | `air` | reference |
 

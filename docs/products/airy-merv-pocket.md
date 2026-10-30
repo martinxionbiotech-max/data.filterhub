@@ -2,45 +2,44 @@
 
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
-- **SKU**：`AIRY-MERV-POCKET`
-- **品类**：[Pocket / Bag Filters](pocket-filter.md)
-- **来源站**：airyfilter.com
-- **来源 URL**：https://airyfilter.com/product/merv-5-14-fiberglass-pocket-air-filter-for-hvac-systems
-- **数据状态**：catalog-confirmed
+- **SKU**: `AIRY-MERV-POCKET`
+- **Category**: [Pocket / Bag Filters](pocket-filter.md)
+- **Evidence source**: manufacturer catalog record
+- **Data status**: catalog-confirmed
 
-- **效率等级**：`M5 / M6 / F7`
+- **Efficiency class**: `M5 / M6 / F7`
 
-## 描述
+## Description
 
-Fiberglass pocket air filter graded M5/M6/F7 (MERV 5-14 family), catalogued in the pocket-filter category. The source publishes pocket sizes of 287×595×550, 595×595×550 and 595×595×600 mm, airflow of 1000-2950 m³/h and pressure drops of 55-100 Pa, with a 200-set MOQ. Fiberglass pockets hold high dust capacity in a compact AHU frame. Our advice: confirm the grade against the AHU stage and the face dimensions and pocket count against the frame. Request initial pressure-drop and dust-holding data for life-cycle cost before bulk ordering.
+MERV 5-14 Fiberglass Pocket Air Filter. Pocket / bag filter for medium-to-fine HVAC filtration. Typical parameters: efficiency M5 / M6 / F7, dimension 287×595×550 / 595×595×550 / 595×595×600, media synthetic fiber, construction media: fiberglass, application hvac; MOQ 200 set. State airflow and pressure-drop budget, and confirm pocket depth and frame against the AHU before ordering.
 
-## OE 交叉参考
+## OE cross-reference
 
 `pending`
 
-## 技术参数 (spec)
+## Technical parameters (spec)
 
-| 参数 | 值 | 单位 | 状态 |
+| Parameter | Value | Unit | Status |
 |---|---|---|---|
 | `dimension` | `287×595×550 / 595×595×550 / 595×595×600` | `mm` | verified |
 | `airflow` | `1000-2950` | `m³/h` | verified |
 | `pressure_drop` | `55 / 70 / 100` | `Pa` | verified |
 
-## 材质 (material)
+## Material
 
-| 部件 | 材质 | 状态 |
+| Part | Material | Status |
 |---|---|---|
 | `media` | `fiberglass` | catalog-confirmed |
 
-## 滤材 (filter media)
+## Filter media
 
-- 类型：`synthetic_fiber`
-- 效率等级：`M5-M6-F7`
-- 克重：`pending`
+- Type: `synthetic_fiber`
+- Efficiency class: `M5-M6-F7`
+- Grammage: `pending`
 
-## 应用场景 (application)
+## Application
 
-| 场景 | 介质 | 状态 |
+| Application | Medium | Status |
 |---|---|---|
 | `hvac` | `air` | reference |
 

@@ -2,44 +2,45 @@
 
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
-- **SKU**：`AIRY-HT-SYNTHETIC`
-- **品类**：[Filter Media](filter-media.md)
-- **来源站**：airyfilter.com
-- **来源 URL**：https://airyfilter.com/product/high-temperature-synthetic-filter-media
-- **数据状态**：catalog-confirmed
+- **SKU**: `AIRY-HT-SYNTHETIC`
+- **Category**: [Filter Media](filter-media.md)
+- **Evidence source**: manufacturer catalog record
+- **Data status**: catalog-confirmed
 
-- **子类**：`synthetic_fiber`
-- **效率等级**：`G4`
+- **Subcategory**: `synthetic_fiber`
+- **Efficiency class**: `G4`
 
-## 描述
+## Description
 
-High-temperature synthetic filter media, catalogued in the filter-media category with a G4 grade. The source publishes 90/95% efficiency figures, an airflow of 5400 m³/h and dust-holding of 200/450 g/m², with a low 20-roll MOQ. Synthetic fibre adds strength and washability for general HVAC duty, distinct from the fiberglass high-temperature option. Our advice: specify the target grade and application, and confirm roll width and grammage. Request an efficiency curve for the target particle size before bulk ordering.
+High Temperature Synthetic Filter Media (AR-100). Filter media roll for filter manufacture and integrators. Typical parameters: efficiency G4, media synthetic fiber, construction media: synthetic fiber, application industrial; MOQ 20 roll. State roll width, grammage and any fire-rating requirement, and request an efficiency curve for the target particle size.
 
-## OE 交叉参考
+## OE cross-reference
 
 `pending`
 
-## 技术参数 (spec)
+## Technical parameters (spec)
 
-| 参数 | 值 | 单位 | 状态 |
+| Parameter | Value | Unit | Status |
 |---|---|---|---|
 | `efficiency_percentage` | `90 / 95` | `%` | verified |
 | `airflow` | `5400` | `m³/h` | verified |
 | `dust_holding` | `200 / 450` | `g/m²` | verified |
 
-## 材质 (material)
+## Material
 
-`pending`
+| Part | Material | Status |
+|---|---|---|
+| `media` | `synthetic fiber` | reference |
 
-## 滤材 (filter media)
+## Filter media
 
-- 类型：`synthetic_fiber`
-- 效率等级：`G4`
-- 克重：`pending`
+- Type: `synthetic_fiber`
+- Efficiency class: `G4`
+- Grammage: `pending`
 
-## 应用场景 (application)
+## Application
 
-| 场景 | 介质 | 状态 |
+| Application | Medium | Status |
 |---|---|---|
 | `industrial` | `air` | reference |
 

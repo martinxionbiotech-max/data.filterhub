@@ -2,42 +2,48 @@
 
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
-- **SKU**：`KLC-FFU`
-- **品类**：[Cleanroom Equipment](cleanroom-equipment.md)
-- **来源站**：klcintl.com
-- **来源 URL**：https://www.klcintl.com/fan-filter-unit-ffu
-- **数据状态**：catalog-confirmed
+- **SKU**: `KLC-FFU`
+- **Category**: [Cleanroom Equipment](cleanroom-equipment.md)
+- **Evidence source**: manufacturer catalog record
+- **Data status**: catalog-confirmed
 
-- **子类**：`ffu`
+- **Subcategory**: `ffu`
+- **Efficiency class**: `H13/H14 (configurable)`
 
-## 描述
+## Description
 
-Cleanroom AC/EC fan filter unit (FFU), catalogued in the cleanroom-equipment category with a galvanised-steel or stainless housing. The source confirms the AC/EC motor option and the housing materials but publishes no size, airflow, efficiency or voltage figure. An FFU generates ceiling-down laminar airflow, so sizing follows the room coverage and cleanliness class. From a sourcing perspective, buyers should confirm the cleanroom ISO class and the required airflow and coverage, and specify AC or EC motor and voltage. Request dimensions before ordering.
+Clean Room AC/EC Fan Filter Unit (FFU). Cleanroom equipment for contamination-controlled environments. Typical parameters: efficiency H13/H14 (configurable), dimension 1175×575×320 (FFU), media micro glass fiber, construction housing: galvanized_steel / stainless_steel, application cleanroom; MOQ 1 pcs. Define the cleanroom ISO class and airflow first, then specify entry and transfer equipment together with the ceiling FFU system.
 
-## OE 交叉参考
-
-`pending`
-
-## 技术参数 (spec)
+## OE cross-reference
 
 `pending`
 
-## 材质 (material)
+## Technical parameters (spec)
 
-| 部件 | 材质 | 状态 |
+| Parameter | Value | Unit | Status |
+|---|---|---|---|
+| `dimension` | `1175×575×320 (FFU)` | `mm` | reference |
+| `cleanliness_class` | `Class 100 / ISO 5` | `pending` | reference |
+| `efficiency_class` | `H13/H14` | `pending` | reference |
+
+## Material
+
+| Part | Material | Status |
 |---|---|---|
 | `housing` | `galvanized_steel / stainless_steel` | catalog-confirmed |
 
-## 滤材 (filter media)
+## Filter media
 
-`pending`
+- Type: `micro_glass_fiber`
+- Efficiency class: `H13/H14`
+- Grammage: `pending`
 
-## 应用场景 (application)
+## Application
 
-| 场景 | 介质 | 状态 |
+| Application | Medium | Status |
 |---|---|---|
 | `cleanroom` | `cleanroom_ffu` | reference |
 
 ## MOQ
 
-`pending`
+`1 pcs` (reference)

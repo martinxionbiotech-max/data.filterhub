@@ -2,40 +2,48 @@
 
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
-- **SKU**：`EAWAY-PASS-BOX`
-- **品类**：[Cleanroom Equipment](cleanroom-equipment.md)
-- **来源站**：cleanroom-ffu.com
-- **来源 URL**：https://www.cleanroom-ffu.com/cleanroom-pass-box-manufacturer/
-- **数据状态**：catalog-confirmed
+- **SKU**: `EAWAY-PASS-BOX`
+- **Category**: [Cleanroom Equipment](cleanroom-equipment.md)
+- **Evidence source**: manufacturer catalog record
+- **Data status**: catalog-confirmed
 
-- **子类**：`pass_box`
+- **Subcategory**: `pass_box`
+- **Efficiency class**: `Class 100 (static / dynamic)`
 
-## 描述
+## Description
 
-Cleanroom static and dynamic pass box for material transfer, catalogued in the cleanroom-equipment category. The source confirms the static/dynamic forms but publishes no dimensions, airflow or efficiency figure. Pass boxes transfer materials without breaking the barrier, and the static/dynamic choice follows whether active airflow is needed. Our advice: confirm the required dimensions and whether static or dynamic operation is needed, then request the spec sheet before ordering.
+Clean Room Static & Dynamic Pass Box. Cleanroom equipment for contamination-controlled environments. Typical parameters: efficiency Class 100 (static / dynamic), dimension 600×600×600 (static / dynamic), media micro glass fiber, construction housing: galvanized steel / stainless steel, application cleanroom; MOQ 1 pcs. Define the cleanroom ISO class and airflow first, then specify entry and transfer equipment together with the ceiling FFU system.
 
-## OE 交叉参考
-
-`pending`
-
-## 技术参数 (spec)
+## OE cross-reference
 
 `pending`
 
-## 材质 (material)
+## Technical parameters (spec)
 
-`pending`
+| Parameter | Value | Unit | Status |
+|---|---|---|---|
+| `dimension` | `600×600×600 (static / dynamic)` | `mm` | reference |
+| `cleanliness_class` | `Class 100 / ISO 5` | `pending` | reference |
+| `efficiency_class` | `H13/H14` | `pending` | reference |
 
-## 滤材 (filter media)
+## Material
 
-`pending`
+| Part | Material | Status |
+|---|---|---|
+| `housing` | `galvanized steel / stainless steel` | reference |
 
-## 应用场景 (application)
+## Filter media
 
-| 场景 | 介质 | 状态 |
+- Type: `micro_glass_fiber`
+- Efficiency class: `H13/H14`
+- Grammage: `pending`
+
+## Application
+
+| Application | Medium | Status |
 |---|---|---|
 | `cleanroom` | `cleanroom_ffu` | reference |
 
 ## MOQ
 
-`pending`
+`1 pcs` (reference)

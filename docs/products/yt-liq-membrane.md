@@ -2,50 +2,49 @@
 
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
-- **SKU**：`YT-LIQ-MEMBRANE`
-- **品类**：[Liquid Filter Cartridges](liquid-filter.md)
-- **来源站**：yitong-filter.com
-- **来源 URL**：https://www.yitong-filter.com/
-- **数据状态**：catalog-confirmed
+- **SKU**: `YT-LIQ-MEMBRANE`
+- **Category**: [Liquid Filter Cartridges](liquid-filter.md)
+- **Evidence source**: manufacturer catalog record
+- **Data status**: catalog-confirmed
 
-- **子类**：`membrane`
-- **效率等级**：`—`
+- **Subcategory**: `membrane`
+- **Efficiency class**: `—`
 
-## 描述
+## Description
 
-Liquid filtration membrane cartridge with PP, PVDF or PTFE membrane, catalogued in the liquid-filter category. The source publishes lengths of 5-70 inch, membrane options (PP/PVDF/PTFE/NL/GF/PET), core materials (PP/PET/PTFE/PVDF), end-caps (215/222/Flat 222/High 222/226/DOE) and O-ring materials (silicon/EPDM/Viton/FEP). Membrane choice follows the fluid chemistry and temperature before micron rating is even considered. Our advice: name the fluid, temperature and chemical compatibility, then confirm the micron rating, flow rate and end-cap style before bulk ordering.
+Liquid Filtration Membrane Cartridge (PP/PVDF/PTFE). Liquid filter cartridge for process-fluid filtration. Typical parameters: efficiency —, dimension 5/10/20/30/40/70, media membrane, construction membrane: PP/PVDF/PTFE/NL/GF/PET, core: PP/PET/PTFE/PVDF, end_cap: 215/222/Flat 222/High 222/226/DOE, o_ring: Silicon/EPDM/Viton/FEP, application water; MOQ 10 pcs. State the fluid, temperature, flow rate and target micron rating, and confirm chemical compatibility of media and seals.
 
-## OE 交叉参考
+## OE cross-reference
 
 `pending`
 
-## 技术参数 (spec)
+## Technical parameters (spec)
 
-| 参数 | 值 | 单位 | 状态 |
+| Parameter | Value | Unit | Status |
 |---|---|---|---|
 | `dimension` | `5/10/20/30/40/70` | `inch` | verified |
 
-## 材质 (material)
+## Material
 
-| 部件 | 材质 | 状态 |
+| Part | Material | Status |
 |---|---|---|
 | `membrane` | `PP/PVDF/PTFE/NL/GF/PET` | catalog-confirmed |
 | `core` | `PP/PET/PTFE/PVDF` | catalog-confirmed |
 | `end_cap` | `215/222/Flat 222/High 222/226/DOE` | catalog-confirmed |
 | `o_ring` | `Silicon/EPDM/Viton/FEP` | catalog-confirmed |
 
-## 滤材 (filter media)
+## Filter media
 
-- 类型：`membrane`
-- 效率等级：`pending`
-- 克重：`pending`
+- Type: `membrane`
+- Efficiency class: `pending`
+- Grammage: `pending`
 
-## 应用场景 (application)
+## Application
 
-| 场景 | 介质 | 状态 |
+| Application | Medium | Status |
 |---|---|---|
 | `water` | `air` | reference |
 
 ## MOQ
 
-`pending`
+`10 pcs` (reference)

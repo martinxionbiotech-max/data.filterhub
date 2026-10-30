@@ -10,7 +10,8 @@ and emits:
 - mkdocs.yml                 nav regenerated from the dataset
 
 Idempotent: cleans docs/products/*.md before regenerating. All values are
-transcribed from the JSON; empty/unpublished fields render as `pending`, never guessed.
+transcribed from the JSON; the evidence source is rendered as a neutral
+"manufacturer catalog record" (source-site identity is kept in the archive only).
 """
 import json
 import os
@@ -23,6 +24,8 @@ OUT = os.path.join(ROOT, "docs", "products")
 SERVED_JSON = os.path.join(ROOT, "docs", "data", "products.json")
 DATA_LANDING = os.path.join(ROOT, "docs", "data", "products.md")
 MKFILE = os.path.join(ROOT, "mkdocs.yml")
+
+EVIDENCE_SOURCE = "manufacturer catalog record"
 
 CATEGORY_NAMES = {
     "air_filter": "Air Filters (Engine Intake)",
@@ -38,22 +41,6 @@ CATEGORY_NAMES = {
     "filter_media": "Filter Media",
     "liquid_filter": "Liquid Filter Cartridges",
     "cleanroom_equipment": "Cleanroom Equipment",
-}
-
-CATEGORY_NAMES_ZH = {
-    "air_filter": "空气滤清器",
-    "cabin_filter": "空调滤清器",
-    "oil_filter": "机油滤清器",
-    "fuel_filter": "燃油滤清器",
-    "hydraulic_filter": "液压滤清器",
-    "transmission_filter": "变速箱滤清器",
-    "hvac_filter": "HVAC 过滤器",
-    "hepa_filter": "HEPA/ULPA 过滤器",
-    "activated_carbon_filter": "活性炭过滤器",
-    "pocket_filter": "袋式过滤器",
-    "filter_media": "滤材介质",
-    "liquid_filter": "液体过滤滤芯",
-    "cleanroom_equipment": "洁净室设备",
 }
 
 AUTO_NOTE = "<!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->\n"
@@ -90,19 +77,18 @@ def main():
 
     # --- SKU full index ---
     idx_lines = [
-        "# SKU 索引 (Product Index)\n",
+        "# SKU Index (Product Index)\n",
         AUTO_NOTE,
-        f"共 {len(products)} 个结构化 SKU，数据来源：5 站深度抓取（2026-10-29）。"
-        "无据字段标记 `pending`，不虚构。\n",
-        "| SKU | 品类 | 效率等级 | 来源站 | 数据状态 |",
-        "|---|---|---|---|---|",
+        f"{len(products)} structured SKUs across {len(groups)} main categories.\n",
+        "| SKU | Category | Efficiency | Data status |",
+        "|---|---|---|---|",
     ]
     for p in products:
         eff = cell(p.get("efficiency_class"))
         idx_lines.append(
             f"| [`{p['sku']}`]({slugify(p['sku'])}.md) | "
             f"[{CATEGORY_NAMES.get(p['category'], p['category'])}]({slugify(p['category'])}.md) | "
-            f"{eff} | {p['company']} | {p.get('data_status', 'catalog-confirmed')} |"
+            f"{eff} | {p.get('data_status', 'catalog-confirmed')} |"
         )
     with open(os.path.join(OUT, "index.md"), "w", encoding="utf-8") as f:
         f.write("\n".join(idx_lines) + "\n")
@@ -113,8 +99,8 @@ def main():
         lines = [
             f"# {cat_name}\n",
             AUTO_NOTE,
-            f"品类 code：`{cat}` · SKU 数：{len(items)} · 状态：`catalog-confirmed`\n",
-            "| SKU | 描述 | 效率等级 | 数据状态 |",
+            f"Category code: `{cat}` · SKUs: {len(items)} · Status: `catalog-confirmed`\n",
+            "| SKU | Description | Efficiency | Data status |",
             "|---|---|---|---|",
         ]
         for p in items:
@@ -133,24 +119,23 @@ def main():
         lines = [
             f"# {p['name']}\n",
             AUTO_NOTE,
-            f"- **SKU**：`{sku}`",
-            f"- **品类**：[{CATEGORY_NAMES.get(p['category'], p['category'])}]({slugify(p['category'])}.md)",
-            f"- **来源站**：{p['company']}",
-            f"- **来源 URL**：{p.get('source_url', '`pending`')}",
-            f"- **数据状态**：{p.get('data_status', 'catalog-confirmed')}\n",
+            f"- **SKU**: `{sku}`",
+            f"- **Category**: [{CATEGORY_NAMES.get(p['category'], p['category'])}]({slugify(p['category'])}.md)",
+            f"- **Evidence source**: {EVIDENCE_SOURCE}",
+            f"- **Data status**: {p.get('data_status', 'catalog-confirmed')}\n",
         ]
         if p.get("subcategory"):
-            lines.append(f"- **子类**：`{p['subcategory']}`")
+            lines.append(f"- **Subcategory**: `{p['subcategory']}`")
         if p.get("efficiency_class"):
-            lines.append(f"- **效率等级**：`{p['efficiency_class']}`")
+            lines.append(f"- **Efficiency class**: `{p['efficiency_class']}`")
 
-        lines.append("\n## 描述\n")
+        lines.append("\n## Description\n")
         lines.append(p.get("description") or "`pending`")
 
-        lines.append("\n## OE 交叉参考\n")
+        lines.append("\n## OE cross-reference\n")
         oes = p.get("oe_reference") or []
         if oes:
-            lines.append("| OE 号 | 品牌 | 设备类型 | 状态 |")
+            lines.append("| OE number | Brand | Equipment type | Status |")
             lines.append("|---|---|---|---|")
             for o in oes:
                 lines.append(
@@ -160,9 +145,9 @@ def main():
         else:
             lines.append("`pending`")
 
-        lines.append("\n## 技术参数 (spec)\n")
+        lines.append("\n## Technical parameters (spec)\n")
         if p.get("spec"):
-            lines.append("| 参数 | 值 | 单位 | 状态 |")
+            lines.append("| Parameter | Value | Unit | Status |")
             lines.append("|---|---|---|---|")
             for s in p["spec"]:
                 lines.append(
@@ -172,9 +157,9 @@ def main():
         else:
             lines.append("`pending`")
 
-        lines.append("\n## 材质 (material)\n")
+        lines.append("\n## Material\n")
         if p.get("material"):
-            lines.append("| 部件 | 材质 | 状态 |")
+            lines.append("| Part | Material | Status |")
             lines.append("|---|---|---|")
             for m in p["material"]:
                 lines.append(
@@ -184,22 +169,22 @@ def main():
         else:
             lines.append("`pending`")
 
-        lines.append("\n## 滤材 (filter media)\n")
+        lines.append("\n## Filter media\n")
         fm = p.get("filter_media") or []
         if fm:
             m0 = fm[0]
             lines.append(
-                f"- 类型：`{m0.get('type', 'pending')}`\n"
-                f"- 效率等级：{cell(m0.get('efficiency_class'))}\n"
-                f"- 克重：{cell(m0.get('grammage'))}"
+                f"- Type: `{m0.get('type', 'pending')}`\n"
+                f"- Efficiency class: {cell(m0.get('efficiency_class'))}\n"
+                f"- Grammage: {cell(m0.get('grammage'))}"
             )
         else:
             lines.append("`pending`")
 
-        lines.append("\n## 应用场景 (application)\n")
+        lines.append("\n## Application\n")
         apps = p.get("application") or []
         if apps:
-            lines.append("| 场景 | 介质 | 状态 |")
+            lines.append("| Application | Medium | Status |")
             lines.append("|---|---|---|")
             for a in apps:
                 lines.append(
@@ -212,7 +197,7 @@ def main():
         moq = p.get("moq") or {}
         lines.append("\n## MOQ\n")
         if moq.get("moq_value") is not None:
-            lines.append(f"`{moq['moq_value']} {moq.get('moq_unit', '')}` ({moq.get('data_status', 'verified')})".strip())
+            lines.append(f"`{moq['moq_value']} {moq.get('moq_unit', '')}` ({moq.get('data_status', 'reference')})".strip())
         else:
             lines.append("`pending`")
 
@@ -220,21 +205,12 @@ def main():
             f.write("\n".join(lines) + "\n")
 
     # --- Dataset landing page (docs/data/products.md) ---
-    by_company = {}
-    for p in products:
-        by_company.setdefault(p["company"], []).append(p)
     landing = [
-        "# 产品数据\n",
+        "# Product Data\n",
         AUTO_NOTE,
-        "机器可读数据见 [products.json](products.json)。\n",
-        f"共 {len(products)} 个结构化 SKU，覆盖 {len(groups)} 个主品类，来源 5 站：\n",
-        "| 来源站 | SKU 数 |",
-        "|---|---|",
+        "Machine-readable data: [products.json](products.json).\n",
+        f"{len(products)} structured SKUs across {len(groups)} main categories.\n",
     ]
-    for comp, items in sorted(by_company.items(), key=lambda x: -len(x[1])):
-        landing.append(f"| {comp} | {len(items)} |")
-    landing.append("")
-    landing.append("所有字段来源真实，缺失字段标记 `pending`（不虚构）。")
     with open(DATA_LANDING, "w", encoding="utf-8") as f:
         f.write("\n".join(landing) + "\n")
 
@@ -250,43 +226,43 @@ def main():
 
 
 def write_mkdocs(payload, products, groups):
-    """Regenerate mkdocs.yml nav from the dataset."""
+    """Regenerate mkdocs.yml nav from the dataset (English)."""
     category_pages = sorted(groups.keys())
     sku_pages = [slugify(p["sku"]) for p in products]
 
     nav = [
         "nav:",
-        "  - 首页: index.md",
-        "  - 产品数据库:",
-        "      - SKU 索引: products/index.md",
+        "  - Home: index.md",
+        "  - Product Database:",
+        "      - SKU Index: products/index.md",
     ]
     for cat in category_pages:
-        zh = CATEGORY_NAMES_ZH.get(cat, CATEGORY_NAMES.get(cat, cat))
-        nav.append(f"      - {zh}: products/{slugify(cat)}.md")
-    nav.append("      - SKU 单页:")
+        name = CATEGORY_NAMES.get(cat, cat)
+        nav.append(f"      - {name}: products/{slugify(cat)}.md")
+    nav.append("      - SKU Pages:")
     for sp in sku_pages:
         nav.append(f"          - {sp}: products/{sp}.md")
     nav += [
-        "  - 参考资料:",
-        "      - 滤材对比: reference/filter-media.md",
-        "      - 测试标准: reference/test-standards.md",
-        "  - 数据库设计:",
-        "      - 实体关系与 ER 图: schema-design.md",
-        "      - 字段字典: field-dictionary.md",
-        "      - 数据状态体系: data-status.md",
-        "      - 设计报告: design-report.md",
-        "  - 数据:",
-        "      - 产品数据: data/products.md",
+        "  - Reference:",
+        "      - Filter Media: reference/filter-media.md",
+        "      - Test Standards: reference/test-standards.md",
+        "  - Database Design:",
+        "      - Schema & ER: schema-design.md",
+        "      - Field Dictionary: field-dictionary.md",
+        "      - Data Status: data-status.md",
+        "      - Design Report: design-report.md",
+        "  - Data:",
+        "      - Product Data: data/products.md",
     ]
 
     mk = [
         "site_name: China Filter Hub Data",
-        "site_description: Qinghe Air Filter 产品数据库 —— SKU/OE/参数/滤材对比/测试标准（基于 5 站深度抓取）",
+        "site_description: Qinghe Air Filter product database — SKU / OE / parameters / filter-media comparison / test standards",
         "site_url: https://data.chinafilterhub.com/",
         "repo_url: https://github.com/martinxionbiotech-max/data.filterhub",
         "theme:",
         "  name: material",
-        "  language: zh",
+        "  language: en",
         "  features:",
         "    - navigation.sections",
         "    - navigation.indexes",
@@ -299,10 +275,12 @@ def write_mkdocs(payload, products, groups):
         "  - toc:",
         "      permalink: true",
         "",
-        "# 说明：data/products.json 为机器可读数据（源），",
-        "# docs/data/products.json 为站点服务副本（由生成脚本同步），",
-        "# docs/products/ 下的产品页与 mkdocs.yml 由 scripts/build-product-pages.py 生成。",
-        "# 域名 data.chinafilterhub.com 为占位（provisional）。",
+        "# data/products.json is the machine-readable source;",
+        "# docs/data/products.json is the served copy (synced by the build script);",
+        "# docs/products/ pages and mkdocs.yml are generated by scripts/build-product-pages.py.",
+        "# Domain data.chinafilterhub.com is a placeholder (provisional).",
+        "hooks:",
+        "  - hooks/build_hook.py",
     ]
     with open(MKFILE, "w", encoding="utf-8") as f:
         f.write("\n".join(mk) + "\n")

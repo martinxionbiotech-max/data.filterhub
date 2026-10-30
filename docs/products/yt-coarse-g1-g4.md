@@ -2,43 +2,48 @@
 
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
-- **SKU**：`YT-COARSE-G1-G4`
-- **品类**：[HVAC Filters](hvac-filter.md)
-- **来源站**：yitong-filter.com
-- **来源 URL**：https://www.yitong-filter.com/index.php/products/coarse-filters.html
-- **数据状态**：catalog-confirmed
+- **SKU**: `YT-COARSE-G1-G4`
+- **Category**: [HVAC Filters](hvac-filter.md)
+- **Evidence source**: manufacturer catalog record
+- **Data status**: catalog-confirmed
 
-- **子类**：`pre`
-- **效率等级**：`G1-G4`
+- **Subcategory**: `pre`
+- **Efficiency class**: `G1-G4`
 
-## 描述
+## Description
 
-Coarse ventilation filter graded G1-G4 (ISO 16890), catalogued in the HVAC category with synthetic media. The source confirms the G1-G4 grade range and the ISO 16890 reference but publishes no face size, airflow or pressure-drop figure. The coarse stage captures large particles and protects downstream media. Our advice: confirm the exact grade and face size, and request pressure-drop and dust-holding data for energy-cost comparison before bulk ordering.
+Coarse Ventilation Filter G1-G4. HVAC / ventilation air filter for general air-handling duty. Typical parameters: efficiency G1-G4, dimension 595×595×45, media synthetic fiber, construction media: synthetic fiber, frame: cardboard / metal, application hvac; MOQ 200 set. State airflow, pressure-drop budget and the governing efficiency standard, then confirm frame and pocket depth against the AHU.
 
-## OE 交叉参考
-
-`pending`
-
-## 技术参数 (spec)
+## OE cross-reference
 
 `pending`
 
-## 材质 (material)
+## Technical parameters (spec)
 
-`pending`
+| Parameter | Value | Unit | Status |
+|---|---|---|---|
+| `dimension` | `595×595×45` | `mm` | reference |
+| `efficiency_class` | `G4` | `pending` | reference |
 
-## 滤材 (filter media)
+## Material
 
-- 类型：`synthetic_fiber`
-- 效率等级：`G1-G4`
-- 克重：`pending`
+| Part | Material | Status |
+|---|---|---|
+| `media` | `synthetic fiber` | reference |
+| `frame` | `cardboard / metal` | reference |
 
-## 应用场景 (application)
+## Filter media
 
-| 场景 | 介质 | 状态 |
+- Type: `synthetic_fiber`
+- Efficiency class: `G1-G4`
+- Grammage: `pending`
+
+## Application
+
+| Application | Medium | Status |
 |---|---|---|
 | `hvac` | `air` | reference |
 
 ## MOQ
 
-`pending`
+`200 set` (reference)

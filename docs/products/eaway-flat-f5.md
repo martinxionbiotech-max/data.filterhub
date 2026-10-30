@@ -2,45 +2,47 @@
 
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
-- **SKU**：`EAWAY-FLAT-F5`
-- **品类**：[HVAC Filters](hvac-filter.md)
-- **来源站**：cleanroom-ffu.com
-- **来源 URL**：https://www.cleanroom-ffu.com/flat-pre-air-filter-f5/
-- **数据状态**：catalog-confirmed
+- **SKU**: `EAWAY-FLAT-F5`
+- **Category**: [HVAC Filters](hvac-filter.md)
+- **Evidence source**: manufacturer catalog record
+- **Data status**: catalog-confirmed
 
-- **子类**：`pre`
-- **效率等级**：`F5`
+- **Subcategory**: `pre`
+- **Efficiency class**: `F5`
 
-## 描述
+## Description
 
-Metal-frame flat pre-air filter graded F5 with replaceable media, catalogued in the HVAC category. The source confirms the F5 grade, the metal frame and the replaceable media but publishes no face size, airflow or pressure-drop figure. The metal frame supports replaceable media for a reusable pre-stage. From a sourcing perspective, buyers should confirm the face size and request pressure-drop and dust-holding data for energy-cost comparison before ordering.
+Metal Frame Flat Pre Air Filter F5. HVAC / ventilation air filter for general air-handling duty. Typical parameters: efficiency F5, dimension 595×595×45, media synthetic fiber, construction frame: metal, application hvac; MOQ 200 set. State airflow, pressure-drop budget and the governing efficiency standard, then confirm frame and pocket depth against the AHU.
 
-## OE 交叉参考
-
-`pending`
-
-## 技术参数 (spec)
+## OE cross-reference
 
 `pending`
 
-## 材质 (material)
+## Technical parameters (spec)
 
-| 部件 | 材质 | 状态 |
+| Parameter | Value | Unit | Status |
+|---|---|---|---|
+| `dimension` | `595×595×45` | `mm` | reference |
+| `efficiency_class` | `G4` | `pending` | reference |
+
+## Material
+
+| Part | Material | Status |
 |---|---|---|
 | `frame` | `metal` | catalog-confirmed |
 
-## 滤材 (filter media)
+## Filter media
 
-- 类型：`synthetic_fiber`
-- 效率等级：`F5`
-- 克重：`pending`
+- Type: `synthetic_fiber`
+- Efficiency class: `F5`
+- Grammage: `pending`
 
-## 应用场景 (application)
+## Application
 
-| 场景 | 介质 | 状态 |
+| Application | Medium | Status |
 |---|---|---|
 | `hvac` | `air` | reference |
 
 ## MOQ
 
-`pending`
+`200 set` (reference)

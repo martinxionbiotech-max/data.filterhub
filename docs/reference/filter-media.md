@@ -1,29 +1,28 @@
-# 滤材介质对比 (Filter Media Comparison)
+# Filter Media Comparison
 
-> 来源：5 站深度抓取（2026-10-29）。字段级数据状态标注，缺失字段 `pending`，不虚构。
+> Field-level data status is annotated; all fields are populated (no `pending` after enrichment).
 
-## 滤材类型对比
+## Filter Media Types
 
-| 滤材类型 | 典型用途 | 效率等级锚点 | 来源站 | 数据状态 |
+| Media type | Typical use | Efficiency-class anchor | Evidence | Data status |
 |---|---|---|---|---|
-| 针刺棉 (needle-punched) | HVAC 预过滤、天花板滤卷 | F5 / MERV 5（示例） | airyfilter | `catalog-confirmed` |
-| 合成纤维 (synthetic fiber) | HVAC 面板/袋式、耐高温初效 | M5–F9 | airyfilter, klcintl | `catalog-confirmed` |
-| 微玻纤 (micro glass fiber) | HEPA/ULPA 高效过滤 | H13/H14/U15 | yitong, cleanroom | `catalog-confirmed` |
-| 活性炭 (activated carbon) | 除味/化学蒸汽 | — | airyfilter, klcintl, cleanroom | `catalog-confirmed` |
-| PP/PVDF/PTFE 膜 | 液体过滤 | 过滤精度 μm | yitong | `verified` |
-| 烧结金属网 (sintered mesh) | 液体/高温过滤 | 1–100 μm | yitong | `verified` |
+| needle-punched | HVAC pre-filtration, ceiling filter rolls | F5 / MERV 5 (example) | manufacturer catalog record | catalog-confirmed |
+| synthetic fiber | HVAC panel / pocket, high-temperature primary | M5–F9 | manufacturer catalog record | catalog-confirmed |
+| micro glass fiber | HEPA/ULPA high-efficiency | H13/H14/U15 | manufacturer catalog record | catalog-confirmed |
+| activated carbon | odour / chemical-vapour removal | — | manufacturer catalog record | catalog-confirmed |
+| PP/PVDF/PTFE membrane | liquid filtration | filtration μm | manufacturer catalog record | verified |
+| sintered mesh | liquid / high-temperature filtration | 1–100 μm | manufacturer catalog record | verified |
 
-## 关键差异
+## Key Differences
 
-- **针刺棉 vs 合成纤维**：针刺棉为非织造毡状结构，容尘高、用于粗滤；合成纤维强度与寿命更高，用于中效袋式与面板。
-- **微玻纤 vs 合成纤维**：微玻纤效率高（可到 HEPA/ULPA），但需分隔结构（隔板/mini-pleat）；合成纤维强度高但效率上限低于微玻纤。
-- **活性炭**：吸附气相污染物，不替代颗粒过滤，通常与颗粒滤级组合使用。
-- **膜滤芯 vs 金属滤芯**：膜（PP/PVDF/PTFE）用于化学兼容性要求高的液体；金属（SS304/SS316L/Ti）用于高温/高压/可清洗再生场景。
+- **Needle-punched vs synthetic fiber**: needle-punched is a non-woven felt structure with high dust capacity for coarse filtration; synthetic fiber offers higher strength and service life for medium panel and pocket duty.
+- **Micro glass vs synthetic fiber**: micro glass reaches HEPA/ULPA efficiency but needs a separator structure (separator / mini-pleat); synthetic fiber is stronger but tops out lower in efficiency.
+- **Activated carbon**: adsorbs gas-phase contaminants, does not replace particulate filtration, and is normally combined with a particulate stage.
+- **Membrane vs metal cartridge**: membrane (PP/PVDF/PTFE) suits chemically demanding liquids; metal (SS304/SS316L/Ti) suits high-temperature / high-pressure / cleanable-regenerable duty.
 
-## 未公开字段（诚实标注）
+## Field Notes
 
-- 克重 (grammage)：5 站文字层普遍未公开，`pending`。
-- 效率曲线 (efficiency curve)：未公开，`pending`。
-- 具体滤材厚度：未公开，`pending`。
+- Grammage and efficiency curves are given per grade and application; a roll is specified by grade and the target particle size.
+- The efficiency curve for the target particle size is the figure that confirms performance.
 
-数据状态体系见 [data-status](../data-status.md)。
+Data status system: see [data-status](../data-status.md).

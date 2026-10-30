@@ -2,47 +2,46 @@
 
 <!-- AUTO-GENERATED: edit the dataset (data/products.json), then rerun scripts/build-product-pages.py. Do not hand-edit values. -->
 
-- **SKU**：`AIRY-AC-POCKET`
-- **品类**：[Activated Carbon Filters](activated-carbon-filter.md)
-- **来源站**：airyfilter.com
-- **来源 URL**：https://airyfilter.com/product/activated-carbon-pocket-filter
-- **数据状态**：catalog-confirmed
+- **SKU**: `AIRY-AC-POCKET`
+- **Category**: [Activated Carbon Filters](activated-carbon-filter.md)
+- **Evidence source**: manufacturer catalog record
+- **Data status**: catalog-confirmed
 
-- **子类**：`pocket`
-- **效率等级**：`G3 / G4 / F5`
+- **Subcategory**: `pocket`
+- **Efficiency class**: `G3 / G4 / F5`
 
-## 描述
+## Description
 
-Activated-carbon pocket filter for high-capacity dust retention and odour removal, catalogued in the activated-carbon category with a G3/G4/F5 grade range. The source publishes three pocket sizes (287×592×600, 490×592×600, 592×592×600 mm), airflow of 1700-4250 m³/h and pressure drops of 20-60 Pa, with a 200-set MOQ and a choice of aluminium, galvanised steel, stainless or plastic frames. Carbon is contaminant-specific, so the target compound drives media choice. Our advice: name the target contaminant and confirm airflow and contact time, then request carbon weight and service life, which are not published here.
+Activated Carbon Pocket Filter. Activated-carbon filter for odour and chemical-vapour removal. Typical parameters: efficiency G3 / G4 / F5, dimension 287×592×600 / 490×592×600 / 592×592×600, media activated carbon, construction media: activated_carbon, frame: aluminum / galvanized steel / stainless steel / plastic, application hvac; MOQ 200 set. Name the target contaminant and confirm airflow and contact time; request carbon weight and expected service life.
 
-## OE 交叉参考
+## OE cross-reference
 
 `pending`
 
-## 技术参数 (spec)
+## Technical parameters (spec)
 
-| 参数 | 值 | 单位 | 状态 |
+| Parameter | Value | Unit | Status |
 |---|---|---|---|
 | `dimension` | `287×592×600 / 490×592×600 / 592×592×600` | `mm` | verified |
 | `airflow` | `1700-4250` | `m³/h` | verified |
 | `pressure_drop` | `20 / 50 / 60` | `Pa` | verified |
 
-## 材质 (material)
+## Material
 
-| 部件 | 材质 | 状态 |
+| Part | Material | Status |
 |---|---|---|
 | `media` | `activated_carbon` | catalog-confirmed |
 | `frame` | `aluminum / galvanized steel / stainless steel / plastic` | catalog-confirmed |
 
-## 滤材 (filter media)
+## Filter media
 
-- 类型：`activated_carbon`
-- 效率等级：`G3-G4-F5`
-- 克重：`pending`
+- Type: `activated_carbon`
+- Efficiency class: `G3-G4-F5`
+- Grammage: `pending`
 
-## 应用场景 (application)
+## Application
 
-| 场景 | 介质 | 状态 |
+| Application | Medium | Status |
 |---|---|---|
 | `hvac` | `air` | reference |
 
