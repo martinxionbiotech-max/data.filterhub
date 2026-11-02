@@ -1709,7 +1709,7 @@
         {
           "spec_key": "removal_rating",
           "spec_value": "4-10",
-          "unit": "um",
+          "unit": "μm",
           "data_status": "reference"
         },
         {
@@ -1791,7 +1791,7 @@
         {
           "spec_key": "removal_rating",
           "spec_value": "4-10",
-          "unit": "um",
+          "unit": "μm",
           "data_status": "reference"
         },
         {
@@ -1873,7 +1873,7 @@
         {
           "spec_key": "removal_rating",
           "spec_value": "4-10",
-          "unit": "um",
+          "unit": "μm",
           "data_status": "reference"
         },
         {
@@ -1955,7 +1955,7 @@
         {
           "spec_key": "removal_rating",
           "spec_value": "4-10",
-          "unit": "um",
+          "unit": "μm",
           "data_status": "reference"
         },
         {
@@ -2037,7 +2037,7 @@
         {
           "spec_key": "removal_rating",
           "spec_value": "4-10",
-          "unit": "um",
+          "unit": "μm",
           "data_status": "reference"
         },
         {
@@ -2119,7 +2119,7 @@
         {
           "spec_key": "removal_rating",
           "spec_value": "4-10",
-          "unit": "um",
+          "unit": "μm",
           "data_status": "reference"
         },
         {
@@ -2201,7 +2201,7 @@
         {
           "spec_key": "removal_rating",
           "spec_value": "4-10",
-          "unit": "um",
+          "unit": "μm",
           "data_status": "reference"
         },
         {
@@ -2283,7 +2283,7 @@
         {
           "spec_key": "removal_rating",
           "spec_value": "4-10",
-          "unit": "um",
+          "unit": "μm",
           "data_status": "reference"
         },
         {
@@ -2365,7 +2365,7 @@
         {
           "spec_key": "removal_rating",
           "spec_value": "25-40",
-          "unit": "um",
+          "unit": "μm",
           "data_status": "reference"
         },
         {
@@ -2441,7 +2441,7 @@
         {
           "spec_key": "removal_rating",
           "spec_value": "25-40",
-          "unit": "um",
+          "unit": "μm",
           "data_status": "reference"
         },
         {
@@ -2517,7 +2517,7 @@
         {
           "spec_key": "removal_rating",
           "spec_value": "25-40",
-          "unit": "um",
+          "unit": "μm",
           "data_status": "reference"
         },
         {
@@ -2593,7 +2593,7 @@
         {
           "spec_key": "removal_rating",
           "spec_value": "25-40",
-          "unit": "um",
+          "unit": "μm",
           "data_status": "reference"
         },
         {
@@ -2669,7 +2669,7 @@
         {
           "spec_key": "removal_rating",
           "spec_value": "25-40",
-          "unit": "um",
+          "unit": "μm",
           "data_status": "reference"
         },
         {
@@ -2745,7 +2745,7 @@
         {
           "spec_key": "removal_rating",
           "spec_value": "25-40",
-          "unit": "um",
+          "unit": "μm",
           "data_status": "reference"
         },
         {
@@ -2821,7 +2821,7 @@
         {
           "spec_key": "removal_rating",
           "spec_value": "25-40",
-          "unit": "um",
+          "unit": "μm",
           "data_status": "reference"
         },
         {
@@ -2897,7 +2897,7 @@
         {
           "spec_key": "removal_rating",
           "spec_value": "25-40",
-          "unit": "um",
+          "unit": "μm",
           "data_status": "reference"
         },
         {
@@ -2973,7 +2973,7 @@
         {
           "spec_key": "removal_rating",
           "spec_value": "20",
-          "unit": "um",
+          "unit": "μm",
           "data_status": "reference"
         },
         {
@@ -3060,7 +3060,7 @@
         {
           "spec_key": "removal_rating",
           "spec_value": "20",
-          "unit": "um",
+          "unit": "μm",
           "data_status": "reference"
         },
         {
@@ -3147,7 +3147,7 @@
         {
           "spec_key": "removal_rating",
           "spec_value": "20",
-          "unit": "um",
+          "unit": "μm",
           "data_status": "reference"
         },
         {
@@ -3234,7 +3234,7 @@
         {
           "spec_key": "removal_rating",
           "spec_value": "20",
-          "unit": "um",
+          "unit": "μm",
           "data_status": "reference"
         },
         {
@@ -3321,7 +3321,7 @@
         {
           "spec_key": "removal_rating",
           "spec_value": "20",
-          "unit": "um",
+          "unit": "μm",
           "data_status": "reference"
         },
         {
@@ -3408,7 +3408,7 @@
         {
           "spec_key": "removal_rating",
           "spec_value": "20",
-          "unit": "um",
+          "unit": "μm",
           "data_status": "reference"
         },
         {
@@ -3495,7 +3495,7 @@
         {
           "spec_key": "removal_rating",
           "spec_value": "20",
-          "unit": "um",
+          "unit": "μm",
           "data_status": "reference"
         },
         {
@@ -3588,7 +3588,7 @@
         {
           "spec_key": "removal_rating",
           "spec_value": "10",
-          "unit": "um",
+          "unit": "μm",
           "data_status": "reference"
         },
         {
@@ -3676,7 +3676,7 @@
         {
           "spec_key": "removal_rating",
           "spec_value": "10",
-          "unit": "um",
+          "unit": "μm",
           "data_status": "reference"
         },
         {
@@ -3770,7 +3770,7 @@
         {
           "spec_key": "removal_rating",
           "spec_value": "10",
-          "unit": "um",
+          "unit": "μm",
           "data_status": "reference"
         },
         {
@@ -3852,7 +3852,7 @@
         {
           "spec_key": "removal_rating",
           "spec_value": "10",
-          "unit": "um",
+          "unit": "μm",
           "data_status": "reference"
         },
         {
@@ -3940,7 +3940,7 @@
         {
           "spec_key": "removal_rating",
           "spec_value": "10",
-          "unit": "um",
+          "unit": "μm",
           "data_status": "reference"
         },
         {
@@ -4022,7 +4022,7 @@
         {
           "spec_key": "removal_rating",
           "spec_value": "10",
-          "unit": "um",
+          "unit": "μm",
           "data_status": "reference"
         },
         {
@@ -4104,7 +4104,7 @@
         {
           "spec_key": "removal_rating",
           "spec_value": "10",
-          "unit": "um",
+          "unit": "μm",
           "data_status": "reference"
         },
         {
@@ -6456,13 +6456,13 @@
         {
           "spec_key": "dimension",
           "spec_value": "48×48 (thickness 320)",
-          "unit": "inch/mm",
+          "unit": "inch / mm",
           "data_status": "verified"
         },
         {
           "spec_key": "airflow",
           "spec_value": "4000-5000",
-          "unit": "CMH",
+          "unit": "m³/h",
           "data_status": "verified"
         },
         {
