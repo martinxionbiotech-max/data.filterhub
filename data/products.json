@@ -6532,12 +6532,6 @@
           "spec_value": "610×610×70",
           "unit": "mm",
           "data_status": "verified"
-        },
-        {
-          "spec_key": "price",
-          "spec_value": "40/37/33",
-          "unit": "USD/PCS (QTY 5/10/100)",
-          "data_status": "verified"
         }
       ],
       "material": [
@@ -6585,12 +6579,6 @@
           "spec_key": "dimension",
           "spec_value": "610×610×292",
           "unit": "mm",
-          "data_status": "verified"
-        },
-        {
-          "spec_key": "price",
-          "spec_value": "84/75/67",
-          "unit": "USD/PCS (QTY 5/10/100)",
           "data_status": "verified"
         }
       ],
