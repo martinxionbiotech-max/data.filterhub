@@ -7,7 +7,8 @@
       "verified",
       "catalog-confirmed",
       "reference",
-      "pending"
+      "pending",
+      "customized"
     ],
     "categories": {
       "air_filter": {
@@ -76,7 +77,8 @@
         "nameZh": "洁净室设备"
       }
     },
-    "note": "category maps to 13 main categories; subcategory carries finer granularity. efficiency_class / dimension / material / application / MOQ are populated."
+    "note": "category maps to 13 main categories; subcategory carries finer granularity. efficiency_class / dimension / material / application / MOQ are populated.",
+    "custom_fields_note": "Fields the source catalogue did not publish (media grammage, OE brand, equipment type, dimension units) are stated as \"Customized as requirement.\" — the item is made to order, no measurement is estimated or implied."
   },
   "products": [
     {
@@ -137,7 +139,7 @@
         {
           "type": "cellulose_synthetic_blend",
           "efficiency_class": ">=99.9% (ISO 5011)",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -213,7 +215,7 @@
         {
           "type": "cellulose_synthetic_blend",
           "efficiency_class": ">=99.9% (ISO 5011)",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -296,7 +298,7 @@
         {
           "type": "cellulose_synthetic_blend",
           "efficiency_class": ">=99.9% (ISO 5011)",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -385,7 +387,7 @@
         {
           "type": "cellulose_synthetic_blend",
           "efficiency_class": ">=99.9% (ISO 5011)",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -416,20 +418,20 @@
       "oe_reference": [
         {
           "oe_number": "626095",
-          "brand": null,
-          "equipment_type": null,
+          "brand": "Customized as requirement.",
+          "equipment_type": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         },
         {
           "oe_number": "P626096",
-          "brand": null,
-          "equipment_type": null,
+          "brand": "Customized as requirement.",
+          "equipment_type": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         },
         {
           "oe_number": "P626104",
-          "brand": null,
-          "equipment_type": null,
+          "brand": "Customized as requirement.",
+          "equipment_type": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -474,7 +476,7 @@
         {
           "type": "cellulose_synthetic_blend",
           "efficiency_class": ">=99.9% (ISO 5011)",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -520,7 +522,7 @@
         {
           "spec_key": "dimension",
           "spec_value": "305 x 305 x 90 (PowerCore)",
-          "unit": null,
+          "unit": "Customized as requirement.",
           "data_status": "reference"
         },
         {
@@ -557,7 +559,7 @@
         {
           "type": "cellulose_synthetic_blend",
           "efficiency_class": ">=99.9% (ISO 5011)",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -603,7 +605,7 @@
         {
           "spec_key": "dimension",
           "spec_value": "305 x 305 x 90 (PowerCore)",
-          "unit": null,
+          "unit": "Customized as requirement.",
           "data_status": "reference"
         },
         {
@@ -640,7 +642,7 @@
         {
           "type": "cellulose_synthetic_blend",
           "efficiency_class": ">=99.9% (ISO 5011)",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -680,7 +682,7 @@
         {
           "spec_key": "dimension",
           "spec_value": "obround (PowerCore primary)",
-          "unit": null,
+          "unit": "Customized as requirement.",
           "data_status": "reference"
         },
         {
@@ -717,7 +719,7 @@
         {
           "type": "cellulose_synthetic_blend",
           "efficiency_class": ">=99.9% (ISO 5011)",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -748,20 +750,20 @@
       "oe_reference": [
         {
           "oe_number": "P623400",
-          "brand": null,
-          "equipment_type": null,
+          "brand": "Customized as requirement.",
+          "equipment_type": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         },
         {
           "oe_number": "PA32001",
-          "brand": null,
-          "equipment_type": null,
+          "brand": "Customized as requirement.",
+          "equipment_type": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         },
         {
           "oe_number": "P635170",
-          "brand": null,
-          "equipment_type": null,
+          "brand": "Customized as requirement.",
+          "equipment_type": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -769,7 +771,7 @@
         {
           "spec_key": "dimension",
           "spec_value": "305 x 305 x 90 (PowerCore)",
-          "unit": null,
+          "unit": "Customized as requirement.",
           "data_status": "reference"
         },
         {
@@ -806,7 +808,7 @@
         {
           "type": "cellulose_synthetic_blend",
           "efficiency_class": ">=99.9% (ISO 5011)",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -837,7 +839,7 @@
       "oe_reference": [
         {
           "oe_number": "2116040258",
-          "brand": null,
+          "brand": "Customized as requirement.",
           "equipment_type": "tractor",
           "data_status": "catalog-confirmed"
         }
@@ -883,7 +885,7 @@
         {
           "type": "cellulose_synthetic_blend",
           "efficiency_class": ">=99.9% (ISO 5011)",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -914,14 +916,14 @@
       "oe_reference": [
         {
           "oe_number": "AF55014",
-          "brand": null,
+          "brand": "Customized as requirement.",
           "equipment_type": "tractor / combine / ATV",
           "data_status": "catalog-confirmed"
         },
         {
           "oe_number": "AF55308",
-          "brand": null,
-          "equipment_type": null,
+          "brand": "Customized as requirement.",
+          "equipment_type": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -966,7 +968,7 @@
         {
           "type": "cellulose_synthetic_blend",
           "efficiency_class": ">=99.9% (ISO 5011)",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -997,20 +999,20 @@
       "oe_reference": [
         {
           "oe_number": "P643118",
-          "brand": null,
-          "equipment_type": null,
+          "brand": "Customized as requirement.",
+          "equipment_type": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         },
         {
           "oe_number": "P318005",
-          "brand": null,
-          "equipment_type": null,
+          "brand": "Customized as requirement.",
+          "equipment_type": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         },
         {
           "oe_number": "RE288552",
-          "brand": null,
-          "equipment_type": null,
+          "brand": "Customized as requirement.",
+          "equipment_type": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -1018,7 +1020,7 @@
         {
           "spec_key": "dimension",
           "spec_value": "obround (PowerCore compressor)",
-          "unit": null,
+          "unit": "Customized as requirement.",
           "data_status": "reference"
         },
         {
@@ -1055,7 +1057,7 @@
         {
           "type": "cellulose_synthetic_blend",
           "efficiency_class": ">=99.9% (ISO 5011)",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -1095,7 +1097,7 @@
         {
           "spec_key": "dimension",
           "spec_value": "240 x 215 x 30 (cabin cartridge)",
-          "unit": null,
+          "unit": "Customized as requirement.",
           "data_status": "reference"
         },
         {
@@ -1132,7 +1134,7 @@
         {
           "type": "nonwoven_polyester",
           "efficiency_class": "ePM2.5 (ISO 16890)",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -1171,7 +1173,7 @@
         {
           "spec_key": "dimension",
           "spec_value": "215 x 215 x 30 (cabin cartridge)",
-          "unit": null,
+          "unit": "Customized as requirement.",
           "data_status": "reference"
         },
         {
@@ -1208,7 +1210,7 @@
         {
           "type": "nonwoven_polyester",
           "efficiency_class": "ePM2.5 (ISO 16890)",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -1247,7 +1249,7 @@
         {
           "spec_key": "dimension",
           "spec_value": "215 x 215 x 30 (cabin cartridge)",
-          "unit": null,
+          "unit": "Customized as requirement.",
           "data_status": "reference"
         },
         {
@@ -1284,7 +1286,7 @@
         {
           "type": "nonwoven_polyester",
           "efficiency_class": "ePM2.5 (ISO 16890)",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -1323,7 +1325,7 @@
         {
           "spec_key": "dimension",
           "spec_value": "200 x 200 x 30 (cabin cartridge)",
-          "unit": null,
+          "unit": "Customized as requirement.",
           "data_status": "reference"
         },
         {
@@ -1360,7 +1362,7 @@
         {
           "type": "nonwoven_polyester",
           "efficiency_class": "ePM2.5 (ISO 16890)",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -1399,7 +1401,7 @@
         {
           "spec_key": "dimension",
           "spec_value": "240 x 215 x 30 (cabin cartridge)",
-          "unit": null,
+          "unit": "Customized as requirement.",
           "data_status": "reference"
         },
         {
@@ -1436,7 +1438,7 @@
         {
           "type": "nonwoven_polyester",
           "efficiency_class": "ePM2.5 (ISO 16890)",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -1475,7 +1477,7 @@
         {
           "spec_key": "dimension",
           "spec_value": "240 x 215 x 30 (cabin cartridge)",
-          "unit": null,
+          "unit": "Customized as requirement.",
           "data_status": "reference"
         },
         {
@@ -1512,7 +1514,7 @@
         {
           "type": "nonwoven_polyester",
           "efficiency_class": "ePM2.5 (ISO 16890)",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -1551,7 +1553,7 @@
         {
           "spec_key": "dimension",
           "spec_value": "240 x 215 x 30 (cabin cartridge)",
-          "unit": null,
+          "unit": "Customized as requirement.",
           "data_status": "reference"
         },
         {
@@ -1588,7 +1590,7 @@
         {
           "type": "nonwoven_polyester",
           "efficiency_class": "ePM2.5 (ISO 16890)",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -1627,7 +1629,7 @@
         {
           "spec_key": "dimension",
           "spec_value": "240 x 215 x 30 (cabin cartridge)",
-          "unit": null,
+          "unit": "Customized as requirement.",
           "data_status": "reference"
         },
         {
@@ -1664,7 +1666,7 @@
         {
           "type": "nonwoven_polyester",
           "efficiency_class": "ePM2.5 (ISO 16890)",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -1694,7 +1696,7 @@
       "oe_reference": [
         {
           "oe_number": "23401-1441",
-          "brand": null,
+          "brand": "Customized as requirement.",
           "equipment_type": "heavy-duty diesel truck",
           "data_status": "catalog-confirmed"
         }
@@ -1746,7 +1748,7 @@
         {
           "type": "cellulose_synthetic_blend",
           "efficiency_class": "4-10 um",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -1776,7 +1778,7 @@
       "oe_reference": [
         {
           "oe_number": "23401-1220",
-          "brand": null,
+          "brand": "Customized as requirement.",
           "equipment_type": "diesel vehicle",
           "data_status": "catalog-confirmed"
         }
@@ -1828,7 +1830,7 @@
         {
           "type": "cellulose_synthetic_blend",
           "efficiency_class": "4-10 um",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -1858,7 +1860,7 @@
       "oe_reference": [
         {
           "oe_number": "8159975",
-          "brand": null,
+          "brand": "Customized as requirement.",
           "equipment_type": "diesel engine",
           "data_status": "catalog-confirmed"
         }
@@ -1910,7 +1912,7 @@
         {
           "type": "cellulose_synthetic_blend",
           "efficiency_class": "4-10 um",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -1940,7 +1942,7 @@
       "oe_reference": [
         {
           "oe_number": "2169185",
-          "brand": null,
+          "brand": "Customized as requirement.",
           "equipment_type": "heavy-duty truck",
           "data_status": "catalog-confirmed"
         }
@@ -1992,7 +1994,7 @@
         {
           "type": "cellulose_synthetic_blend",
           "efficiency_class": "4-10 um",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -2022,7 +2024,7 @@
       "oe_reference": [
         {
           "oe_number": "0007733150",
-          "brand": null,
+          "brand": "Customized as requirement.",
           "equipment_type": "diesel vehicle",
           "data_status": "catalog-confirmed"
         }
@@ -2074,7 +2076,7 @@
         {
           "type": "cellulose_synthetic_blend",
           "efficiency_class": "4-10 um",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -2104,7 +2106,7 @@
       "oe_reference": [
         {
           "oe_number": "VG1540080311",
-          "brand": null,
+          "brand": "Customized as requirement.",
           "equipment_type": "heavy-duty truck / commercial vehicle",
           "data_status": "catalog-confirmed"
         }
@@ -2156,7 +2158,7 @@
         {
           "type": "cellulose_synthetic_blend",
           "efficiency_class": "4-10 um",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -2186,7 +2188,7 @@
       "oe_reference": [
         {
           "oe_number": "FS19920",
-          "brand": null,
+          "brand": "Customized as requirement.",
           "equipment_type": "diesel vehicle",
           "data_status": "catalog-confirmed"
         }
@@ -2238,7 +2240,7 @@
         {
           "type": "cellulose_synthetic_blend",
           "efficiency_class": "4-10 um",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -2268,7 +2270,7 @@
       "oe_reference": [
         {
           "oe_number": "PP879",
-          "brand": null,
+          "brand": "Customized as requirement.",
           "equipment_type": "heavy-duty vehicle",
           "data_status": "catalog-confirmed"
         }
@@ -2320,7 +2322,7 @@
         {
           "type": "cellulose_synthetic_blend",
           "efficiency_class": "4-10 um",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -2350,7 +2352,7 @@
       "oe_reference": [
         {
           "oe_number": "35330-60070",
-          "brand": null,
+          "brand": "Customized as requirement.",
           "equipment_type": "transmission",
           "data_status": "catalog-confirmed"
         }
@@ -2359,7 +2361,7 @@
         {
           "spec_key": "dimension",
           "spec_value": "pan-mounted (model-specific)",
-          "unit": null,
+          "unit": "Customized as requirement.",
           "data_status": "reference"
         },
         {
@@ -2396,7 +2398,7 @@
         {
           "type": "synthetic_fiber",
           "efficiency_class": "25-40 um",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -2426,7 +2428,7 @@
       "oe_reference": [
         {
           "oe_number": "35303-B1010",
-          "brand": null,
+          "brand": "Customized as requirement.",
           "equipment_type": "transmission",
           "data_status": "catalog-confirmed"
         }
@@ -2435,7 +2437,7 @@
         {
           "spec_key": "dimension",
           "spec_value": "pan-mounted (model-specific)",
-          "unit": null,
+          "unit": "Customized as requirement.",
           "data_status": "reference"
         },
         {
@@ -2472,7 +2474,7 @@
         {
           "type": "synthetic_fiber",
           "efficiency_class": "25-40 um",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -2502,7 +2504,7 @@
       "oe_reference": [
         {
           "oe_number": "31728-3JX0C",
-          "brand": null,
+          "brand": "Customized as requirement.",
           "equipment_type": "transmission",
           "data_status": "catalog-confirmed"
         }
@@ -2511,7 +2513,7 @@
         {
           "spec_key": "dimension",
           "spec_value": "pan-mounted (model-specific)",
-          "unit": null,
+          "unit": "Customized as requirement.",
           "data_status": "reference"
         },
         {
@@ -2548,7 +2550,7 @@
         {
           "type": "synthetic_fiber",
           "efficiency_class": "25-40 um",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -2587,7 +2589,7 @@
         {
           "spec_key": "dimension",
           "spec_value": "external / pan-mounted (Honda)",
-          "unit": null,
+          "unit": "Customized as requirement.",
           "data_status": "reference"
         },
         {
@@ -2624,7 +2626,7 @@
         {
           "type": "synthetic_fiber",
           "efficiency_class": "25-40 um",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -2663,7 +2665,7 @@
         {
           "spec_key": "dimension",
           "spec_value": "external / pan-mounted (Honda)",
-          "unit": null,
+          "unit": "Customized as requirement.",
           "data_status": "reference"
         },
         {
@@ -2700,7 +2702,7 @@
         {
           "type": "synthetic_fiber",
           "efficiency_class": "25-40 um",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -2739,7 +2741,7 @@
         {
           "spec_key": "dimension",
           "spec_value": "external / pan-mounted (Honda)",
-          "unit": null,
+          "unit": "Customized as requirement.",
           "data_status": "reference"
         },
         {
@@ -2776,7 +2778,7 @@
         {
           "type": "synthetic_fiber",
           "efficiency_class": "25-40 um",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -2815,7 +2817,7 @@
         {
           "spec_key": "dimension",
           "spec_value": "external (Subaru)",
-          "unit": null,
+          "unit": "Customized as requirement.",
           "data_status": "reference"
         },
         {
@@ -2852,7 +2854,7 @@
         {
           "type": "synthetic_fiber",
           "efficiency_class": "25-40 um",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -2891,7 +2893,7 @@
         {
           "spec_key": "dimension",
           "spec_value": "external (Isuzu)",
-          "unit": null,
+          "unit": "Customized as requirement.",
           "data_status": "reference"
         },
         {
@@ -2928,7 +2930,7 @@
         {
           "type": "synthetic_fiber",
           "efficiency_class": "25-40 um",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -2958,7 +2960,7 @@
       "oe_reference": [
         {
           "oe_number": "15208-AD200",
-          "brand": null,
+          "brand": "Customized as requirement.",
           "equipment_type": "passenger car",
           "data_status": "catalog-confirmed"
         }
@@ -3015,7 +3017,7 @@
         {
           "type": "cellulose_synthetic_blend",
           "efficiency_class": ">=99% @ 20 um",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -3102,7 +3104,7 @@
         {
           "type": "cellulose_synthetic_blend",
           "efficiency_class": ">=99% @ 20 um",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -3189,7 +3191,7 @@
         {
           "type": "cellulose_synthetic_blend",
           "efficiency_class": ">=99% @ 20 um",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -3219,7 +3221,7 @@
       "oe_reference": [
         {
           "oe_number": "93-18-6310",
-          "brand": null,
+          "brand": "Customized as requirement.",
           "equipment_type": "passenger car",
           "data_status": "catalog-confirmed"
         }
@@ -3276,7 +3278,7 @@
         {
           "type": "cellulose_synthetic_blend",
           "efficiency_class": ">=99% @ 20 um",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -3306,7 +3308,7 @@
       "oe_reference": [
         {
           "oe_number": "93175493",
-          "brand": null,
+          "brand": "Customized as requirement.",
           "equipment_type": "passenger car",
           "data_status": "catalog-confirmed"
         }
@@ -3363,7 +3365,7 @@
         {
           "type": "cellulose_synthetic_blend",
           "efficiency_class": ">=99% @ 20 um",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -3450,7 +3452,7 @@
         {
           "type": "cellulose_synthetic_blend",
           "efficiency_class": ">=99% @ 20 um",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -3480,7 +3482,7 @@
       "oe_reference": [
         {
           "oe_number": "0393-1030",
-          "brand": null,
+          "brand": "Customized as requirement.",
           "equipment_type": "passenger car",
           "data_status": "catalog-confirmed"
         }
@@ -3537,7 +3539,7 @@
         {
           "type": "cellulose_synthetic_blend",
           "efficiency_class": ">=99% @ 20 um",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -3625,7 +3627,7 @@
         {
           "type": "synthetic_fiber_wire_mesh",
           "efficiency_class": "10 um beta>=200",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -3713,7 +3715,7 @@
         {
           "type": "synthetic_fiber_wire_mesh",
           "efficiency_class": "10 um beta>=200",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -3750,13 +3752,13 @@
         {
           "oe_number": "1G-8878",
           "brand": "Bobcat",
-          "equipment_type": null,
+          "equipment_type": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         },
         {
           "oe_number": "6668819",
           "brand": "Bobcat",
-          "equipment_type": null,
+          "equipment_type": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -3807,7 +3809,7 @@
         {
           "type": "synthetic_fiber_wire_mesh",
           "efficiency_class": "10 um beta>=200",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -3889,7 +3891,7 @@
         {
           "type": "synthetic_fiber_wire_mesh",
           "efficiency_class": "10 um beta>=200",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -3977,7 +3979,7 @@
         {
           "type": "synthetic_fiber_wire_mesh",
           "efficiency_class": "10 um beta>=200",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -4059,7 +4061,7 @@
         {
           "type": "synthetic_fiber_wire_mesh",
           "efficiency_class": "10 um beta>=200",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -4089,7 +4091,7 @@
       "oe_reference": [
         {
           "oe_number": "P502561",
-          "brand": null,
+          "brand": "Customized as requirement.",
           "equipment_type": "excavator SK130-8",
           "data_status": "catalog-confirmed"
         }
@@ -4141,7 +4143,7 @@
         {
           "type": "synthetic_fiber_wire_mesh",
           "efficiency_class": "10 um beta>=200",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -4205,8 +4207,8 @@
       "filter_media": [
         {
           "type": "activated_carbon",
-          "efficiency_class": null,
-          "grammage": null,
+          "efficiency_class": "Customized as requirement.",
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -4271,7 +4273,7 @@
         {
           "type": "activated_carbon",
           "efficiency_class": "G3-G4-F5",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -4336,8 +4338,8 @@
       "filter_media": [
         {
           "type": "activated_carbon",
-          "efficiency_class": null,
-          "grammage": null,
+          "efficiency_class": "Customized as requirement.",
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -4388,7 +4390,7 @@
         {
           "spec_key": "dimension",
           "spec_value": "1.12m×50m / 1.25m×50m / 1.5m×50m / 2.0m×50m",
-          "unit": null,
+          "unit": "Customized as requirement.",
           "data_status": "verified"
         }
       ],
@@ -4403,7 +4405,7 @@
         {
           "type": "activated_carbon",
           "efficiency_class": "90-95%",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -4474,7 +4476,7 @@
         {
           "type": "micro_glass_fiber",
           "efficiency_class": "H14",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -4534,7 +4536,7 @@
         {
           "type": "synthetic_fiber",
           "efficiency_class": "M5-M6-F7",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -4586,8 +4588,8 @@
       "filter_media": [
         {
           "type": "synthetic_fiber",
-          "efficiency_class": null,
-          "grammage": null,
+          "efficiency_class": "Customized as requirement.",
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -4639,8 +4641,8 @@
       "filter_media": [
         {
           "type": "synthetic_fiber",
-          "efficiency_class": null,
-          "grammage": null,
+          "efficiency_class": "Customized as requirement.",
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -4692,8 +4694,8 @@
       "filter_media": [
         {
           "type": "synthetic_fiber",
-          "efficiency_class": null,
-          "grammage": null,
+          "efficiency_class": "Customized as requirement.",
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -4751,8 +4753,8 @@
       "filter_media": [
         {
           "type": "synthetic_fiber",
-          "efficiency_class": null,
-          "grammage": null,
+          "efficiency_class": "Customized as requirement.",
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -4810,8 +4812,8 @@
       "filter_media": [
         {
           "type": "synthetic_fiber",
-          "efficiency_class": null,
-          "grammage": null,
+          "efficiency_class": "Customized as requirement.",
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -4864,8 +4866,8 @@
       "filter_media": [
         {
           "type": "synthetic_fiber",
-          "efficiency_class": null,
-          "grammage": null,
+          "efficiency_class": "Customized as requirement.",
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -4925,7 +4927,7 @@
         {
           "type": "needle_punched",
           "efficiency_class": "G3-G4",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -4991,7 +4993,7 @@
         {
           "type": "micro_glass_fiber",
           "efficiency_class": "G3-G4",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -5051,7 +5053,7 @@
         {
           "type": "synthetic_fiber",
           "efficiency_class": "G4",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -5111,7 +5113,7 @@
         {
           "type": "synthetic_fiber",
           "efficiency_class": "G3-G4",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -5159,7 +5161,7 @@
         {
           "type": "needle_punched",
           "efficiency_class": "F5",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -5217,7 +5219,7 @@
         {
           "type": "micro_glass_fiber",
           "efficiency_class": "H13/H14",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -5270,7 +5272,7 @@
         {
           "type": "membrane",
           "efficiency_class": "U15-U17",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -5333,8 +5335,8 @@
       "filter_media": [
         {
           "type": "micro_glass_fiber",
-          "efficiency_class": null,
-          "grammage": null,
+          "efficiency_class": "Customized as requirement.",
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -5381,8 +5383,8 @@
       "filter_media": [
         {
           "type": "synthetic_fiber",
-          "efficiency_class": null,
-          "grammage": null,
+          "efficiency_class": "Customized as requirement.",
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -5435,8 +5437,8 @@
       "filter_media": [
         {
           "type": "synthetic_fiber",
-          "efficiency_class": null,
-          "grammage": null,
+          "efficiency_class": "Customized as requirement.",
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -5495,7 +5497,7 @@
         {
           "type": "synthetic_fiber",
           "efficiency_class": "MERV 8",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -5554,7 +5556,7 @@
         {
           "type": "synthetic_fiber",
           "efficiency_class": "G3",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -5608,7 +5610,7 @@
         {
           "type": "synthetic_fiber",
           "efficiency_class": "M5-M9",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -5660,8 +5662,8 @@
       "filter_media": [
         {
           "type": "micro_glass_fiber",
-          "efficiency_class": null,
-          "grammage": null,
+          "efficiency_class": "Customized as requirement.",
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -5714,7 +5716,7 @@
         {
           "type": "synthetic_fiber",
           "efficiency_class": "G1-G4",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -5778,7 +5780,7 @@
         {
           "type": "micro_glass_fiber",
           "efficiency_class": "H13/H14",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -5838,7 +5840,7 @@
         {
           "type": "micro_glass_fiber",
           "efficiency_class": "H13/H14",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -5898,7 +5900,7 @@
         {
           "type": "micro_glass_fiber",
           "efficiency_class": "H13/H14",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -5931,7 +5933,7 @@
         {
           "spec_key": "dimension",
           "spec_value": "Class II cabinet (model-specific)",
-          "unit": null,
+          "unit": "Customized as requirement.",
           "data_status": "reference"
         },
         {
@@ -5958,7 +5960,7 @@
         {
           "type": "micro_glass_fiber",
           "efficiency_class": "H13/H14",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -6006,7 +6008,7 @@
         {
           "type": "micro_glass_fiber",
           "efficiency_class": "H14",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -6070,7 +6072,7 @@
         {
           "type": "micro_glass_fiber",
           "efficiency_class": "U15-U17",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -6129,7 +6131,7 @@
         {
           "type": "synthetic_fiber",
           "efficiency_class": "G1-G4",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -6188,7 +6190,7 @@
         {
           "type": "synthetic_fiber",
           "efficiency_class": "M5-M6",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -6247,7 +6249,7 @@
         {
           "type": "synthetic_fiber",
           "efficiency_class": "F7-F9",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -6305,8 +6307,8 @@
       "filter_media": [
         {
           "type": "sintered_mesh",
-          "efficiency_class": null,
-          "grammage": null,
+          "efficiency_class": "Customized as requirement.",
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -6368,8 +6370,8 @@
       "filter_media": [
         {
           "type": "membrane",
-          "efficiency_class": null,
-          "grammage": null,
+          "efficiency_class": "Customized as requirement.",
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -6422,8 +6424,8 @@
       "filter_media": [
         {
           "type": "activated_carbon",
-          "efficiency_class": null,
-          "grammage": null,
+          "efficiency_class": "Customized as requirement.",
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -6495,7 +6497,7 @@
         {
           "type": "micro_glass_fiber",
           "efficiency_class": "H13/H14/U15",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -6549,7 +6551,7 @@
         {
           "type": "micro_glass_fiber",
           "efficiency_class": "H13/H14",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -6603,7 +6605,7 @@
         {
           "type": "micro_glass_fiber",
           "efficiency_class": "H13/H14",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -6650,8 +6652,8 @@
       "filter_media": [
         {
           "type": "activated_carbon",
-          "efficiency_class": null,
-          "grammage": null,
+          "efficiency_class": "Customized as requirement.",
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -6704,8 +6706,8 @@
       "filter_media": [
         {
           "type": "activated_carbon",
-          "efficiency_class": null,
-          "grammage": null,
+          "efficiency_class": "Customized as requirement.",
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -6769,7 +6771,7 @@
         {
           "type": "micro_glass_fiber",
           "efficiency_class": "H13/H14",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -6823,7 +6825,7 @@
         {
           "type": "micro_glass_fiber",
           "efficiency_class": "H13/H14",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -6887,7 +6889,7 @@
         {
           "type": "micro_glass_fiber",
           "efficiency_class": "H13/H14",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -6951,7 +6953,7 @@
         {
           "type": "micro_glass_fiber",
           "efficiency_class": "H13/H14",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -7015,7 +7017,7 @@
         {
           "type": "micro_glass_fiber",
           "efficiency_class": "H13/H14",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -7069,7 +7071,7 @@
         {
           "type": "synthetic_fiber",
           "efficiency_class": "F5",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -7123,7 +7125,7 @@
         {
           "type": "synthetic_fiber",
           "efficiency_class": "G4",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
@@ -7156,7 +7158,7 @@
         {
           "spec_key": "dimension",
           "spec_value": "single-person (model-specific)",
-          "unit": null,
+          "unit": "Customized as requirement.",
           "data_status": "reference"
         },
         {
@@ -7183,7 +7185,7 @@
         {
           "type": "micro_glass_fiber",
           "efficiency_class": "H13/H14",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -7243,7 +7245,7 @@
         {
           "type": "micro_glass_fiber",
           "efficiency_class": "H13/H14",
-          "grammage": null,
+          "grammage": "Customized as requirement.",
           "data_status": "reference"
         }
       ],
@@ -7300,8 +7302,8 @@
       "filter_media": [
         {
           "type": "micro_glass_fiber",
-          "efficiency_class": null,
-          "grammage": null,
+          "efficiency_class": "Customized as requirement.",
+          "grammage": "Customized as requirement.",
           "data_status": "catalog-confirmed"
         }
       ],
